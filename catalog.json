@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/saeidsm/Raw-sam",
+  "entrypoint": "SKILL.md",
+  "user_guide": "docs/user-guide.fa.md",
+  "handoff_prompt": "docs/handoff-prompt.fa.md",
+  "projects": {
+    "p-7c21": {
+      "label": "کتابخانه",
+      "contract_id": "c-71af"
+    },
+    "p-a963": {
+      "label": "کشاورزی",
+      "contract_id": "c-a641"
+    },
+    "p-49bc": {
+      "label": "اسکای‌لایت دو ساختمان",
+      "contract_id": "c-49bc"
+    }
+  },
+  "latest": {
+    "p-7c21": "data/p-7c21/1405-08-25/r2/snapshot.json",
+    "p-a963": "data/p-a963/1405-08-25/r2/snapshot.json",
+    "p-49bc": "data/p-49bc/1405-08-25/r2/snapshot.json"
+  },
+  "finance": "data/shared/1405-08-25/r2/finance.json",
+  "decisions": "data/shared/1405-08-25/r2/decisions.json",
+  "sources": "sources.json",
+  "history": [
+    {
+      "record_id": "r-f5629b5db4a7fa68",
+      "path": "data/history/1405-08-04/f5629b5db4a7fa68.json",
+      "period": "1405-08-04",
+      "revision": "v2-imported",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-e4419b9fbf77e07f",
+      "path": "data/history/1405-08-04/e4419b9fbf77e07f.json",
+      "period": "1405-08-04",
+      "revision": "v3-imported",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-74eb9b2355a54716",
+      "path": "data/history/1405-08-04/74eb9b2355a54716.json",
+      "period": "1405-08-04",
+      "revision": "v4-imported",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-3cdd752d0cb92f83",
+      "path": "data/history/1405-08-04/3cdd752d0cb92f83.json",
+      "period": "1405-08-04",
+      "revision": "v5-imported",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-389b470d62300bb9",
+      "path": "data/history/1405-08-04/389b470d62300bb9.json",
+      "period": "1405-08-04",
+      "revision": "v6-imported",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-9b214aa071ff30cc",
+      "path": "data/history/1405-08-04/9b214aa071ff30cc.json",
+      "period": "1405-08-04",
+      "revision": "v6-imported",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-c3e5af7e9c6328e2",
+      "path": "data/history/1405-08-10/c3e5af7e9c6328e2.json",
+      "period": "1405-08-10",
+      "revision": "v7-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-cd344982013c9869",
+      "path": "data/history/1405-08-10/cd344982013c9869.json",
+      "period": "1405-08-10",
+      "revision": "v8-pptx-library",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-b98c99f07e953153",
+      "path": "data/history/1405-08-10/b98c99f07e953153.json",
+      "period": "1405-08-10",
+      "revision": "v8-pptx-library",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-90f33dc450b2d1c0",
+      "path": "data/history/1405-08-10/90f33dc450b2d1c0.json",
+      "period": "1405-08-10",
+      "revision": "v9-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-ff02325f883787b5",
+      "path": "data/history/1405-08-18/ff02325f883787b5.json",
+      "period": "1405-08-18",
+      "revision": "v1-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-2c69522b3b7e7fd4",
+      "path": "data/history/1405-08-18/2c69522b3b7e7fd4.json",
+      "period": "1405-08-18",
+      "revision": "v1-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-a53d351e30b1cbc0",
+      "path": "data/history/1405-08-18/a53d351e30b1cbc0.json",
+      "period": "1405-08-18",
+      "revision": "v2-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-d7aecf322f30618a",
+      "path": "data/history/1405-08-18/d7aecf322f30618a.json",
+      "period": "1405-08-18",
+      "revision": "v3-adram-scope-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-70075f2748d8b912",
+      "path": "data/history/1405-08-25/70075f2748d8b912.json",
+      "period": "1405-08-25",
+      "revision": "v1-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-0c74a69c494f5f00",
+      "path": "data/history/1405-08-25/0c74a69c494f5f00.json",
+      "period": "1405-08-25",
+      "revision": "v1-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-90c891f725a8b9a6",
+      "path": "data/history/1405-08-25/90c891f725a8b9a6.json",
+      "period": "1405-08-25",
+      "revision": "v1-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-c051540188da7e0f",
+      "path": "data/history/1405-08-25/c051540188da7e0f.json",
+      "period": "1405-08-25",
+      "revision": "v1-pptx",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-8946ceafac6c6ddd",
+      "path": "data/history/1405-08-25/8946ceafac6c6ddd.json",
+      "period": "1405-08-25",
+      "revision": "v2-finance-pptx",
+      "qa_passed": true
+    }
+  ],
+  "templates": {
+    "p-7c21": "templates/p-7c21/1405-08-25/r2/reference.pptx",
+    "p-a963": "templates/p-a963/1405-08-25/r2/reference.pptx"
+  },
+  "outputs": [
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-25",
+      "revision": "r2",
+      "path": "outputs/p-7c21/1405-08-25/r2/آران‌سیج_کتابخانه_1405-08-25-r2.pptx",
+      "sha256": "99a7139a57c5a7b38fa0fa610ff2072c331803133ecb0d07bc48de4134d0a053"
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-25",
+      "revision": "r2",
+      "path": "outputs/p-a963/1405-08-25/r2/آدرم_کشاورزی_1405-08-25-r2.pptx",
+      "sha256": "61d006be219e6cba89dff37392d9f257cdac10dd75fe44a08bcd4497020bae0e"
+    }
+  ],
+  "modules": {
+    "management_reports": {
+      "status": "ready",
+      "skill": "skills/management-reports/SKILL.md"
+    },
+    "msp_update": {
+      "status": "awaiting_handoff"
+    },
+    "employer_excel": {
+      "status": "awaiting_handoff"
+    },
+    "site_export": {
+      "status": "awaiting_input"
+    }
+  },
+  "contractors": {
+    "k-31db": "آران‌سیج",
+    "k-482c": "آدرم"
+  },
+  "source_tables": [
+    {
+      "source_id": "s-33923a7bcd6407c1",
+      "path": "data/source-tables/s-33923a7bcd6407c1.json",
+      "role": "library"
+    },
+    {
+      "source_id": "s-fb4bd5f75487dfe4",
+      "path": "data/source-tables/s-fb4bd5f75487dfe4.json",
+      "role": "agriculture"
+    },
+    {
+      "source_id": "s-1e540fb43b7f757b",
+      "path": "data/source-tables/s-1e540fb43b7f757b.json",
+      "role": "skylight"
+    }
+  ],
+  "observations": "data/shared/1405-08-25/r2/observations.json",
+  "qa": "data/shared/1405-08-25/r2/qa.json",
+  "weekly_reports": [
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-04",
+      "revision": "v6-imported",
+      "path": "outputs/p-a963/1405-08-04/v6-imported/آدرم_کشاورزی_1405-08-04.pdf",
+      "sha256": "ac297bdc329870870587065c247981fe62272cd07737797b3a1829051a7949c6",
+      "format": "pdf",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-04",
+      "revision": "v6-imported",
+      "path": "outputs/p-7c21/1405-08-04/v6-imported/آران‌سیج_کتابخانه_1405-08-04.pdf",
+      "sha256": "7fc982d4697209b16e889cd330e84f9fc9951f25a25c2c28b3d4165d2b844f0f",
+      "format": "pdf",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-10",
+      "revision": "v9-pptx",
+      "path": "outputs/p-a963/1405-08-10/v9-pptx/آدرم_کشاورزی_1405-08-10.pptx",
+      "sha256": "d05fb7c686621c87c1c0abd0f69ad95e7a9b5e9d19734b3af050941dddda735e",
+      "format": "pptx",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-10",
+      "revision": "v9-pptx",
+      "path": "outputs/p-7c21/1405-08-10/v9-pptx/آران‌سیج_کتابخانه_1405-08-10.pptx",
+      "sha256": "83fb56961ae2aa8290dc4ba56edacc91e91661d0dfd76aa7da8bb40f29ae0dfe",
+      "format": "pptx",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-18",
+      "revision": "v3-adram-scope-pptx",
+      "path": "outputs/p-a963/1405-08-18/v3-adram-scope-pptx/آدرم_کشاورزی_1405-08-18.pptx",
+      "sha256": "d0c04a0ac175d00cd07dec505dcd7640983b58668641d45a6b58edee63709481",
+      "format": "pptx",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-18",
+      "revision": "v2-pptx",
+      "path": "outputs/p-7c21/1405-08-18/v2-pptx/آران‌سیج_کتابخانه_1405-08-18.pptx",
+      "sha256": "a86a493e710e7294a15eb426864a8011e5dfbe774fb2ac9b9af30ce573ad2960",
+      "format": "pptx",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-25",
+      "revision": "v2-finance-pptx",
+      "path": "outputs/p-a963/1405-08-25/r2/آدرم_کشاورزی_1405-08-25-r2.pptx",
+      "sha256": "61d006be219e6cba89dff37392d9f257cdac10dd75fe44a08bcd4497020bae0e",
+      "format": "pptx",
+      "historical_qa_passed": true
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-25",
+      "revision": "v2-finance-pptx",
+      "path": "outputs/p-7c21/1405-08-25/r2/آران‌سیج_کتابخانه_1405-08-25-r2.pptx",
+      "sha256": "99a7139a57c5a7b38fa0fa610ff2072c331803133ecb0d07bc48de4134d0a053",
+      "format": "pptx",
+      "historical_qa_passed": true
+    }
+  ],
+  "publication_status": "uploading_assets"
+}

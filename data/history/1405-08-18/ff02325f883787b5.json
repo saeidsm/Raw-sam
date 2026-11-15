@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "record_id": "r-ff02325f883787b5",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-18",
+  "revision": "v1-pptx",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963",
+    "p-49bc"
+  ],
+  "payload": {
+    "report_date": "1405-08-18",
+    "workbooks_version": "1405-08-18",
+    "field_date": "1405-08-09",
+    "status": "verified",
+    "revision": "v1",
+    "settings": {
+      "library_previous": 97.05262698912794,
+      "library_crew": 33,
+      "library_required": 50,
+      "library_required_min": 40,
+      "agriculture_crew": 70,
+      "agriculture_required": 112,
+      "confirmed": true,
+      "confirmation_scope": "Previous published library percentage retained; actual crews33/70; library required40to50; agriculture clampglass0; yellow dismantlingnotstarted; twocolor notinstructed/notproduced. Carryover activity completion not reconfirmed, use lastconfirmedstatus dated10Aban conditionally.",
+      "agriculture_required_basis": "92 active18Aban +17 last confirmedoverdue +3 southbricksubstrate remaining2130kg withplanend18Aban; conditionalcapacity, notnewfieldconfirmation"
+    },
+    "library": {
+      "overall": 97.48037243984152,
+      "previous_published_retained": 97.05262698912794,
+      "rejected_workbook_previous": 97.12204183897322,
+      "crew_actual": 33,
+      "crew_required_range": [
+        40,
+        50
+      ],
+      "glass_installed": 7082
+    },
+    "agriculture": {
+      "overall": 69.17456558098085,
+      "previous": 68.21942362944561,
+      "crew_actual": 70,
+      "crew_required_conditional": 112,
+      "handling": 10,
+      "active_plan": 92,
+      "last_confirmed_carryover": 17,
+      "new_carryover_row23": 3,
+      "glass_curtain_installed": 2654.57,
+      "glass_curtain_total": 5005,
+      "yellow_produced": 4378,
+      "yellow_dismantle_remaining": 600,
+      "two_color_instructed": false,
+      "two_color_produced": 0,
+      "two_color_received": 0,
+      "clamp_installed": 0
+    },
+    "outputs": {
+      "library": null,
+      "agriculture": null
+    }
+  }
+}

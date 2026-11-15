@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "source_id": "s-f38b75ea21b14c10",
+      "path": "raw/f38b75ea21b14c10/source.pdf",
+      "sha256": "f38b75ea21b14c10bfed4f5485c72d49c3cefa18664e54e8b57866ba09f073c7",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-1c1bcd419220f8d5",
+      "path": "raw/1c1bcd419220f8d5/source.pdf",
+      "sha256": "1c1bcd419220f8d5a9eade19317582556b0a87ee7392d320262e06afd05e4629",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-49dbf916f496afc7",
+      "path": "raw/49dbf916f496afc7/source.pdf",
+      "sha256": "49dbf916f496afc72b6817711c6989cd770d563b28685a06aa5151bb67d94817",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-9757bb7ee5eac393",
+      "path": "raw/9757bb7ee5eac393/source.pdf",
+      "sha256": "9757bb7ee5eac3936d2ca66114e8d405ec27fe31791f7e9c87c16d2cc55be67d",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-54f4961f1246f211",
+      "path": "raw/54f4961f1246f211/source.pdf",
+      "sha256": "54f4961f1246f211ed82fc6426f2fb1e50c4906490ea062e6f5a7630b59a92f7",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-80726cfd3a6a3fd6",
+      "path": "raw/80726cfd3a6a3fd6/source.pdf",
+      "sha256": "80726cfd3a6a3fd65b69c6d5601269e916285e8433fa78aafc24be69dd8caea1",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-8bef729cdb67f1fd",
+      "path": "raw/8bef729cdb67f1fd/source.pdf",
+      "sha256": "8bef729cdb67f1fd619d70dfe24bb1822bc6147149943647068f391b67010749",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-6ad464be786d8050",
+      "path": "raw/6ad464be786d8050/source.pdf",
+      "sha256": "6ad464be786d805045de0ee0e748407ab20fe8ce8dc562749203b27274b3f7e3",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-2e3093a7052a97f9",
+      "path": "raw/2e3093a7052a97f9/source.pdf",
+      "sha256": "2e3093a7052a97f91d808b745a5654c98fcb445f41a146b40766dd98342e6dff",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-00c9092f704f9bfe",
+      "path": "raw/00c9092f704f9bfe/source.pdf",
+      "sha256": "00c9092f704f9bfe73259143ab3b7b6e0f89bdca0a6b2c38aadd62f66e196227",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-6a42ce3376afa1f1",
+      "path": "raw/6a42ce3376afa1f1/source.xlsx",
+      "sha256": "6a42ce3376afa1f163b54c3795e652756f4b16638c95f436a0ba37cf11e2da93",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-1e2a0b8e881e9c13",
+      "path": "raw/1e2a0b8e881e9c13/source.xlsx",
+      "sha256": "1e2a0b8e881e9c13142a0f1e5c7f9d6583a63a05cd6afebb9008250e4c6f2259",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-56251489ca1911c5",
+      "path": "raw/56251489ca1911c5/source.pdf",
+      "sha256": "56251489ca1911c5b0de988284586fac693e21abdabc151cfbb30e71508beb7c",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-1fdc9c9f8583c7ab",
+      "path": "raw/1fdc9c9f8583c7ab/source.xlsx",
+      "sha256": "1fdc9c9f8583c7ab05077744a18841bb2285f55a23880f2b841685e39ad5f4ff",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-336cc08103b97e89",
+      "path": "raw/336cc08103b97e89/source.pdf",
+      "sha256": "336cc08103b97e898faeab2e14f0112d3a854fbd223f25cbf3ca259dc5fa9b58",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-d80210df4a081cda",
+      "path": "raw/d80210df4a081cda/source.pdf",
+      "sha256": "d80210df4a081cda980cb8a34e2cb3d0ea5043b1ea7efd1d560f7f8690b794c1",
+      "format": "pdf",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-40a64b631c69eb60",
+      "path": "raw/40a64b631c69eb60/source.png",
+      "sha256": "40a64b631c69eb6021b8f6cf2a55ccf81ec05f69bb64e89d4741142f373e2240",
+      "format": "png",
+      "periods": [
+        "1405-08-04"
+      ]
+    },
+    {
+      "source_id": "s-6f2ec1f7a5b0e2a4",
+      "path": "raw/6f2ec1f7a5b0e2a4/source.xlsx",
+      "sha256": "6f2ec1f7a5b0e2a4f5f4760f50d80f028ea68ce3c7971aaaf95f0c2db54cac81",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-10",
+        "1405-08-11"
+      ]
+    },
+    {
+      "source_id": "s-78360f84f5349407",
+      "path": "raw/78360f84f5349407/source.xlsx",
+      "sha256": "78360f84f5349407ad02ade363443dad82e0dc74ee027749f43bfc92b545f6c3",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-10",
+        "1405-08-11",
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-12906345edc65c7f",
+      "path": "raw/12906345edc65c7f/source.xlsx",
+      "sha256": "12906345edc65c7ff26354e9485b9e3e056da6073f5c2ea6595d9dc8269d4c86",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-10",
+        "1405-08-11"
+      ]
+    },
+    {
+      "source_id": "s-fb6389156b2d6dca",
+      "path": "raw/fb6389156b2d6dca/source.pdf",
+      "sha256": "fb6389156b2d6dcae498ddef0295317fe5f5064e5b6526164619d286058bfb76",
+      "format": "pdf",
+      "periods": [
+        "1405-08-10",
+        "1405-08-11",
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-c3c86fe48699ddc6",
+      "path": "raw/c3c86fe48699ddc6/source.pdf",
+      "sha256": "c3c86fe48699ddc6c13ad9de6513611857d15aed3296cbc9824be6fc1b0ca187",
+      "format": "pdf",
+      "periods": [
+        "1405-08-10",
+        "1405-08-11",
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-de71f1bc481d586c",
+      "path": "raw/de71f1bc481d586c/source.jpg",
+      "sha256": "de71f1bc481d586c45c87823ad9d5bc86e70c093a60669dcb946c5dc370277a9",
+      "format": "jpg",
+      "periods": [
+        "1405-08-10"
+      ]
+    },
+    {
+      "source_id": "s-9a30aa034717eb8a",
+      "path": "raw/9a30aa034717eb8a/source.jpg",
+      "sha256": "9a30aa034717eb8a578134ee07286fe4492c79db62a76c4b07634e27f1fc5825",
+      "format": "jpg",
+      "periods": [
+        "1405-08-10"
+      ]
+    },
+    {
+      "source_id": "s-85ab815bcecf1009",
+      "path": "raw/85ab815bcecf1009/source.xlsx",
+      "sha256": "85ab815bcecf1009a8bc2655156e3578304391eef6a3d50d46b7d51f067fa5d0",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-b5613ae5c8ca794f",
+      "path": "raw/b5613ae5c8ca794f/source.xlsx",
+      "sha256": "b5613ae5c8ca794f1f094b4e5d7236ad307c395c3bdc3f9ccc627afcb28a97cc",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-8fdbaede976bb59a",
+      "path": "raw/8fdbaede976bb59a/source.pdf",
+      "sha256": "8fdbaede976bb59ad2bec0916f9d74975bd2f7b121d1460adf87baedbb7de526",
+      "format": "pdf",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-cfd9984b7d87cf70",
+      "path": "raw/cfd9984b7d87cf70/source.pdf",
+      "sha256": "cfd9984b7d87cf70ef27e843afc9b29ec34bbd5523a1c488a9d3d412f458875f",
+      "format": "pdf",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-f201dbd575f14ed2",
+      "path": "raw/f201dbd575f14ed2/source.xlsx",
+      "sha256": "f201dbd575f14ed2b8db25eed6e605c359e77551f3cc8ace1a5ce814685aff7f",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-9ece2f5a6d9bf828",
+      "path": "raw/9ece2f5a6d9bf828/source.xlsx",
+      "sha256": "9ece2f5a6d9bf8281963ef4a008d4a7341366a8413cea12dc2580bb9f41509ce",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-7bfa2bcfee6c72ee",
+      "path": "raw/7bfa2bcfee6c72ee/source.pdf",
+      "sha256": "7bfa2bcfee6c72eec2a34e7ee7c3b334be2f4e5b3dab40fcd849f37de8851ee5",
+      "format": "pdf",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-83bfaa77f132bafe",
+      "path": "raw/83bfaa77f132bafe/source.pdf",
+      "sha256": "83bfaa77f132bafe2c921adececf209381f20798ebc00f99563f9a4564f31d7c",
+      "format": "pdf",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-ebf3080b86e48738",
+      "path": "raw/ebf3080b86e48738/source.pdf",
+      "sha256": "ebf3080b86e487382835658e42d2145a469abbfa52740a7bf5a88a065c5cbb47",
+      "format": "pdf",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-bf1cf83491c615b3",
+      "path": "raw/bf1cf83491c615b3/source.pdf",
+      "sha256": "bf1cf83491c615b3af623403fe5f9b16fd14f79b3aee37848c262a373830050f",
+      "format": "pdf",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-f2e37940bedd86d6",
+      "path": "raw/f2e37940bedd86d6/source.mpp",
+      "sha256": "f2e37940bedd86d60e72596b86e9d7966d905ab29c55a1f6eba53501cbc1dd66",
+      "format": "mpp",
+      "periods": [
+        "1405-08-18"
+      ]
+    },
+    {
+      "source_id": "s-33923a7bcd6407c1",
+      "path": "raw/33923a7bcd6407c1/source.xlsx",
+      "sha256": "33923a7bcd6407c1fc261e7aa059225d6d79b0937740d2738aa03ed92ed804bc",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-fb4bd5f75487dfe4",
+      "path": "raw/fb4bd5f75487dfe4/source.xlsx",
+      "sha256": "fb4bd5f75487dfe45f62bd63457fa1571e84c670bc1bd13ddd0b5efea3decd23",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-1e540fb43b7f757b",
+      "path": "raw/1e540fb43b7f757b/source.xlsx",
+      "sha256": "1e540fb43b7f757baed9a783972eae16ff1c4f11cf26bd684ea21b587c91cedd",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-d5cb1d61c25bf4bd",
+      "path": "raw/d5cb1d61c25bf4bd/source.xlsx",
+      "sha256": "d5cb1d61c25bf4bd9753b3c3b74c471746297f2904af2da12689f08a6a5fa53e",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-8f068582307952b7",
+      "path": "raw/8f068582307952b7/source.xlsx",
+      "sha256": "8f068582307952b7f713155f03f3ba59454e49f85ce9e2981a6cb7ad17d73419",
+      "format": "xlsx",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-26da473bfd766620",
+      "path": "raw/26da473bfd766620/source.pdf",
+      "sha256": "26da473bfd7666208945b1f285851a17ff2d276291d0647ed040422d040ea394",
+      "format": "pdf",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-6b3e8543989ac120",
+      "path": "raw/6b3e8543989ac120/source.pdf",
+      "sha256": "6b3e8543989ac120b98e76de3366139308e50d32717c40133f3996647a66eb5c",
+      "format": "pdf",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-934d3f39cedacd16",
+      "path": "raw/934d3f39cedacd16/source.pdf",
+      "sha256": "934d3f39cedacd16adb8e173203ad57a6f60ea2e5a354ec51334278687ad8bda",
+      "format": "pdf",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-6554911b2c5401fd",
+      "path": "raw/6554911b2c5401fd/source.pdf",
+      "sha256": "6554911b2c5401fd0e3cc003ed85c788e9182e5f2a62b21be74af4263414cc0d",
+      "format": "pdf",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-7629b98a7f273cfe",
+      "path": "raw/7629b98a7f273cfe/source.pdf",
+      "sha256": "7629b98a7f273cfe8242beac96874eb5291b49feaab4b85d29b87519f2a99d50",
+      "format": "pdf",
+      "periods": [
+        "1405-08-25"
+      ]
+    },
+    {
+      "source_id": "s-1571d486ecc3d74d",
+      "path": "raw/1571d486ecc3d74d/source.pdf",
+      "sha256": "1571d486ecc3d74dbeb8bd13dfc5f224fc40f75fd1bc3c3461f112201c793c99",
+      "format": "pdf",
+      "periods": [
+        "1405-08-25"
+      ],
+      "as_of": "1405-08-23"
+    }
+  ]
+}

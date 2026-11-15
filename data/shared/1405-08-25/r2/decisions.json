@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "period": "1405-08-25",
+  "decisions": [
+    {
+      "id": "d-001",
+      "topic": "actual_workforce",
+      "status": "confirmed",
+      "values": {
+        "p-7c21": 25,
+        "p-a963": 40
+      }
+    },
+    {
+      "id": "d-002",
+      "topic": "handrail_added_scope",
+      "project_id": "p-7c21",
+      "status": "confirmed",
+      "value": 60,
+      "unit": "m2",
+      "reason": "تبدیل فلاورباکس به نرده؛ دامنه افزوده"
+    },
+    {
+      "id": "d-003",
+      "topic": "curtain_glass_total",
+      "project_id": "p-a963",
+      "status": "confirmed",
+      "value": 5005,
+      "unit": "m2"
+    },
+    {
+      "id": "d-004",
+      "topic": "iron_payment_is_adjustment_advance",
+      "status": "confirmed",
+      "rule": "مابه‌التفاوت آهن علی‌الحساب تعدیل است؛ پرداخت واقعی هنگام تسویه تعدیل کسر شود، نه مطالبه مستقل."
+    },
+    {
+      "id": "d-005",
+      "topic": "adjustment_advance_actual_payment",
+      "status": "user_confirmed",
+      "contract_id": "c-a641",
+      "adjustment_number": 1,
+      "actual_paid_IRR": 140000000000,
+      "payment_date": null,
+      "approved_IRR": 201266728236,
+      "remaining_approved_IRR": 61266728236,
+      "basis": "User confirmed14 billion toman paid and about6 billion remaining; exact balance computed from approved amount. Deduct payments at adjustment1 settlement."
+    }
+  ]
+}

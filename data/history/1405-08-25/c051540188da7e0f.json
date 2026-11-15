@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "record_id": "r-c051540188da7e0f",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-25",
+  "revision": "v1-pptx",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963"
+  ],
+  "payload": {
+    "library_crew": 25,
+    "agriculture_crew": 40,
+    "handrail_remaining": 60,
+    "handrail_added_scope": 60,
+    "handrail_reason": "تبدیل فلاورباکس به نرده",
+    "agri_field_remaining": 2198.33,
+    "agri_curtain_total": 5005,
+    "confirmed": true
+  }
+}

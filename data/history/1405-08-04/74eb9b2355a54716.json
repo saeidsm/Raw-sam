@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "record_id": "r-74eb9b2355a54716",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-04",
+  "revision": "v4-imported",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-a963"
+  ],
+  "payload": {
+    "source": "raw/336cc08103b97e89/source.pdf",
+    "sourceSha256": "336cc08103b97e898faeab2e14f0112d3a854fbd223f25cbf3ca259dc5fa9b58",
+    "periodStart": "1405/07/27",
+    "periodEnd": "1405/08/04",
+    "glassByFacePrevious": [
+      151.67,
+      236.54,
+      836.11,
+      801.26,
+      0
+    ],
+    "glassByFaceCurrent": [
+      187.27,
+      288.42,
+      966.28,
+      801.26,
+      0
+    ],
+    "glassByFaceChange": [
+      35.6,
+      51.88,
+      130.17,
+      0,
+      0
+    ],
+    "glassTotal": 2243.23,
+    "glassPrevious": 2025.58,
+    "glassChange": 217.65,
+    "concreteCurrent": 862.72,
+    "concretePrevious": 495.26,
+    "concreteChange": 367.46,
+    "profileInstalled": 4385,
+    "brickInstalled": 975,
+    "unchangedOfficialTotalPercent": 61.7,
+    "officialPercentDate": "1405/07/21",
+    "planExecutionDemandAt1405_08_04": 94,
+    "libraryPdfSha256Before": "c8125a536437998a44b949e19c6ffe951874dc89be01991467e4ee5237ea0d84"
+  }
+}

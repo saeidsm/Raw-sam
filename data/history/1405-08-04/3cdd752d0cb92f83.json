@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "record_id": "r-3cdd752d0cb92f83",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-04",
+  "revision": "v5-imported",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-a963"
+  ],
+  "payload": {
+    "percentTotal": 65.95004677224306,
+    "stages": [
+      77.93163920253735,
+      74.01298886856159,
+      51.515627456495395
+    ],
+    "periodGainPercentagePoints": 1.4698251896730685,
+    "concreteTotalNewScope": 8050,
+    "concreteInstalled": 862.72,
+    "concreteRemaining": 7187.28,
+    "curveProvidedByUser": true,
+    "curvePeak": 106,
+    "curveDailyAverage": 85.6,
+    "curvePersonDays": 5995,
+    "fixedHandlingStaff": 10,
+    "librarySha256": "c8125a536437998a44b949e19c6ffe951874dc89be01991467e4ee5237ea0d84"
+  }
+}

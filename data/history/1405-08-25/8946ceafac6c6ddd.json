@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "record_id": "r-8946ceafac6c6ddd",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-25",
+  "revision": "v2-finance-pptx",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963"
+  ],
+  "payload": {
+    "as_of": "1405-08-23",
+    "currency": "IRR",
+    "source_sha256": "1571d486ecc3d74dbeb8bd13dfc5f224fc40f75fd1bc3c3461f112201c793c99",
+    "contracts": {
+      "c-71af": {
+        "project_id": "p-7c21",
+        "contract_ref": "P41",
+        "initial_amount": 1395000000000,
+        "statement": {
+          "number": 10,
+          "submitted": 1529008045470,
+          "supervision_reviewed": 1125829227294,
+          "employer_approved": null,
+          "submitted_date": "1405-08-12",
+          "reviewed_date": "1405-08-21"
+        },
+        "adjustment": {
+          "number": 1,
+          "submitted": 140533777088,
+          "supervision_reviewed": 138332430304,
+          "employer_approved": null,
+          "submitted_date": "1405-06-14",
+          "reviewed_date": "1405-06-17"
+        },
+        "payments": null,
+        "payable_claims": null
+      },
+      "c-49bc": {
+        "project_ids": [
+          "p-7c21",
+          "p-a963"
+        ],
+        "contract_ref": "P49",
+        "initial_amount": 639123712915,
+        "statement": {
+          "number": 7,
+          "submitted": 796467547987,
+          "supervision_reviewed": 782248335548,
+          "employer_approved": null,
+          "submitted_date": "1405-07-13",
+          "reviewed_date": "1405-07-19"
+        },
+        "adjustment": {
+          "number": 1,
+          "submitted": 108769707939,
+          "supervision_reviewed": 108769707939,
+          "employer_approved": null,
+          "submitted_date": "1405-06-21",
+          "reviewed_date": "1405-06-25"
+        },
+        "payments": null,
+        "payable_claims": null
+      },
+      "c-a641": {
+        "project_id": "p-a963",
+        "contract_ref": "P42",
+        "initial_amount": 1999251575995,
+        "statement": {
+          "number": 7,
+          "submitted": 2204141891946,
+          "supervision_reviewed": 1925145253654,
+          "employer_approved": 1911657753651,
+          "submitted_date": "1405-08-02",
+          "reviewed_date": "1405-08-11",
+          "approved_date": "1405-08-17"
+        },
+        "adjustment": {
+          "number": 1,
+          "statement_numbers": [
+            3,
+            6
+          ],
+          "submitted": 360712377232,
+          "supervision_reviewed": 363355739849,
+          "employer_approved": null,
+          "submitted_date": "1405-07-22",
+          "reviewed_date": "1405-07-26",
+          "status": "under_employer_review"
+        },
+        "adjustment_advance_iron": {
+          "adjustment_number": 1,
+          "employer_approved": 201266728236,
+          "approved_date": "1405-08-16",
+          "actual_paid": 140000000000,
+          "payment_date": null,
+          "remaining_approved_advance": 61266728236,
+          "basis": "User confirmed14 billion toman paid; balance described as about6 billion; exact balance calculated against approved amount",
+          "settlement_rule": "Deduct actual adjustment-advance payments from adjustment1 settlement; no independent additive entitlement"
+        },
+        "payments": [
+          {
+            "payment_id": "pay-iron-001",
+            "amount": 140000000000,
+            "date": null,
+            "allocation": "adjustment_advance",
+            "adjustment_number": 1,
+            "source": "user_confirmation"
+          }
+        ],
+        "payable_claims": null
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "record_id": "r-2c69522b3b7e7fd4",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-18",
+  "revision": "v1-pptx",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963",
+    "p-49bc"
+  ],
+  "payload": {
+    "library_previous": 97.05262698912794,
+    "library_crew": 33,
+    "library_required": 50,
+    "library_required_min": 40,
+    "agriculture_crew": 70,
+    "agriculture_required": 112,
+    "confirmed": true,
+    "confirmation_scope": "Previous published library percentage retained; actual crews33/70; library required40to50; agriculture clampglass0; yellow dismantlingnotstarted; twocolor notinstructed/notproduced. Carryover activity completion not reconfirmed, use lastconfirmedstatus dated10Aban conditionally.",
+    "agriculture_required_basis": "92 active18Aban +17 last confirmedoverdue +3 southbricksubstrate remaining2130kg withplanend18Aban; conditionalcapacity, notnewfieldconfirmation"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "record_id": "r-90f33dc450b2d1c0",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-10",
+  "revision": "v9-pptx",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963",
+    "p-49bc"
+  ],
+  "payload": {
+    "report_date": "1405-08-10",
+    "workbooks_version": "1405-08-11",
+    "field_date": "1405-08-09",
+    "library": {
+      "overall": 97.05262698912794,
+      "previous_corrected": 96.5046403773264,
+      "crew_actual": 32,
+      "crew_required": 50,
+      "glass_installed_excel": 6643,
+      "field_remaining": {
+        "curtain": 329,
+        "clamp": 499,
+        "handrail": 30
+      },
+      "agriculture_clamp": {
+        "installed": 0,
+        "total": 431,
+        "remaining": 431
+      },
+      "field_table": {
+        "source": "photo_2026-11-01_18-22-18.jpg",
+        "curtain_remaining_rows": [
+          233,
+          33,
+          2,
+          9,
+          32,
+          6,
+          12
+        ],
+        "curtain_total_confirmed": 329,
+        "glass_remaining_total": 858,
+        "concrete_remaining_total": 419
+      }
+    },
+    "agriculture": {
+      "overall": 68.21942362944561,
+      "previous_corrected": 67.21281697023646,
+      "crew_actual": 54,
+      "crew_current_plan": 95,
+      "crew_carryover": 17,
+      "carryover_rows": [
+        3,
+        5,
+        34,
+        35,
+        36,
+        37
+      ],
+      "crew_required_execution": 112,
+      "crew_handling": 10,
+      "crew_total_capacity": 122,
+      "glass_scope": {
+        "source": "user correction confirmed after v8",
+        "curtain_total_m2": 5005,
+        "additional_systems": {
+          "handrail": 432,
+          "opening": 95,
+          "clamp": 431,
+          "skylight_roof": 350,
+          "skylight_ground": 265
+        },
+        "installers": {
+          "curtain": "Adram",
+          "handrail": "Adram",
+          "opening": "Adram",
+          "clamp": "Aran Sij",
+          "skylight": "Aran Sij"
+        }
+      },
+      "brick": {
+        "yellow_produced_m2": 4378,
+        "yellow_dismantle_m2": 600,
+        "floor_panels_destination": "employer warehouse",
+        "future_yellow_installation": false,
+        "two_color_new_contract": true,
+        "two_color_received_m2": 0
+      },
+      "field_table": {
+        "source": "photo_2026-11-01_18-22-10.jpg / official 9Aban table",
+        "glass_installed_printed": 2375,
+        "glass_remaining_printed": 2570,
+        "glass_installed_rows": [
+          1043.25,
+          801.26,
+          187.27,
+          288.42,
+          54.55
+        ],
+        "glass_remaining_rows": [
+          1101,
+          640,
+          226,
+          218,
+          386
+        ],
+        "concrete_installed_rows": [
+          141.12,
+          830.13,
+          0,
+          0
+        ],
+        "concrete_remaining_rows": [
+          2589,
+          2390,
+          1100,
+          1000
+        ],
+        "concrete_installed_total": 971.25,
+        "concrete_remaining_total": 7079
+      }
+    },
+    "status": "verified",
+    "revision": "v9",
+    "outputs": {
+      "library": null,
+      "agriculture": null
+    }
+  }
+}

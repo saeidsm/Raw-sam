@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "record_id": "r-9b214aa071ff30cc",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-04",
+  "revision": "v6-imported",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963",
+    "p-49bc"
+  ],
+  "payload": {
+    "period": "1405-08-04",
+    "approvedRevision": "v6",
+    "projects": {
+      "library": {
+        "progressPercent": 97.30998742305155,
+        "installationPercent": 93.77447681418082,
+        "source": "Library_1405_08.04.xlsx; summary Q7/Q11",
+        "glass": {
+          "unit": "m2",
+          "curtainInstalled": 5245,
+          "curtainTotal": 5517.84,
+          "clampInstalled": 800,
+          "clampTotal": 1869,
+          "handrailInstalled": 206,
+          "handrailTotal": 214.9,
+          "facadeInstalledSum": 6251
+        },
+        "workforce": {
+          "weeklyRequired": 45,
+          "requiredAuthority": "user; inactive fronts booklet",
+          "weeklyActual": 32,
+          "actualCell": "personnel P26; ROUND(223/7,0)",
+          "previousActual": 39,
+          "change": -7,
+          "flag": "*; conflicting W18=39; period requires reconciliation",
+          "dailyPeak": null,
+          "actionPlanApplies": false
+        },
+        "fourWeekProgress": [
+          94.2,
+          94.7,
+          95.74661664517524,
+          97.30998742305155
+        ],
+        "fourWeekDates": [
+          "1405/07/14",
+          "1405/07/21",
+          "1405/07/28",
+          "1405/08/04"
+        ],
+        "openAction": "Dispatch factory crew to rectify clamps before glazing"
+      },
+      "agriculture": {
+        "progressPercent": 65.95004677224306,
+        "stagesPercent": [
+          77.93163920253735,
+          74.01298886856159,
+          51.515627456495395
+        ],
+        "source": "Otherm weekly report-14050804 (4) (1).xlsx; summary P13/P15:P17",
+        "glass": {
+          "installed": 2243.23,
+          "total": 5005,
+          "unit": "m2"
+        },
+        "concrete": {
+          "installed": 862.72,
+          "total": 8050,
+          "previousScopeTotal": 7623,
+          "remaining": 7187.28,
+          "flag": "* scope changed"
+        },
+        "resourceCurve": {
+          "peak": 106,
+          "averageDaily": 85.6,
+          "personDays": 5995,
+          "fixedHandlingIncluded": 10,
+          "source": "download (9).png; user extraction from Action Plan 4"
+        },
+        "photosDate": "1405-08-02"
+      },
+      "skylight": {
+        "source": "SkyLight__1405_08.04..xlsx",
+        "percent": 96,
+        "libraryPackagePercent": 100,
+        "agriculturePackagePercent": 86.4,
+        "glassInstalled": [
+          620,
+          0,
+          0
+        ],
+        "glassTotal": [
+          620,
+          350,
+          265
+        ],
+        "renderedWithin": "library"
+      }
+    },
+    "internalNotes": [
+      null,
+      null
+    ]
+  }
+}

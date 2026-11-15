@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "record_id": "r-e4419b9fbf77e07f",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-04",
+  "revision": "v3-imported",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963"
+  ],
+  "payload": {
+    "libraryContractorPercent": 97.30998742305155,
+    "libraryContractorInstallPercent": 93.77447681418082,
+    "skylightContractorPercent": 96.00000000000001,
+    "adramActionPlanActiveIds": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      17,
+      18,
+      20,
+      22,
+      23,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "adramActionPlanExecutionDemand": 94,
+    "adramConditionalNorth": 22,
+    "adramOtherDemand": 72,
+    "adramTransportCrewExcluded": true,
+    "intervalConvention": "start inclusive, end exclusive",
+    "glassLibrary": {
+      "installed": 5245,
+      "total": 5517.84,
+      "rows": [
+        163,
+        166,
+        169,
+        172
+      ]
+    },
+    "glassSkylight": {
+      "installed": [
+        620,
+        0,
+        0
+      ],
+      "total": [
+        620,
+        350,
+        265
+      ],
+      "rows": [
+        48,
+        49,
+        50
+      ]
+    }
+  }
+}

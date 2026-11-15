@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "record_id": "r-cd344982013c9869",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-10",
+  "revision": "v8-pptx-library",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-49bc"
+  ],
+  "payload": {
+    "report_date": "1405-08-10",
+    "revision": "v8",
+    "user_confirmed": {
+      "yellow_brick_panels_previously_produced_m2": 4378,
+      "yellow_brick_panels_to_dismantle_m2": 600,
+      "yellow_brick_panels_future_installation": false,
+      "yellow_brick_panels_on_floors_destination": "انبار کارفرما",
+      "two_color_panels_contract": "new_separate_contract",
+      "two_color_panels_received_m2": 0,
+      "library_clamp_outstanding": [
+        "چسب‌زنی",
+        "آب‌بندی"
+      ]
+    },
+    "pending": "دامنه کل شیشه ۵۰۰۵: فقط آدرم شامل هندریل و بازشو، یا جمع دو پیمانکار شامل کلمپ و اسکای‌لایت؛ پرسش ارسال شده و پاسخ لازم است.",
+    "agriculture_status": "draft_not_published_pending_glass_scope",
+    "library_status": "updated_side_by_side_glass_charts"
+  }
+}

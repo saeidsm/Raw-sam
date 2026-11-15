@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "record_id": "r-389b470d62300bb9",
+  "kind": "legacy_snapshot",
+  "period": "1405-08-04",
+  "revision": "v6-imported",
+  "historical_qa_passed": true,
+  "project_ids": [
+    "p-7c21",
+    "p-a963",
+    "p-49bc"
+  ],
+  "payload": {
+    "libraryFourWeeks": [
+      "1405/07/14",
+      "1405/07/21",
+      "1405/07/28",
+      "1405/08/04"
+    ],
+    "progress": [
+      94.2,
+      94.7,
+      95.74661664517524,
+      97.30998742305155
+    ],
+    "glassFacadeInstalledSum": 6251,
+    "glassSkylightExcludedFromFacadeTotal": true,
+    "weeklyCrewCurrent": 32,
+    "weeklyCrewPrevious": 39,
+    "weeklyCrewChange": -7,
+    "libraryWeeklyRequired": 45,
+    "libraryRequiredSource": "user calculation from inactive-fronts booklet",
+    "dailyPeak": null,
+    "libraryActionPlanApplicable": false,
+    "factoryCrewRequiredBeforeGlass": true,
+    "adramRemovedSection": "خواندن اعداد منحنی و عملکرد واقعی"
+  }
+}
