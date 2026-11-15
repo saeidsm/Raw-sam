@@ -1,0 +1,35 @@
+{
+  "differences": [
+    {
+      "path": "/Project[1]/Tasks[1]/Task[1]/ActualOvertimeWork",
+      "reference": "PT1025976H18M48S",
+      "reconstructed": "PT1017531H2M6S"
+    },
+    {
+      "path": "/Project[1]/CurrentDate",
+      "reference": "2026-11-02T10:01:38",
+      "reconstructed": "2026-11-02T10:05:51"
+    },
+    {
+      "path": "/Project[1]/Tasks[674]/Task[1]/ActualOvertimeWork",
+      "reference": "PT1H21M24S",
+      "reconstructed": "PT1H20M42S"
+    },
+    {
+      "path": "/Project[1]/Tasks[606]/Task[1]/ActualOvertimeWork",
+      "reference": "PT1210H31M48S",
+      "reconstructed": "PT1201H4M6S"
+    },
+    {
+      "path": "/Project[1]/LastSaved",
+      "reference": "2026-10-20T19:14:00",
+      "reconstructed": "2026-11-02T13:35:00"
+    },
+    {
+      "path": "/Project[1]/Revision",
+      "reference": "47",
+      "reconstructed": "44"
+    }
+  ],
+  "originals_unchanged": true
+}

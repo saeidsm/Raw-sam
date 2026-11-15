@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/saeidsm/Raw-sam",
+  "branch": "main",
+  "observed_files": [
+    "README.md"
+  ],
+  "readme_sha": "7d4c625697543212c3a015428802c5461a1f25ba",
+  "readme_content": "# Raw-sam",
+  "structure": "user-proposed fallback",
+  "writes_to_repository": false
+}
