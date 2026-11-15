@@ -1,0 +1,25 @@
+{
+  "status": "partial_integration_not_release_freeze",
+  "checks": [
+    "Original ZIP matches delivered folder",
+    "Package validation rerun read-only on isolated copy",
+    "Stable IDs and source hashes reconciled",
+    "1688 records preserved without modifying released management snapshots"
+  ],
+  "resolved": [
+    "p-* provisional contract identifiers mapped to c-* registry",
+    "Agriculture clamp located in agriculture and assigned to Aran, contract remains null",
+    "Schedule normalized quantities kept separate from physical quantities",
+    "Schedule17to25 interval does not relabel management18to25 baseline",
+    "Observed-day total workforce is not the confirmed full-week executive average25/40"
+  ],
+  "unresolved_questions": "data/shared/1405-08-25/h1/open-questions.json",
+  "native_reexecution": false,
+  "new_reports_generated": false,
+  "employer_formula_errors": {
+    "inherited": 179,
+    "new": 10,
+    "total": 189
+  },
+  "historical_outputs_preserved": true
+}

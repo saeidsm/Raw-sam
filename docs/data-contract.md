@@ -14,6 +14,8 @@ UTF-8 JSON. Keys and machine numbers use ASCII for portability; render Persian d
 
 Project IDs: p-7c21 library; p-a963 agriculture; p-49bc shared skylight contract. Contract IDs: c-71af library facade; c-a641 Adram facade; c-49bc skylight. Keep building_id separately for shared contracts. Never invent new identifiers for these existing entities.
 
+Canonical building IDs are p-7c21/library and p-a963/agriculture. Imported building-library/agriculture aliases map to these. Registered handoffs use `integrations/shared/<opaque-id>/package/` for immutable original evidence and `data/shared/<period>/<integration-revision>/` for normalized records. Source inventory may point into a preserved handoff package; hashes still govern identity. See docs/shared-freeze.md for acceptance, measurement basis and output linkage. The unit `fraction` is a 0–1 ratio, distinct from percent.
+
 ## New normalized observation
 Required: record_id, project_id, contractor_id, contract_id, building_id, system, phase, face, metric, value, unit, as_of, calendar, period_start, period_end, source_id, source_locator, status, decision_id. Use null for inapplicable/unknown fields; specify why in `missing_reason`. Optional: denominator, scope_version, previous_record_id, supersedes, derivation (formula and input record IDs). `status`: extracted, verified, user_confirmed, unresolved, superseded. An unresolved observation cannot become a confirmed output by renaming it.
 

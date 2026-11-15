@@ -1,0 +1,89 @@
+[
+  {
+    "id": "h-f1a2d02b:Q1",
+    "question": "ریز ورود شیشه،زیرسازی بتن/آجر،پنل بتن/آجر و تفکیک اصلی/جایگزین/اسکای‌لایت تا۲۵آبان؟",
+    "blocks": [
+      "employer delivery completeness"
+    ],
+    "state": "open"
+  },
+  {
+    "id": "h-f1a2d02b:Q2",
+    "question": "آران۲۴/۲۵ و آدرم۲۳..۲۵: گزارش یا تعطیلی/عدم فعالیت؟",
+    "blocks": [
+      "full-period staff averages"
+    ],
+    "state": "open"
+  },
+  {
+    "id": "h-f1a2d02b:Q3",
+    "question": "نفرچهارم غیرثابت آلومینیوم،حضور واقعی،تفکیک اجرایی/حمل/ستادی و نفرات برنامه‌ای؟",
+    "blocks": [
+      "staff numeric totals"
+    ],
+    "state": "open"
+  },
+  {
+    "id": "h-f1a2d02b:Q4",
+    "question": "UID1841 درصد صفر در برابر حجم۲از۲؛ منبع اصلاحی؟",
+    "blocks": [
+      "that leaf update"
+    ],
+    "state": "open",
+    "detail": "Library row45, V45=0 vs K45/N45=2/2; UID1841 procurement for east handrail."
+  },
+  {
+    "id": "h-f1a2d02b:Q5",
+    "question": "احجام سیوان برای اجرای سمنت‌بورد منتقل‌شده و دامنه تامین مرکزی خارج۴۱۸برگ؟",
+    "blocks": [
+      "those scopes only"
+    ],
+    "state": "open"
+  },
+  {
+    "id": "h-f1a2d02b:Q6",
+    "question": "پاسخ نظارت به۱۷مانع و تصاویر اجرایی دوره؟",
+    "blocks": [
+      "those employer sections"
+    ],
+    "state": "open"
+  },
+  {
+    "id": "h-f1a2d02b:Q7",
+    "question": "شناسه قرارداد قطعی کلمپ کشاورزی در فایلLibrary و رجیستری ساختمان/قرارداد مشترک؟",
+    "blocks": [
+      "final shared identity integration"
+    ],
+    "state": "partially_resolved",
+    "resolution": "Existing project, building and contractor registry mapped. Agriculture clamp contract remains null; this does not block location/contractor separation."
+  },
+  {
+    "id": "h-f1a2d02b:Q8",
+    "type": "implementation_fix",
+    "question": "Guard10new helper formula errors for unknown delivery data; review179inherited template errors. Do not request user approval for routine formula fixes.",
+    "blocks": [
+      "full workbook formula-clean release"
+    ],
+    "state": "open",
+    "ask_user": false
+  },
+  {
+    "id": "h-f1a2d02b:Q9",
+    "state": "open",
+    "question": "West cement-board only versus all four faces: confirm transfer scope including substrates and panels.",
+    "blocks": [
+      "active_scope_recalculation",
+      "related_workforce_recalculation"
+    ],
+    "affected_uids": [
+      753,
+      754,
+      751,
+      749,
+      755,
+      756,
+      752,
+      750
+    ]
+  }
+]

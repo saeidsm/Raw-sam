@@ -187,13 +187,22 @@
       "skill": "skills/management-reports/SKILL.md"
     },
     "msp_update": {
-      "status": "awaiting_handoff"
+      "status": "partial",
+      "skill": "skills/msp-update/SKILL.md",
+      "manifest": "integrations/msp-update/manifest.json",
+      "handoff_received": true
     },
     "employer_excel": {
-      "status": "awaiting_handoff"
+      "status": "partial",
+      "skill": "skills/employer-excel/SKILL.md",
+      "manifest": "integrations/employer-excel/manifest.json",
+      "handoff_received": true
     },
     "site_export": {
-      "status": "awaiting_input"
+      "status": "partial",
+      "evidence": "integrations/shared/h-f1a2d02b/package/examples/evidence/daily-reports.json",
+      "source_id": "s-8b52b11ba5061634",
+      "coverage": "Aran through23Aban; Adram through22Aban; not full-period complete"
     }
   },
   "contractors": {
@@ -294,5 +303,18 @@
     }
   ],
   "publication_status": "complete",
-  "cloud_guide": "docs/cloud-continuation.fa.md"
+  "cloud_guide": "docs/cloud-continuation.fa.md",
+  "integrations": {
+    "h-f1a2d02b": {
+      "period": "1405-08-25",
+      "handoff": "integrations/shared/h-f1a2d02b/package/HANDOFF.md",
+      "receipt": "data/shared/1405-08-25/h1/reconciliation.json",
+      "observations": "data/shared/1405-08-25/h1/observations.json",
+      "decisions": "data/shared/1405-08-25/h1/decisions.json",
+      "open_questions": "data/shared/1405-08-25/h1/open-questions.json",
+      "validation": "integrations/shared/h-f1a2d02b/validation.json",
+      "candidate_freeze": "data/shared/1405-08-25/h1/freeze-candidate.json"
+    }
+  },
+  "integration_guide": "docs/integration-status.fa.md"
 }

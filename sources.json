@@ -423,6 +423,94 @@
         "1405-08-25"
       ],
       "as_of": "1405-08-23"
+    },
+    {
+      "source_id": "s-a9570eaf15f29fd2",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/msp/before-1405.08.17.mpp",
+      "sha256": "a9570eaf15f29fd2bf2e6c6732f192d2b6d398e401416977286291fef6bcc681",
+      "format": "mpp",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-22b2205343603cb9",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/msp/after-1405.08.25.mpp",
+      "sha256": "22b2205343603cb931dada1b08817547aba57f3d165edad259b0e5126aa43826",
+      "format": "mpp",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-e01a485bc8b47237",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/employer/after-1405.08.25.xlsx",
+      "sha256": "e01a485bc8b472375f782c780cb28ca9a16ec71c2014cc6297d318b4c2802eb6",
+      "format": "xlsx",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-fbd4d746b0182d38",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/employer/before-staff-revision.xlsx",
+      "sha256": "fbd4d746b0182d387ee9ad9ae999c0432041442fef41f09c7b5873cbfe55f36f",
+      "format": "xlsx",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-8b52b11ba5061634",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/inputs/site-export.zip",
+      "sha256": "8b52b11ba5061634849f5e9b281d1fbd56478b33e1f52b489583f3123b1e90ef",
+      "format": "zip",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-f39175d966debb96",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/historical/1405.07.21.xlsx",
+      "sha256": "f39175d966debb96429381107f6fb82f5b9153e2e02aa4d0bea5be0edbb35764",
+      "format": "xlsx",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-9f31e2cd96bb02c9",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/historical/برنامه جامع نما(1405.07.21)_RE_405.06.31.mpp",
+      "sha256": "9f31e2cd96bb02c9fc1dcb75d3e9ba7d0c388611802c2f29f4fce85cd3a25f3e",
+      "format": "mpp",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-f357995b3e29f5ca",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/historical/برنامه جامع نما(1405.07.28)_RE_405.06.31.mpp",
+      "sha256": "f357995b3e29f5ca5af828417a3ceb402069d9549cb514d93bfb49167e5cadc4",
+      "format": "mpp",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-6a93f613dd9324c2",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/historical/برنامه جامع نما(1405.08.11)_RE_405.06.31.mpp",
+      "sha256": "6a93f613dd9324c28be06588b14241314ef379222c25f515b4f4ac95320145fb",
+      "format": "mpp",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-307ef872c6df7d5c",
+      "path": "integrations/shared/h-f1a2d02b/package/examples/historical/corrected-1405.08.11.mpp",
+      "sha256": "307ef872c6df7d5c19e849f321e2af1178a1a1bbd6574c1a4f81a7e63a5f62bd",
+      "format": "mpp",
+      "periods": [],
+      "origin": "h-f1a2d02b"
+    },
+    {
+      "source_id": "s-391471c783b12b26",
+      "path": "integrations/shared/h-f1a2d02b/package/history/chat-decisions.md",
+      "sha256": "391471c783b12b26991921afaf7bb58efabb5c9c867d660064cd3dd74d864fef",
+      "format": "md",
+      "periods": [],
+      "origin": "h-f1a2d02b"
     }
   ]
 }

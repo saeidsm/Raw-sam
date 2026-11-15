@@ -4,11 +4,11 @@
 
 Public read requires no token. Writing requires an authorized owner connection; this publication grants no new collaborator access. Opaque folder identifiers do not anonymize the contents of public source documents or reports.
 
-The management-report workflow is ready. MSP-update and employer-workbook modules await the user's separate tested handoffs. A reference PPTX and evidence ledger are provided; an agent needs its own document generation/rendering tools. No unprovided module is represented as working.
+The management-report workflow is available. MSP-update and employer-workbook handoffs are registered as partial modules, with native test evidence and explicit coverage/formula limitations. Read their catalog manifests and the [integration receipt](docs/integration-status.fa.md). A reference PPTX and evidence ledger are provided; an agent needs its own authoring, native processing and rendering tools. Archived samples are not new outputs from the shared freeze.
 
 Use immutable period/revision folders. Keep the original source, user decisions and QA; latest pointers refer to accepted revisions. Do not infer actual payment from approval. Iron differential is an advance within adjustment, settled once.
 
-To verify files locally: `python scripts/validate.py`. See [data contract](docs/data-contract.md) before contributing a module or a new period.
+To verify files locally: `python scripts/validate.py` and `python scripts/validate_integrations.py`. See [data contract](docs/data-contract.md) and [shared freeze](docs/shared-freeze.md) before contributing a module or a new period.
 
 
 [راهنمای ادامه از چت ابری](docs/cloud-continuation.fa.md)

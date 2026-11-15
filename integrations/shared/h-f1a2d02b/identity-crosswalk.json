@@ -1,0 +1,23 @@
+{
+  "contracts": {
+    "p-7c21": "c-71af",
+    "p-a963": "c-a641",
+    "p-49bc": "c-49bc"
+  },
+  "buildings": {
+    "building-library": "p-7c21",
+    "building-agriculture": "p-a963"
+  },
+  "contractors_by_origin_scope": {
+    "p-7c21": "k-31db",
+    "p-a963": "k-482c",
+    "p-49bc": "k-31db"
+  },
+  "agriculture_clamp": {
+    "project_id": "p-a963",
+    "building_id": "p-a963",
+    "contractor_id": "k-31db",
+    "contract_id": null
+  },
+  "rule": "Project/building describe location; contractor and contract describe responsibility. Shared skylight scope retains p-49bc plus physical building."
+}

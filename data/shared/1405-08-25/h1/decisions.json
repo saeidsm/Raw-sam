@@ -1,0 +1,179 @@
+[
+  {
+    "decision_id": "h-f1a2d02b:D-FRACTION",
+    "kind": "user_explicit",
+    "statement": "روش ما درصد پیشرفت اکسل × حجم کل MSP هست",
+    "supersedes": null,
+    "effect": "Preserve Number9; use full precision actual fraction.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-FRACTION"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-DECREASE-OLD",
+    "kind": "user_explicit",
+    "statement": "هر دو کاهش طبق اکسل اعمال شود",
+    "supersedes": null,
+    "effect": "Historical only; revoked.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-DECREASE-OLD"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-NONNEGATIVE",
+    "kind": "user_explicit",
+    "statement": "این دو مورد منفی رو به مقدار هفته قبل برگردون که اختلاف هیچ ردیفی منفی نباشه",
+    "supersedes": "h-f1a2d02b:D-DECREASE-OLD",
+    "effect": "UID528 retains11020; UID634 retains101000 then increases to103112 on25.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-NONNEGATIVE"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-TRANSFER",
+    "kind": "user_explicit",
+    "statement": "سمنت برد به پیمانکار مادر (سیوان) و کلمپ به آران سیج منتقل شده است",
+    "supersedes": null,
+    "effect": "Execution transfer only; preserve project tasks and prior quantities.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-TRANSFER"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook",
+    "integration_status": "scope_conflict_pending_user_answer"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-DATE17",
+    "kind": "user_explicit",
+    "statement": "۱۷ آبان، طبق پیام من",
+    "supersedes": null,
+    "effect": "Overrides18Aban filenames.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-DATE17"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_comparison_baseline_only_not_management_report_date"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-DATE25",
+    "kind": "user_explicit",
+    "statement": "بله، ۲۵ آبان",
+    "supersedes": null,
+    "effect": "Report cutoff; does not change native status date.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-DATE25"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-PERIOD",
+    "kind": "user_explicit",
+    "statement": "اختلاف ۱۷ تا ۲۵ آبان",
+    "supersedes": null,
+    "effect": "Period quantities from two MSP snapshots.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-PERIOD"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-PDF23",
+    "kind": "user_explicit",
+    "statement": "تاریخ گزارش 23 هست و داده ها بروز هستن",
+    "supersedes": null,
+    "effect": "Duplicate agriculture PDF is current; needed crew is not attendance.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-PDF23"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-STAFF",
+    "kind": "user_explicit",
+    "statement": "ثابت ها همیشه هستند؛ سعید و منتظریان شنبه تا سه‌شنبه معمولاً؛ صفاری شنبه‌ها",
+    "supersedes": null,
+    "effect": "5fixed+4variable; unknown fourth schedule and category split; no fabricated daily mean.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-STAFF"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-EMPLOYER-SUPPLY",
+    "kind": "user_qualified",
+    "statement": "احتمالا به دلیل تامین کارفرمایی هست",
+    "supersedes": null,
+    "effect": "Probable explanation, not confirmed procurement allocation.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-EMPLOYER-SUPPLY"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  },
+  {
+    "decision_id": "h-f1a2d02b:D-NORMALIZE",
+    "kind": "calculation",
+    "statement": "full precision fraction×Number9; reject inconsistent fractions",
+    "supersedes": null,
+    "effect": "Calculation implementation, not a new user instruction.",
+    "source_id": "s-391471c783b12b26",
+    "source_locator": {
+      "message_key": "D-NORMALIZE"
+    },
+    "timestamp": null,
+    "decision_date": null,
+    "effective_period": null,
+    "origin": "imported_handoff",
+    "scope": "schedule_and_employer_workbook"
+  }
+]
