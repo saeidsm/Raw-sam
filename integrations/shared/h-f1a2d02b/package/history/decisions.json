@@ -1,0 +1,134 @@
+[
+  {
+    "decision_id": "D-FRACTION",
+    "kind": "user_explicit",
+    "statement": "روش ما درصد پیشرفت اکسل × حجم کل MSP هست",
+    "supersedes": null,
+    "effect": "Preserve Number9; use full precision actual fraction.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-FRACTION"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-DECREASE-OLD",
+    "kind": "user_explicit",
+    "statement": "هر دو کاهش طبق اکسل اعمال شود",
+    "supersedes": null,
+    "effect": "Historical only; revoked.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-DECREASE-OLD"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-NONNEGATIVE",
+    "kind": "user_explicit",
+    "statement": "این دو مورد منفی رو به مقدار هفته قبل برگردون که اختلاف هیچ ردیفی منفی نباشه",
+    "supersedes": "D-DECREASE-OLD",
+    "effect": "UID528 retains11020; UID634 retains101000 then increases to103112 on25.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-NONNEGATIVE"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-TRANSFER",
+    "kind": "user_explicit",
+    "statement": "سمنت برد به پیمانکار مادر (سیوان) و کلمپ به آران سیج منتقل شده است",
+    "supersedes": null,
+    "effect": "Execution transfer only; preserve project tasks and prior quantities.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-TRANSFER"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-DATE17",
+    "kind": "user_explicit",
+    "statement": "۱۷ آبان، طبق پیام من",
+    "supersedes": null,
+    "effect": "Overrides18Aban filenames.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-DATE17"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-DATE25",
+    "kind": "user_explicit",
+    "statement": "بله، ۲۵ آبان",
+    "supersedes": null,
+    "effect": "Report cutoff; does not change native status date.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-DATE25"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-PERIOD",
+    "kind": "user_explicit",
+    "statement": "اختلاف ۱۷ تا ۲۵ آبان",
+    "supersedes": null,
+    "effect": "Period quantities from two MSP snapshots.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-PERIOD"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-PDF23",
+    "kind": "user_explicit",
+    "statement": "تاریخ گزارش 23 هست و داده ها بروز هستن",
+    "supersedes": null,
+    "effect": "Duplicate agriculture PDF is current; needed crew is not attendance.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-PDF23"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-STAFF",
+    "kind": "user_explicit",
+    "statement": "ثابت ها همیشه هستند؛ سعید و منتظریان شنبه تا سه‌شنبه معمولاً؛ صفاری شنبه‌ها",
+    "supersedes": null,
+    "effect": "5fixed+4variable; unknown fourth schedule and category split; no fabricated daily mean.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-STAFF"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-EMPLOYER-SUPPLY",
+    "kind": "user_qualified",
+    "statement": "احتمالا به دلیل تامین کارفرمایی هست",
+    "supersedes": null,
+    "effect": "Probable explanation, not confirmed procurement allocation.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-EMPLOYER-SUPPLY"
+    },
+    "timestamp": null
+  },
+  {
+    "decision_id": "D-NORMALIZE",
+    "kind": "calculation",
+    "statement": "full precision fraction×Number9; reject inconsistent fractions",
+    "supersedes": null,
+    "effect": "Calculation implementation, not a new user instruction.",
+    "source_id": "chat-decisions",
+    "source_locator": {
+      "message_key": "D-NORMALIZE"
+    },
+    "timestamp": null
+  }
+]

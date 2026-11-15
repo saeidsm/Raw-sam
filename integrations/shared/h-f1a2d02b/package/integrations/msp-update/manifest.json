@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "module": "msp-update",
+  "readiness": "tested_native_workflow_scoped_not_unattended",
+  "skill": "skills/msp-update/SKILL.md",
+  "path_base": "package-root",
+  "inputs": "INPUTS.md",
+  "mappings": [
+    "mappings/README.md",
+    "mappings/msp-418.json"
+  ],
+  "templates": [],
+  "examples": [
+    "examples/msp/after-1405.08.25.mpp"
+  ],
+  "dependencies": [
+    "Windows",
+    "Microsoft Project COM",
+    "Windows PowerShell 5.1"
+  ],
+  "test_result": "validation/results.json",
+  "historical_test_result": "examples/evidence/release-verification.json",
+  "open_questions": "history/open-questions.json",
+  "shared_history": "history/records.json",
+  "source_inventory": "history/sources.json",
+  "workflow": "HANDOFF.md",
+  "management_integration": "not performed; coordinator owns integration",
+  "native_reexecution_this_handoff": false,
+  "validation_scope": "Snapshot and files rechecked now; native apps were tested in prior production run, not rerun in handoff"
+}

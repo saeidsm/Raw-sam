@@ -1,0 +1,59 @@
+[
+  {
+    "id": "Q1",
+    "question": "ریز ورود شیشه،زیرسازی بتن/آجر،پنل بتن/آجر و تفکیک اصلی/جایگزین/اسکای‌لایت تا۲۵آبان؟",
+    "blocks": [
+      "employer delivery completeness"
+    ]
+  },
+  {
+    "id": "Q2",
+    "question": "آران۲۴/۲۵ و آدرم۲۳..۲۵: گزارش یا تعطیلی/عدم فعالیت؟",
+    "blocks": [
+      "full-period staff averages"
+    ]
+  },
+  {
+    "id": "Q3",
+    "question": "نفرچهارم غیرثابت آلومینیوم،حضور واقعی،تفکیک اجرایی/حمل/ستادی و نفرات برنامه‌ای؟",
+    "blocks": [
+      "staff numeric totals"
+    ]
+  },
+  {
+    "id": "Q4",
+    "question": "UID1841 درصد صفر در برابر حجم۲از۲؛ منبع اصلاحی؟",
+    "blocks": [
+      "that leaf update"
+    ]
+  },
+  {
+    "id": "Q5",
+    "question": "احجام سیوان برای اجرای سمنت‌بورد منتقل‌شده و دامنه تامین مرکزی خارج۴۱۸برگ؟",
+    "blocks": [
+      "those scopes only"
+    ]
+  },
+  {
+    "id": "Q6",
+    "question": "پاسخ نظارت به۱۷مانع و تصاویر اجرایی دوره؟",
+    "blocks": [
+      "those employer sections"
+    ]
+  },
+  {
+    "id": "Q7",
+    "question": "شناسه قرارداد قطعی کلمپ کشاورزی در فایلLibrary و رجیستری ساختمان/قرارداد مشترک؟",
+    "blocks": [
+      "final shared identity integration"
+    ]
+  },
+  {
+    "id": "Q8",
+    "type": "implementation_fix_not_user_question",
+    "question": "Guard10new helper formula errors for unknown delivery data; review179inherited template errors. Do not request user approval for routine formula fixes.",
+    "blocks": [
+      "full workbook formula-clean release"
+    ]
+  }
+]

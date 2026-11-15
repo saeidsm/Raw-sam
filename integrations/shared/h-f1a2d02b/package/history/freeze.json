@@ -1,0 +1,14 @@
+{
+  "freeze_id": "pardis-evidence-1405.08.25-v1",
+  "status": "verified_evidence_partial_not_full_production_approval",
+  "as_of": "1405/08/25",
+  "calendar": "jalali",
+  "decisions": "history/decisions.json",
+  "records": "history/records.json",
+  "coverage": "history/open-questions.json",
+  "producer_outputs": [
+    "examples/msp/after-1405.08.25.mpp",
+    "examples/employer/after-1405.08.25.xlsx"
+  ],
+  "management_output": null
+}

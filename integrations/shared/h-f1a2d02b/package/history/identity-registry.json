@@ -1,0 +1,13 @@
+{
+  "project": "Pardis facade",
+  "shared_scope_ids": {
+    "p-7c21": "library scope",
+    "p-a963": "agriculture scope",
+    "p-49bc": "two-building skylight contract"
+  },
+  "buildings": {
+    "building-library": "کتابخانه",
+    "building-agriculture": "کشاورزی"
+  },
+  "contract_policy": "p-49bc is explicit contract ID; other scope IDs are provisional contract IDs only within matching building branch. Agriculture clamp in Library file keeps contract_id null pending coordinator registry. Never derive building from contractor or file name alone."
+}
