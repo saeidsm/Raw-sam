@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "extends": "data/shared/1405-08-25/h1/observations.json",
+  "records": [
+    {
+      "record_id": "h2:excel-1841-reported_quantity",
+      "project_id": "p-7c21",
+      "contract_id": "c-71af",
+      "building_id": "p-7c21",
+      "system": "هندریل",
+      "phase": "procurement",
+      "face": "شرق",
+      "metric": "reported_quantity",
+      "value": 0,
+      "unit": "m",
+      "denominator": null,
+      "as_of": "1405-08-25",
+      "calendar": "jalali",
+      "source_id": "s-33923a7bcd6407c1",
+      "source_locator": {
+        "sheet": "آرانسیج",
+        "cell": "K45"
+      },
+      "status": "user_confirmed",
+      "decision_id": "d-h2-handrail-east-zero",
+      "contractor_id": "k-31db",
+      "origin_record_id": "excel-1841-reported_quantity",
+      "origin_status": "user_correction",
+      "period_start": null,
+      "period_end": "1405-08-25",
+      "missing_reason": null,
+      "measurement_basis": "source_quantity_corrected_by_explicit_user_decision",
+      "supersedes": "h-f1a2d02b:excel-1841-reported_quantity",
+      "original_source_value": 2,
+      "confirmation_locator": {
+        "question_id": "h-f1a2d02b:Q4",
+        "decision_path": "data/shared/1405-08-25/h2/decisions.json"
+      }
+    },
+    {
+      "record_id": "h2:excel-1841-reported_fraction",
+      "project_id": "p-7c21",
+      "contract_id": "c-71af",
+      "building_id": "p-7c21",
+      "system": "هندریل",
+      "phase": "procurement",
+      "face": "شرق",
+      "metric": "reported_fraction",
+      "value": 0,
+      "unit": "fraction",
+      "denominator": 2,
+      "as_of": "1405-08-25",
+      "calendar": "jalali",
+      "source_id": "s-33923a7bcd6407c1",
+      "source_locator": {
+        "sheet": "آرانسیج",
+        "cell": "V45"
+      },
+      "status": "user_confirmed",
+      "decision_id": "d-h2-handrail-east-zero",
+      "contractor_id": "k-31db",
+      "origin_record_id": "excel-1841-reported_fraction",
+      "origin_status": "user_correction",
+      "period_start": null,
+      "period_end": "1405-08-25",
+      "missing_reason": null,
+      "measurement_basis": "source_quantity_corrected_by_explicit_user_decision",
+      "supersedes": "h-f1a2d02b:excel-1841-reported_fraction",
+      "original_source_value": 0,
+      "confirmation_locator": {
+        "question_id": "h-f1a2d02b:Q4",
+        "decision_path": "data/shared/1405-08-25/h2/decisions.json"
+      }
+    }
+  ],
+  "rule": "Apply explicit supersedes overlays; original workbook and archived records remain unchanged."
+}

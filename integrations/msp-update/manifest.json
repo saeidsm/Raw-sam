@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "module_id": "msp-update",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "status": "partial",
   "readiness": "tested_native_workflow_scoped_not_unattended",
   "skill_path": "skills/msp-update/SKILL.md",
   "path_base": "repository-root",
   "input_requirements": "integrations/shared/h-f1a2d02b/package/INPUTS.md",
-  "mappings_path": "integrations/msp-update/mappings.json",
+  "mappings_path": "data/shared/1405-08-25/h2/msp-mappings.json",
   "history_paths": [
     "data/shared/1405-08-25/h1/observations.json",
     "data/shared/1405-08-25/h1/decisions.json"
@@ -22,10 +22,12 @@
     "Microsoft Project COM",
     "Windows PowerShell 5.1"
   ],
-  "unresolved_questions": "data/shared/1405-08-25/h1/open-questions.json",
+  "unresolved_questions": "data/shared/1405-08-25/h2/open-questions.json",
   "shared_contract_version": 1,
   "handoff_root": "integrations/shared/h-f1a2d02b/package",
   "native_reexecution_on_import": false,
   "release_ready": false,
-  "sample_status": "archived_tested_sample_not_new_output"
+  "sample_status": "archived_tested_sample_not_new_output",
+  "decision_updates": "data/shared/1405-08-25/h2/decisions.json",
+  "correction_observations": "data/shared/1405-08-25/h2/corrections.json"
 }

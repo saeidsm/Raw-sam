@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "freeze_id": "f-1405-08-25-h2-candidate",
+  "status": "reconciliation_pending",
+  "release_ready": false,
+  "period": "1405-08-25",
+  "paths": {
+    "data/shared/1405-08-25/r2/observations.json": "90e6f5e6f309ebcbbbca36a969573eea6b43a00df3ac1d13306520e575ea232c",
+    "data/shared/1405-08-25/r2/decisions.json": "ae647f3ef957d551ff852acd2bad10410afc9d5bd61ab3bbaa0f7aa9ee39fc36",
+    "data/shared/1405-08-25/r2/finance.json": "0bc85a8277887e76c19fc6f20221fd0d6f9f6a8151a0ce6fc31f6a17bbac9d09",
+    "data/shared/1405-08-25/h1/observations.json": "9fb06a288cf6c48b9b0a95751aabcfca216e3098bb845303afd08621a77bb178",
+    "data/shared/1405-08-25/h1/decisions.json": "d33f5bd13ab72d805ed312616bc976506fddd8e593f062c10f3d94c19faafd1f",
+    "data/shared/1405-08-25/h1/open-questions.json": "8508b18b291237df2bbc46de815c3131ddb2a6693395a56479e59845d5f687e0",
+    "integrations/msp-update/mappings.json": "d80f85c0744a8f8423ca49aae53f7d7f3e72a5e6f2c9d1d228996b85d19a92b8",
+    "integrations/shared/h-f1a2d02b/package/mappings/employer-cells.json": "e419296e8af282912d9c56ac25bff88647870aa1ba6444af477f0536adc84e0f",
+    "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
+    "integrations/shared/h-f1a2d02b/package-integrity.json": "94dbedd93afd09f4bd20b6d574ba5d128ffd56ed09762bbf0c9602b35263cb72",
+    "data/shared/1405-08-25/h2/decisions.json": "88e7cd46867f95330d2d5284719f97567fe0b7886696ebf01441d3ec5f706f4f",
+    "data/shared/1405-08-25/h2/corrections.json": "e28e724af450fc360993bf3841a09643684eb22485a4f71adf2446ca62a28693",
+    "data/shared/1405-08-25/h2/open-questions.json": "9f603b7930cfd1dd26ec322f186578dccdf97208d21428d65b1c1202adb58d1a",
+    "data/shared/1405-08-25/h2/msp-mappings.json": "750bb874809a57ae8c09f16836d74e35040530950ba5d3a97b1ea5a801629a14",
+    "data/shared/1405-08-25/h2/scope-policy.json": "cc3f2035e306da3c157b5502fadf9b83316d28131e5e562096493dc71b1aa1b9"
+  },
+  "accepted_record_ids": null,
+  "outputs": [],
+  "note": "Two user conflicts resolved; other data gaps and workbook defects remain. Scope calculations must be regenerated before output release.",
+  "supersedes_freeze": "data/shared/1405-08-25/h1/freeze-candidate.json",
+  "resolved_question_ids": [
+    "h-f1a2d02b:Q9",
+    "h-f1a2d02b:Q4"
+  ]
+}

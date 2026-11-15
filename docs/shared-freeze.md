@@ -19,7 +19,7 @@ The 1688 normalized imported records retain origin status and value. `fraction` 
 - Physical installed quantity is not MSP Number5 when Number9 differs from the spreadsheet total. Store the conversion and both denominators. Do not use schedule-normalized volumes to forecast physical installation weeks.
 - The MSP comparison 17→25 Aban does not replace the accepted management report dated18Aban. Define each metric's interval explicitly before comparing growth.
 - The management workforce values25/40 are user-confirmed executive means. Imported staffing includes193/64 person-days over6observed days and270/32 over5days for executive/office categories. Their totals42.8333/60.4 are observed-day combined means, not the same measure. Missing days and categories remain unknown.
-- Scope removal for active-progress analysis does not modify native baseline weights or erase tasks. Clarify west-only versus all-faces cement-board transfer before extending the active-scope calculation.
+- Scope removal for active-progress analysis does not modify native baseline weights or erase tasks. The user confirmed all-four-faces transfer, including substrate and panel execution. Read catalog decision_updates/current_scope_policy; regenerate active-scope and crew calculations before the next release.
 - Receipt, shipment and installation remain separate. Names of archives or documents do not prove actual daily coverage.
 
 ## Completion gates

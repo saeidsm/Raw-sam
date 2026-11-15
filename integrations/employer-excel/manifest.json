@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "module_id": "employer-excel",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "status": "partial",
   "readiness": "tested_partial_with_known_formula_defects_not_release_ready",
   "skill_path": "skills/employer-excel/SKILL.md",
@@ -25,10 +25,12 @@
     "artifact-tool for authored edits",
     "Python3/openpyxl read-only checks"
   ],
-  "unresolved_questions": "data/shared/1405-08-25/h1/open-questions.json",
+  "unresolved_questions": "data/shared/1405-08-25/h2/open-questions.json",
   "shared_contract_version": 1,
   "handoff_root": "integrations/shared/h-f1a2d02b/package",
   "native_reexecution_on_import": false,
   "release_ready": false,
-  "sample_status": "archived_tested_sample_not_new_output"
+  "sample_status": "archived_tested_sample_not_new_output",
+  "decision_updates": "data/shared/1405-08-25/h2/decisions.json",
+  "correction_observations": "data/shared/1405-08-25/h2/corrections.json"
 }

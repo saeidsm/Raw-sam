@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "extends": "data/shared/1405-08-25/h1/decisions.json",
+  "decisions": [
+    {
+      "decision_id": "d-h2-cement-all-faces",
+      "status": "user_confirmed",
+      "decision_date": "2026-11-15",
+      "decision_calendar": "gregorian",
+      "effective_period": "1405-08-25",
+      "question_id": "h-f1a2d02b:Q9",
+      "answer": "اجرای سمنت‌برد هر چهار نما، شامل زیرسازی و پنل، منتقل شده",
+      "project_id": "p-a963",
+      "from_contractor_id": "k-482c",
+      "to_contractor_name": "سیوان",
+      "phase": "installation",
+      "faces": [
+        "شمال",
+        "جنوب",
+        "شرق",
+        "غرب"
+      ],
+      "components": [
+        "زیرسازی سمنت‌برد",
+        "پنل سمنت‌برد"
+      ],
+      "affected_uids": [
+        753,
+        754,
+        751,
+        749,
+        755,
+        756,
+        752,
+        750
+      ],
+      "clarifies": "h-f1a2d02b:D-TRANSFER",
+      "supersedes_assumption": {
+        "path": "data/p-a963/1405-08-25/r2/calculation.json",
+        "field": "scope_confirmation.transferred",
+        "previous": "west execution only"
+      },
+      "effects": [
+        "Exclude these eight execution activities from Adram active scope and crew demand",
+        "Keep native tasks, weights and prior earned quantities; no baseline deletion or native rewrite",
+        "Do not extend this transfer to procurement, production or shipment without evidence"
+      ],
+      "basis": "Explicit user answer in this conversation"
+    },
+    {
+      "decision_id": "d-h2-handrail-east-zero",
+      "status": "user_confirmed",
+      "decision_date": "2026-11-15",
+      "decision_calendar": "gregorian",
+      "effective_period": "1405-08-25",
+      "question_id": "h-f1a2d02b:Q4",
+      "answer": "تأمین انجام نشده؛ مقدار صحیح صفر است",
+      "project_id": "p-7c21",
+      "contract_id": "c-71af",
+      "task_uid": 1841,
+      "source_id": "s-33923a7bcd6407c1",
+      "source_locator": {
+        "sheet": "آرانسیج",
+        "quantity_cell": "K45",
+        "total_cell": "N45",
+        "fraction_cell": "V45"
+      },
+      "original_quantity": 2,
+      "confirmed_quantity": 0,
+      "total": 2,
+      "unit": "m",
+      "confirmed_fraction": 0,
+      "effects": [
+        "Override row45 procurement quantity to zero in reconciled data",
+        "Native Number5 is already zero; no task increase is warranted",
+        "Do not alter other handrail phases or the added handrail glass scope"
+      ],
+      "basis": "Explicit user answer in this conversation"
+    }
+  ]
+}
