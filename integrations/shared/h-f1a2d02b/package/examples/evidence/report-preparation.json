@@ -1,0 +1,3247 @@
+{
+  "edits": [
+    {
+      "sheet": "Sheet2",
+      "cell": "B2",
+      "value": 100.00000000000006
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C2",
+      "value": 88.8029305083646
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D2",
+      "value": 100.00000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J2",
+      "value": 100.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K2",
+      "value": 100.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L2",
+      "value": 100.00000000000006
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M2",
+      "value": 99.99999999999999
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N2",
+      "value": 88.80293050836454
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E2",
+      "value": 100.00000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F2",
+      "value": 88.68812173397723
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U2",
+      "value": 88.68812173397717
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G2",
+      "value": 100.00000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O2",
+      "value": 0.9999999999999999
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P2",
+      "value": 0.8880293050836454
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q2",
+      "value": 1.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R2",
+      "value": 1.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S2",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G3",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O3",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P3",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q3",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R3",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S3",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B4",
+      "value": 12.804399306405797
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C4",
+      "value": 12.584031331563386
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D4",
+      "value": 12.804399306405791
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J4",
+      "value": 3.8568473423852634
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K4",
+      "value": 26.225727252436577
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L4",
+      "value": 12.804399306405797
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M4",
+      "value": 99.99999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N4",
+      "value": 98.27896670847991
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E4",
+      "value": 12.804399306405791
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F4",
+      "value": 12.584031331563386
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U4",
+      "value": 98.27896670847991
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G4",
+      "value": 12.804399306405791
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O4",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P4",
+      "value": 0.9827896670847991
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q4",
+      "value": 0.03856847342385263
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R4",
+      "value": 0.26225727252436576
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S4",
+      "value": 0.12804399306405798
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B5",
+      "value": 7.092240448427544
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C5",
+      "value": 6.87187247358514
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D5",
+      "value": 7.092240448427544
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J5",
+      "value": 2.1385814383000383
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K5",
+      "value": 14.522728963618778
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L5",
+      "value": 7.092240448427544
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M5",
+      "value": 100
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N5",
+      "value": 96.89282989705653
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E5",
+      "value": 7.092240448427544
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F5",
+      "value": 6.87187247358514
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U5",
+      "value": 96.89282989705653
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G5",
+      "value": 7.092240448427544
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O5",
+      "value": 1.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P5",
+      "value": 0.9689282989705653
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q5",
+      "value": 0.021385814383000384
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R5",
+      "value": 0.14522728963618778
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S5",
+      "value": 0.07092240448427545
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B6",
+      "value": 5.712158857978252
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C6",
+      "value": 5.712158857978263
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D6",
+      "value": 5.712158857978263
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J6",
+      "value": 1.7182659040852197
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K6",
+      "value": 11.702998288817797
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L6",
+      "value": 5.712158857978252
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M6",
+      "value": 100.0000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N6",
+      "value": 100.0000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E6",
+      "value": 5.712158857978263
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F6",
+      "value": 5.712158857978263
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U6",
+      "value": 100.0000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G6",
+      "value": 5.712158857978263
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O6",
+      "value": 1.000000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P6",
+      "value": 1.000000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q6",
+      "value": 0.017182659040852196
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R6",
+      "value": 0.11702998288817797
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S6",
+      "value": 0.057121588579782515
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B7",
+      "value": 12.739713038108652
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C7",
+      "value": 12.739713038108626
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D7",
+      "value": 12.739713038108626
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J7",
+      "value": 16.76890148863156
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K7",
+      "value": 6.695930362324232
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L7",
+      "value": 12.739713038108652
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M7",
+      "value": 99.99999999999979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N7",
+      "value": 99.99999999999979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E7",
+      "value": 12.739713038108626
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F7",
+      "value": 12.739713038108626
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U7",
+      "value": 99.99999999999979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G7",
+      "value": 12.739713038108626
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O7",
+      "value": 0.9999999999999979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P7",
+      "value": 0.9999999999999979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q7",
+      "value": 0.1676890148863156
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R7",
+      "value": 0.06695930362324232
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S7",
+      "value": 0.12739713038108652
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B8",
+      "value": 6.609765272680346
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C8",
+      "value": 6.6097652726803435
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D8",
+      "value": 6.6097652726803435
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J8",
+      "value": 7.97582707513039
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K8",
+      "value": 4.560672569005282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L8",
+      "value": 6.609765272680346
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M8",
+      "value": 99.99999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N8",
+      "value": 99.99999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E8",
+      "value": 6.6097652726803435
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F8",
+      "value": 6.6097652726803435
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U8",
+      "value": 99.99999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G8",
+      "value": 6.6097652726803435
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O8",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P8",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q8",
+      "value": 0.0797582707513039
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R8",
+      "value": 0.04560672569005282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S8",
+      "value": 0.06609765272680346
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J9",
+      "value": 8.793074413501174
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K9",
+      "value": 2.1352577933189494
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M9",
+      "value": 100
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N9",
+      "value": 100
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U9",
+      "value": 100
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G9",
+      "value": 6.129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O9",
+      "value": 1.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P9",
+      "value": 1.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q9",
+      "value": 0.08793074413501173
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R9",
+      "value": 0.021352577933189495
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S9",
+      "value": 0.06129947765428282
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B10",
+      "value": 15.38550803268016
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C10",
+      "value": 13.940078726582923
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D10",
+      "value": 15.385508032680164
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J10",
+      "value": 18.12323158833098
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K10",
+      "value": 11.278922699203928
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L10",
+      "value": 15.38550803268016
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M10",
+      "value": 100.00000000000003
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N10",
+      "value": 90.6052546134517
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E10",
+      "value": 15.385508032680164
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F10",
+      "value": 13.940078726582923
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U10",
+      "value": 90.6052546134517
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G10",
+      "value": 15.385508032680164
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O10",
+      "value": 1.0000000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P10",
+      "value": 0.906052546134517
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q10",
+      "value": 0.18123231588330982
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R10",
+      "value": 0.11278922699203928
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S10",
+      "value": 0.15385508032680162
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B11",
+      "value": 6.633024128374032
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C11",
+      "value": 5.430304939071823
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D11",
+      "value": 6.633024128374032
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J11",
+      "value": 6.9531628734810615
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K11",
+      "value": 6.152816010713488
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L11",
+      "value": 6.633024128374032
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M11",
+      "value": 100
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N11",
+      "value": 81.86770971995493
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E11",
+      "value": 6.633024128374032
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F11",
+      "value": 5.430304939071823
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U11",
+      "value": 81.86770971995493
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G11",
+      "value": 6.633024128374032
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O11",
+      "value": 1.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P11",
+      "value": 0.8186770971995493
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q11",
+      "value": 0.06953162873481061
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R11",
+      "value": 0.06152816010713488
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S11",
+      "value": 0.06633024128374032
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B12",
+      "value": 6.774597603249736
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C12",
+      "value": 6.652450186053223
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D12",
+      "value": 6.774597603249746
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J12",
+      "value": 8.776302158232243
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K12",
+      "value": 3.772040770775984
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L12",
+      "value": 6.774597603249736
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M12",
+      "value": 100.00000000000013
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N12",
+      "value": 98.19697900377255
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E12",
+      "value": 6.774597603249746
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F12",
+      "value": 6.652450186053223
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U12",
+      "value": 98.19697900377255
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G12",
+      "value": 6.774597603249746
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O12",
+      "value": 1.0000000000000013
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P12",
+      "value": 0.9819697900377256
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q12",
+      "value": 0.08776302158232242
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R12",
+      "value": 0.03772040770775984
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S12",
+      "value": 0.06774597603249737
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B13",
+      "value": 1.977886301056392
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C13",
+      "value": 1.857323601457881
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D13",
+      "value": 1.9778863010563874
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J13",
+      "value": 2.3937665566176767
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K13",
+      "value": 1.3540659177144558
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L13",
+      "value": 1.977886301056392
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M13",
+      "value": 99.99999999999977
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N13",
+      "value": 93.90446763627826
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E13",
+      "value": 1.9778863010563874
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F13",
+      "value": 1.857323601457881
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U13",
+      "value": 93.90446763627826
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G13",
+      "value": 1.9778863010563874
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O13",
+      "value": 0.9999999999999978
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P13",
+      "value": 0.9390446763627825
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q13",
+      "value": 0.023937665566176766
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R13",
+      "value": 0.013540659177144558
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S13",
+      "value": 0.019778863010563922
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B14",
+      "value": 1.536884306587598
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C14",
+      "value": 1.3775301637921453
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D14",
+      "value": 1.536884306587596
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J14",
+      "value": 1.5694841610053667
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K14",
+      "value": 1.4879845249609402
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L14",
+      "value": 1.536884306587598
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M14",
+      "value": 99.99999999999987
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N14",
+      "value": 89.63135077166136
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E14",
+      "value": 1.536884306587596
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F14",
+      "value": 1.3775301637921453
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U14",
+      "value": 89.63135077166136
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G14",
+      "value": 1.536884306587596
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O14",
+      "value": 0.9999999999999987
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P14",
+      "value": 0.8963135077166136
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q14",
+      "value": 0.01569484161005367
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R14",
+      "value": 0.014879845249609402
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S14",
+      "value": 0.015368843065875978
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B15",
+      "value": 1.536884306587598
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C15",
+      "value": 1.3775301637921453
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D15",
+      "value": 1.536884306587596
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J15",
+      "value": 1.5694841610053667
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K15",
+      "value": 1.4879845249609402
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L15",
+      "value": 1.536884306587598
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M15",
+      "value": 99.99999999999987
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N15",
+      "value": 89.63135077166136
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E15",
+      "value": 1.536884306587596
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F15",
+      "value": 1.3775301637921453
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U15",
+      "value": 89.63135077166136
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G15",
+      "value": 1.536884306587596
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O15",
+      "value": 0.9999999999999987
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P15",
+      "value": 0.8963135077166136
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q15",
+      "value": 0.01569484161005367
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R15",
+      "value": 0.014879845249609402
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S15",
+      "value": 0.015368843065875978
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B16",
+      "value": 17.3810175851205
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C16",
+      "value": 14.574963778641498
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D16",
+      "value": 17.381017585120492
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J16",
+      "value": 18.92942704679766
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K16",
+      "value": 15.058403392604717
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L16",
+      "value": 17.3810175851205
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M16",
+      "value": 99.99999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N16",
+      "value": 83.8556414045562
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E16",
+      "value": 17.381017585120492
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F16",
+      "value": 14.574963778641498
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U16",
+      "value": 83.8556414045562
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G16",
+      "value": 17.381017585120492
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O16",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P16",
+      "value": 0.8385564140455619
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q16",
+      "value": 0.1892942704679766
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R16",
+      "value": 0.15058403392604716
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S16",
+      "value": 0.173810175851205
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B17",
+      "value": 3.433063712741716
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C17",
+      "value": 3.4330637127417187
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D17",
+      "value": 3.4330637127417187
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J17",
+      "value": 2.835082876145304
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K17",
+      "value": 4.330034967636336
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L17",
+      "value": 3.433063712741716
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M17",
+      "value": 100.00000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N17",
+      "value": 100.00000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E17",
+      "value": 3.4330637127417187
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F17",
+      "value": 3.4330637127417187
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U17",
+      "value": 100.00000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G17",
+      "value": 3.4330637127417187
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O17",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P17",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q17",
+      "value": 0.02835082876145304
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R17",
+      "value": 0.043300349676363356
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S17",
+      "value": 0.03433063712741716
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B18",
+      "value": 8.651740252651376
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C18",
+      "value": 6.076635793201518
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D18",
+      "value": 8.651740252651406
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J18",
+      "value": 10.476408096605839
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K18",
+      "value": 5.914738486719738
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L18",
+      "value": 8.651740252651376
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M18",
+      "value": 100.00000000000036
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N18",
+      "value": 70.23599432887849
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E18",
+      "value": 8.651740252651406
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F18",
+      "value": 6.076635793201518
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U18",
+      "value": 70.23599432887849
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G18",
+      "value": 8.651740252651406
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O18",
+      "value": 1.0000000000000036
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P18",
+      "value": 0.7023599432887849
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q18",
+      "value": 0.1047640809660584
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R18",
+      "value": 0.05914738486719738
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S18",
+      "value": 0.08651740252651376
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B19",
+      "value": 5.296213619727362
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C19",
+      "value": 5.065264272698256
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D19",
+      "value": 5.296213619727363
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J19",
+      "value": 5.617936074046507
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K19",
+      "value": 4.813629938248642
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L19",
+      "value": 5.296213619727362
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M19",
+      "value": 100.00000000000003
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N19",
+      "value": 95.63934985233857
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E19",
+      "value": 5.296213619727363
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F19",
+      "value": 5.065264272698256
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U19",
+      "value": 95.63934985233857
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G19",
+      "value": 5.296213619727363
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O19",
+      "value": 1.0000000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P19",
+      "value": 0.9563934985233857
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q19",
+      "value": 0.05617936074046507
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R19",
+      "value": 0.04813629938248642
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S19",
+      "value": 0.052962136197273614
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B20",
+      "value": 4.253833958034352
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C20",
+      "value": 4.108084086783045
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D20",
+      "value": 4.253833958034354
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J20",
+      "value": 5.358701266019362
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K20",
+      "value": 2.5965329960568413
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L20",
+      "value": 4.253833958034352
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M20",
+      "value": 100.00000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N20",
+      "value": 96.57368217261926
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E20",
+      "value": 4.253833958034354
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F20",
+      "value": 4.085625051428892
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U20",
+      "value": 96.04571056922055
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G20",
+      "value": 4.253833958034354
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O20",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P20",
+      "value": 0.9657368217261926
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q20",
+      "value": 0.05358701266019362
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R20",
+      "value": 0.025965329960568412
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S20",
+      "value": 0.04253833958034352
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B21",
+      "value": 3.970714368401896
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C21",
+      "value": 3.9691705816635383
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D21",
+      "value": 3.9707143684018984
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J21",
+      "value": 5.110032962042744
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K21",
+      "value": 2.2617364779406293
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L21",
+      "value": 3.970714368401896
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M21",
+      "value": 100.00000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N21",
+      "value": 99.9611206801818
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E21",
+      "value": 3.9707143684018984
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F21",
+      "value": 3.9660830081868177
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U21",
+      "value": 99.8833620405453
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G21",
+      "value": 3.9707143684018984
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O21",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P21",
+      "value": 0.999611206801818
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q21",
+      "value": 0.05110032962042744
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R21",
+      "value": 0.022617364779406294
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S21",
+      "value": 0.03970714368401896
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B22",
+      "value": 0.2831195896324556
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C22",
+      "value": 0.138913505119507
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D22",
+      "value": 0.2831195896324561
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J22",
+      "value": 0.2486683039766184
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K22",
+      "value": 0.3347965181162116
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L22",
+      "value": 0.2831195896324556
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M22",
+      "value": 100.00000000000017
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N22",
+      "value": 49.06531028101722
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E22",
+      "value": 0.2831195896324561
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F22",
+      "value": 0.1195420432420748
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U22",
+      "value": 42.223162091066776
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G22",
+      "value": 0.2831195896324561
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O22",
+      "value": 1.0000000000000018
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P22",
+      "value": 0.49065310281017216
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q22",
+      "value": 0.0024866830397661842
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R22",
+      "value": 0.0033479651811621157
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S22",
+      "value": 0.002831195896324556
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B23",
+      "value": 20.61576718946868
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C23",
+      "value": 14.562407668353929
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D23",
+      "value": 20.61576718946869
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J23",
+      "value": 21.92998125060739
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K23",
+      "value": 18.644446097760582
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L23",
+      "value": 20.61576718946868
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M23",
+      "value": 100.00000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N23",
+      "value": 70.63723379546583
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E23",
+      "value": 20.61576718946869
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F23",
+      "value": 14.491814075368888
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U23",
+      "value": 70.29480854232705
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G23",
+      "value": 20.61576718946869
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O23",
+      "value": 1.0000000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P23",
+      "value": 0.7063723379546584
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q23",
+      "value": 0.21929981250607392
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R23",
+      "value": 0.1864444609776058
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S23",
+      "value": 0.2061576718946868
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B24",
+      "value": 5.445098481495768
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C24",
+      "value": 4.6418061947893845
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D24",
+      "value": 5.4450984814957675
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J24",
+      "value": 7.334222241621979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K24",
+      "value": 2.6114128413064503
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L24",
+      "value": 5.445098481495768
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M24",
+      "value": 99.99999999999999
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N24",
+      "value": 85.24742409276462
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E24",
+      "value": 5.4450984814957675
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F24",
+      "value": 4.6418061947893845
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U24",
+      "value": 85.24742409276462
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G24",
+      "value": 5.4450984814957675
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O24",
+      "value": 0.9999999999999999
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P24",
+      "value": 0.8524742409276462
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q24",
+      "value": 0.0733422224162198
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R24",
+      "value": 0.026114128413064503
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S24",
+      "value": 0.054450984814957686
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B25",
+      "value": 6.833638837335652
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C25",
+      "value": 5.294381672199906
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D25",
+      "value": 6.833638837335649
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J25",
+      "value": 6.796485828513315
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K25",
+      "value": 6.889368350569154
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L25",
+      "value": 6.833638837335652
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M25",
+      "value": 99.99999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N25",
+      "value": 77.47529242069395
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E25",
+      "value": 6.833638837335649
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F25",
+      "value": 5.2649236184131185
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U25",
+      "value": 77.04421822306671
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G25",
+      "value": 6.833638837335649
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O25",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P25",
+      "value": 0.7747529242069394
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q25",
+      "value": 0.06796485828513316
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R25",
+      "value": 0.06889368350569154
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S25",
+      "value": 0.06833638837335652
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B26",
+      "value": 8.337029870637258
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C26",
+      "value": 4.62621980136464
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D26",
+      "value": 8.337029870637261
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J26",
+      "value": 7.799273180472108
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K26",
+      "value": 9.143664905884979
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L26",
+      "value": 8.337029870637258
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M26",
+      "value": 100.00000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N26",
+      "value": 55.49002310352794
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E26",
+      "value": 8.337029870637261
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F26",
+      "value": 4.585084262166387
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U26",
+      "value": 54.99661550110192
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G26",
+      "value": 8.337029870637261
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O26",
+      "value": 1.0000000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P26",
+      "value": 0.5549002310352794
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q26",
+      "value": 0.07799273180472108
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R26",
+      "value": 0.0914366490588498
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S26",
+      "value": 0.08337029870637258
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B27",
+      "value": 15.28287658359432
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C27",
+      "value": 14.916121714539052
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D27",
+      "value": 15.282876583594327
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J27",
+      "value": 13.463425856222416
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K27",
+      "value": 18.012052674652185
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L27",
+      "value": 15.28287658359432
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M27",
+      "value": 100.00000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N27",
+      "value": 97.60022357669912
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E27",
+      "value": 15.282876583594327
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F27",
+      "value": 14.894365568490874
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U27",
+      "value": 97.45786722166886
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G27",
+      "value": 15.282876583594327
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O27",
+      "value": 1.0000000000000004
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P27",
+      "value": 0.9760022357669912
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q27",
+      "value": 0.13463425856222416
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R27",
+      "value": 0.18012052674652185
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S27",
+      "value": 0.15282876583594318
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B28",
+      "value": 3.427355450827864
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C28",
+      "value": 3.4239160061096983
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D28",
+      "value": 3.4273554508278643
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J28",
+      "value": 3.956437345259197
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K28",
+      "value": 2.6337326091808646
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L28",
+      "value": 3.427355450827864
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M28",
+      "value": 100.00000000000003
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N28",
+      "value": 99.89964727127048
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E28",
+      "value": 3.4273554508278643
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F28",
+      "value": 3.4239160061096983
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U28",
+      "value": 99.89964727127048
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G28",
+      "value": 3.4273554508278643
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O28",
+      "value": 1.0000000000000002
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P28",
+      "value": 0.9989964727127049
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q28",
+      "value": 0.03956437345259197
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R28",
+      "value": 0.026337326091808645
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S28",
+      "value": 0.03427355450827864
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B29",
+      "value": 5.251878515955636
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C29",
+      "value": 5.240189402474166
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D29",
+      "value": 5.251878515955642
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J29",
+      "value": 3.5600648678123843
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K29",
+      "value": 7.789598988170524
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L29",
+      "value": 5.251878515955636
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M29",
+      "value": 100.00000000000011
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N29",
+      "value": 99.77742985779359
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E29",
+      "value": 5.251878515955642
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F29",
+      "value": 5.240189402474166
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U29",
+      "value": 99.77742985779359
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G29",
+      "value": 5.251878515955642
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O29",
+      "value": 1.000000000000001
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P29",
+      "value": 0.9977742985779359
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q29",
+      "value": 0.03560064867812384
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R29",
+      "value": 0.07789598988170524
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S29",
+      "value": 0.05251878515955636
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B30",
+      "value": 6.603642616810818
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C30",
+      "value": 6.252016305955189
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D30",
+      "value": 6.603642616810823
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J30",
+      "value": 5.946923643150832
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K30",
+      "value": 7.588721077300796
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L30",
+      "value": 6.603642616810818
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M30",
+      "value": 100.00000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N30",
+      "value": 94.67526740528783
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E30",
+      "value": 6.603642616810823
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F30",
+      "value": 6.2302601599070115
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U30",
+      "value": 94.34581065981234
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G30",
+      "value": 6.603642616810823
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O30",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P30",
+      "value": 0.9467526740528782
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q30",
+      "value": 0.059469236431508324
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R30",
+      "value": 0.07588721077300796
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S30",
+      "value": 0.06603642616810818
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "B31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "C31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "D31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "J31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "K31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "L31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "M31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "N31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "E31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "F31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "U31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "G31",
+      "value": 0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "O31",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "P31",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "Q31",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "R31",
+      "value": 0.0
+    },
+    {
+      "sheet": "Sheet2",
+      "cell": "S31",
+      "value": 0.0
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M13",
+      "value": 0.9999999999999999
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N13",
+      "value": 0.8868812173397717
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M14",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N14",
+      "value": 0.9827896670847991
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M16",
+      "value": 1.0
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N16",
+      "value": 0.9689282989705653
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M17",
+      "value": 1.000000000000002
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N17",
+      "value": 1.000000000000002
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M19",
+      "value": 0.9999999999999979
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N19",
+      "value": 0.9999999999999979
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M21",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N21",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M22",
+      "value": 1.0
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N22",
+      "value": 1.0
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M28",
+      "value": 1.0000000000000002
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N28",
+      "value": 0.906052546134517
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M30",
+      "value": 1.0
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N30",
+      "value": 0.8186770971995493
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M31",
+      "value": 1.0000000000000013
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N31",
+      "value": 0.9819697900377256
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M32",
+      "value": 0.9999999999999978
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N32",
+      "value": 0.9390446763627825
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M34",
+      "value": 0.9999999999999987
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N34",
+      "value": 0.8963135077166136
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M36",
+      "value": 0.9999999999999987
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N36",
+      "value": 0.8963135077166136
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M38",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N38",
+      "value": 0.8385564140455619
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M40",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N40",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M41",
+      "value": 1.0000000000000036
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N41",
+      "value": 0.7023599432887849
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M42",
+      "value": 1.0000000000000002
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N42",
+      "value": 0.9563934985233857
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M48",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N48",
+      "value": 0.9604571056922054
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M50",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N50",
+      "value": 0.998833620405453
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M51",
+      "value": 1.0000000000000018
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N51",
+      "value": 0.42223162091066774
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M53",
+      "value": 1.0000000000000004
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N53",
+      "value": 0.7029480854232705
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M55",
+      "value": 0.9999999999999999
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N55",
+      "value": 0.8524742409276462
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M56",
+      "value": 0.9999999999999996
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N56",
+      "value": 0.7704421822306671
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M57",
+      "value": 1.0000000000000004
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N57",
+      "value": 0.5499661550110192
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M59",
+      "value": 1.0000000000000004
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N59",
+      "value": 0.9745786722166886
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M61",
+      "value": 1.0000000000000002
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N61",
+      "value": 0.9989964727127049
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M62",
+      "value": 1.000000000000001
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N62",
+      "value": 0.9977742985779359
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "M63",
+      "value": 1.0000000000000007
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "N63",
+      "value": 0.9434581065981235
+    }
+  ],
+  "summaryMapping": [
+    {
+      "row": 2,
+      "uid": 0,
+      "name": "برنامه جامع نما"
+    },
+    {
+      "row": 3,
+      "uid": 11,
+      "name": "   شروع"
+    },
+    {
+      "row": 4,
+      "uid": 3,
+      "name": "   قرارداد مدیریت راهبردی"
+    },
+    {
+      "row": 5,
+      "uid": 1177,
+      "name": "       مهندسی مدیریت راهبردی نمای دانشکده کشاورزی"
+    },
+    {
+      "row": 6,
+      "uid": 1155,
+      "name": "       مهندسی مدیریت راهبردی نمای ساختمان کتابخانه"
+    },
+    {
+      "row": 7,
+      "uid": 5,
+      "name": "   تهیه و ساخت پروفیل های آلومینیومی"
+    },
+    {
+      "row": 8,
+      "uid": 12,
+      "name": "       تهیه، ساخت و ارسال پروفیل آلومینیومی و متعلقات ساختمان کشاورزی"
+    },
+    {
+      "row": 9,
+      "uid": 13,
+      "name": "       تهیه، ساخت و ارسال پروفیل آلومینیومی و متعلقات ساختمان کتابخانه"
+    },
+    {
+      "row": 10,
+      "uid": 4,
+      "name": "   تهیه، ساخت و ارسال شیشه"
+    },
+    {
+      "row": 11,
+      "uid": 39,
+      "name": "       تهیه و ساخت و ارسال شیشه نمای ساختمان کشاورزی"
+    },
+    {
+      "row": 12,
+      "uid": 44,
+      "name": "       تهیه و ساخت و ارسال شیشه نمای ساختمان کتابخانه"
+    },
+    {
+      "row": 13,
+      "uid": 1244,
+      "name": "       تهیه و ساخت و ارسال شیشه‌های اسکای لایت"
+    },
+    {
+      "row": 14,
+      "uid": 6,
+      "name": "   تهیه و ساخت پنل های بتنی صدر بتن"
+    },
+    {
+      "row": 15,
+      "uid": 193,
+      "name": "       ساختمان کتابخانه نمای کاور بتنی ستون‌ها صدر بتن"
+    },
+    {
+      "row": 16,
+      "uid": 7,
+      "name": "   تهیه و ساخت پنل های آجری و بتنی آلومینیوم شیشه تهران"
+    },
+    {
+      "row": 17,
+      "uid": 80,
+      "name": "       ساختمان کتابخانه نمای بتنی آلومینیوم شیشه تهران"
+    },
+    {
+      "row": 18,
+      "uid": 99,
+      "name": "       ساختمان کشاورزی نمای بتنی آلومینیوم شیشه تهران"
+    },
+    {
+      "row": 19,
+      "uid": 70,
+      "name": "       ساختمان کشاورزی نمای آجری آلومینیوم شیشه تهران"
+    },
+    {
+      "row": 20,
+      "uid": 8,
+      "name": "   تهیه، ساخت و نصب سازه تیر میانی و اسکای لایت"
+    },
+    {
+      "row": 21,
+      "uid": 307,
+      "name": "       عملیات زیرسازی فولادی و آلومینیومی"
+    },
+    {
+      "row": 22,
+      "uid": 290,
+      "name": "       نصب شیشه، فلاشینگ و آب‌بندی"
+    },
+    {
+      "row": 23,
+      "uid": 9,
+      "name": "   تهیه، ساخت و نصب المان‌های شفاف و سالید نما در ساختمان کشاورزی"
+    },
+    {
+      "row": 24,
+      "uid": 17,
+      "name": "       خرید و تهیه متریال و مصالح و تجهیزات نمای ساختمان کشاورزی"
+    },
+    {
+      "row": 25,
+      "uid": 340,
+      "name": "       ساخت و ارسال مصالح نمای ساختمان کشاورزی"
+    },
+    {
+      "row": 26,
+      "uid": 470,
+      "name": "       پیاده سازی، نصب و اجرای نمای ساختمان کشاورزی"
+    },
+    {
+      "row": 27,
+      "uid": 773,
+      "name": "   تهیه، ساخت و نصب المان های شفاف و سالید نما در ساختمان کتابخانه"
+    },
+    {
+      "row": 28,
+      "uid": 1112,
+      "name": "       خرید و تهیه متریال و مصالح و تجهیزات نمای ساختمان کتابخانه"
+    },
+    {
+      "row": 29,
+      "uid": 909,
+      "name": "       ساخت و ارسال مصالح نمای ساختمان کتابخانه"
+    },
+    {
+      "row": 30,
+      "uid": 998,
+      "name": "       پیاده سازی، نصب و اجرای نمای ساختمان کتابخانه"
+    },
+    {
+      "row": 31,
+      "uid": 1446,
+      "name": "   پایان"
+    }
+  ],
+  "changed": [
+    {
+      "uid": 332,
+      "name": "نصب و تحویل پروفیل آلومینیومی اسکای لایت بام ساختمان دانشکده کشاورزی",
+      "contractor": "آرانسیج(اسکای لایت)",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "پروفیل آلومینیومی و ملحقات اسکای لایت بام",
+      "facade": "",
+      "unit": "مترمربع",
+      "old": 335,
+      "new": 345,
+      "delta": 10,
+      "fraction": 0.9857142857142859
+    },
+    {
+      "uid": 294,
+      "name": "نصب و تحویل شیشه، فلاشینگ و آب‌بندی اسکای لایت بام ساختمان دانشکده کشاورزی",
+      "contractor": "آرانسیج(اسکای لایت)",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "نصب شیشه اسکای لایت بام",
+      "facade": "",
+      "unit": "مترمربع",
+      "old": 0,
+      "new": 78,
+      "delta": 78,
+      "fraction": 0.22285714285714284
+    },
+    {
+      "uid": 1650,
+      "name": "حمل به کارگاه زیرسازی فولادی پنل بتنی نمای شمال",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "ارسال",
+      "material": "زیرسازی پنل بتنی",
+      "facade": "شمال",
+      "unit": "کیلوگرم",
+      "old": 14369,
+      "new": 15000,
+      "delta": 631,
+      "fraction": 1.0
+    },
+    {
+      "uid": 1658,
+      "name": "حمل به کارگاه آهن الات سازه تقویت بک آپ استراکچر",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "ارسال",
+      "material": "سازه تقویت بک آپ استراکچر",
+      "facade": "",
+      "unit": "کیلوگرم",
+      "old": 218409,
+      "new": 227809,
+      "delta": 9400,
+      "fraction": 0.8406236162361622
+    },
+    {
+      "uid": 498,
+      "name": "پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - شمال",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "شیشه کرتین وال و ویندووال",
+      "facade": "شمال",
+      "unit": "مترمربع",
+      "old": 213.39,
+      "new": 314.67,
+      "delta": 101.28000000000003,
+      "fraction": 0.6268326693227092
+    },
+    {
+      "uid": 480,
+      "name": "پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما -  غرب",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "شیشه کرتین وال و ویندووال",
+      "facade": "غرب",
+      "unit": "مترمربع",
+      "old": 960.46,
+      "new": 993.48,
+      "delta": 33.01999999999998,
+      "fraction": 0.6894378903539209
+    },
+    {
+      "uid": 728,
+      "name": "پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - ویندووال داخلی",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "شیشه کرتین وال و ویندووال",
+      "facade": "داخلی",
+      "unit": "مترمربع",
+      "old": 54.55,
+      "new": 72.35,
+      "delta": 17.799999999999997,
+      "fraction": 0.17560679611650484
+    },
+    {
+      "uid": 616,
+      "name": "پیاده سازی،حمل و نصب زیرسازی پنل آجری شمال",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "زیرسازی پنل آجری",
+      "facade": "شمال",
+      "unit": "کیلوگرم",
+      "old": 0,
+      "new": 121,
+      "delta": 121,
+      "fraction": 0.0605
+    },
+    {
+      "uid": 634,
+      "name": "پیاده سازی،حمل و نصب زیرسازی پنل بتنی غرب",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "زیرسازی پنل بتنی",
+      "facade": "غرب",
+      "unit": "کیلوگرم",
+      "old": 101000,
+      "new": 103112,
+      "delta": 2112,
+      "fraction": 0.9373818181818181
+    },
+    {
+      "uid": 770,
+      "name": "حمل و نصب پنل بتنی غرب",
+      "contractor": "طرح و نقش آدرم",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "پنل بتنی",
+      "facade": "غرب",
+      "unit": "مترمربع",
+      "old": 1186.54,
+      "new": 1303.61,
+      "delta": 117.06999999999994,
+      "fraction": 0.40484782608695646
+    },
+    {
+      "uid": 1822,
+      "name": "پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نمای جنوبی",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "شیشه کرتین وال و ویندووال",
+      "facade": "جنوب",
+      "unit": "مترمربع",
+      "old": 967.1525287931896,
+      "new": 974.3299130513954,
+      "delta": 7.177384258205734,
+      "fraction": 0.9887558610643239
+    },
+    {
+      "uid": 1052,
+      "name": "نصب شیشه‌های دوجداره و پرشر پلیت و اجرای کلیه فصل‌های مشترک پیرامونی، منطبق بر مشخصات فنی کرتین وال کلمپ",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "شیشه کلمپ",
+      "facade": "کلمپ",
+      "unit": "مترمربع",
+      "old": 1500,
+      "new": 1560,
+      "delta": 60,
+      "fraction": 0.8346709470304975
+    },
+    {
+      "uid": 2022,
+      "name": "حمل به طبقات، نصب، رگلاژ نهایی و درزبندی پنل بتنی مطابق با مشخصات فنی، جزئیات الزامات ارائه‌شده نمای شمال",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "پنل بتنی پهنه",
+      "facade": "شمال",
+      "unit": "مترمربع",
+      "old": 425,
+      "new": 435.00000000000006,
+      "delta": 10.000000000000057,
+      "fraction": 0.9819413092550792
+    },
+    {
+      "uid": 1086,
+      "name": "پیاده‌سازی، نصب کامل، رگلاژ، اجرای تاج آب نهایی، زیرسازی‌های فلزی المان‌های اصلی، تکیه‌گاه‌های سازه، جداره بتنی دور ستون‌ها",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "زیرسازی پنل بتنی ستون‌ها",
+      "facade": "ستونها",
+      "unit": "کیلوگرم",
+      "old": 67915,
+      "new": 68714,
+      "delta": 799,
+      "fraction": 0.9555555555555556
+    },
+    {
+      "uid": 2026,
+      "name": "نصب لاستیک‌ها، حمل شیشه‌ها به طبقات، نصب شیشه، رگلاژ نهایی، نصب کاور و دستگیره آلومینیومی، آب‌بندی و درزبندی منطبق مشخصات فنی نمای جنوب",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "شیشه هندریل",
+      "facade": "جنوب",
+      "unit": "مترمربع",
+      "old": 67,
+      "new": 68,
+      "delta": 1,
+      "fraction": 0.9812409812409811
+    },
+    {
+      "uid": 1104,
+      "name": "اجرای فلاشینگ فولادی همراه باجوش‌کاری به همراه آب‌بندی کامل",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "فلاشینگ فولادی",
+      "facade": "",
+      "unit": "مترمربع",
+      "old": 430.8113673805601,
+      "new": 435.15568369028006,
+      "delta": 4.344316309719943,
+      "fraction": 0.9901153212520594
+    },
+    {
+      "uid": 1111,
+      "name": "نصب به همراه درزبندی مطابق مشخصات فنی اجرای هوابندی بخش بالایی ویندووال‌ها",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کتابخانه",
+      "phase": "نصب و اجرا",
+      "material": "هوابند",
+      "facade": "",
+      "unit": "مترمربع",
+      "old": 335,
+      "new": 349,
+      "delta": 14,
+      "fraction": 0.9926052332195677
+    },
+    {
+      "uid": 2057,
+      "name": "نصب و اجرای زیرسازی-کرتین وال کلمپ- شرق",
+      "contractor": "آرانسیج(کتابخانه)",
+      "building": "کشاورزی",
+      "phase": "نصب و اجرا",
+      "material": "زیرسازی کلمپ",
+      "facade": "شرق",
+      "unit": "مترمربع",
+      "old": 19,
+      "new": 26,
+      "delta": 7,
+      "fraction": 0.4126984126984127
+    }
+  ],
+  "progress": 88.80293050836516,
+  "pending": [
+    "period definition",
+    "delivery logs",
+    "current manpower counts",
+    "agriculture PDF date"
+  ]
+}

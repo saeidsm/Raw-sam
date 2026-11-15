@@ -1,0 +1,11 @@
+{
+  "file": "unbundled-historical-reference/employer-working.xlsx",
+  "sha256": "fbd4d746b0182d387ee9ad9ae999c0432041442fef41f09c7b5873cbfe55f36f",
+  "current_progress": 88.80293050836516,
+  "execution_rows": 16,
+  "steel_period": 9400,
+  "charts": 11,
+  "formula_errors_in_report_ranges": [],
+  "missing_data_explicit": true,
+  "source_files_unchanged": true
+}

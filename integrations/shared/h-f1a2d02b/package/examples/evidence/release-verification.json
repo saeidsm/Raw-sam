@@ -1,0 +1,14 @@
+{
+  "output": "examples/msp/after-1405.08.25.mpp",
+  "sha256": "22b2205343603cb931dada1b08817547aba57f3d165edad259b0e5126aa43826",
+  "counts": {
+    "leaf_increase": 18,
+    "leaf_zero": 814,
+    "summary_increase": 30,
+    "summary_zero": 242
+  },
+  "progress": 88.80293050836516,
+  "all_1104_nonnegative": true,
+  "inputs_unchanged": true,
+  "formulas_and_structure_preserved": true
+}
