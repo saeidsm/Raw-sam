@@ -1,9 +1,10 @@
 {
   ".gitignore": "3dd13d18a0305d42d66b2ffab47d57a0cd0073165f106ff644a48e3b745df8a7",
-  "catalog.json": "30e316fa9d410f0d895170faa82eb73d932941f2afb65ac324fd68e2efbf5999",
-  "README.md": "96e4ada30b9e4d70da65dc08563e8e9391ca7a80966555708956a42b1f9f9fed",
+  "catalog.json": "3939df91ad667da1254526dbb653a43c8d0f27e619434a62caa642fbae3aa2fb",
+  "README.md": "2b28785cf3d24206909c1aa532a1a3f2bd24078d3d62d2d4a373ecdf0c0fbe32",
   "SKILL.md": "8845e19ce3364a5978c003badadf12752b9dfa5db4e64b3fc574aabbd2920d45",
   "sources.json": "b8d0a8ac5615cefb71e307f7f502edba42d5a1c6be313fd032cc6c992c485804",
+  "docs/cloud-continuation.fa.md": "3206c2e6f0916a6c6b320c3364bcfa51f90a4076d2926798bea62225803fb7b7",
   "docs/data-contract.md": "eaf004595cf4664a65a26da2ac467c10cb195bc2c9842904258753f75dd4d005",
   "docs/handoff-prompt.fa.md": "6b60f4e96e89f7b07c6f283aa6bed3bb5f214700b43cecf81af82582ca851d00",
   "docs/user-guide.fa.md": "d923cc3115580c7d7ef416647e8d6d7e2ce289090fe8789ba06df9925e896257",

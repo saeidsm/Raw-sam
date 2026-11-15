@@ -293,5 +293,6 @@
       "historical_qa_passed": true
     }
   ],
-  "publication_status": "complete"
+  "publication_status": "complete",
+  "cloud_guide": "docs/cloud-continuation.fa.md"
 }

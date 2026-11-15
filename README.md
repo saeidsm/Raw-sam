@@ -9,3 +9,6 @@ The management-report workflow is ready. MSP-update and employer-workbook module
 Use immutable period/revision folders. Keep the original source, user decisions and QA; latest pointers refer to accepted revisions. Do not infer actual payment from approval. Iron differential is an advance within adjustment, settled once.
 
 To verify files locally: `python scripts/validate.py`. See [data contract](docs/data-contract.md) before contributing a module or a new period.
+
+
+[راهنمای ادامه از چت ابری](docs/cloud-continuation.fa.md)
