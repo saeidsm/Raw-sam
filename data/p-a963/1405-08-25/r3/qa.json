@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "period": "1405-08-25",
+  "revision": "r3",
+  "slides": 6,
+  "native_tables": 12,
+  "font": "Vazirmatn",
+  "embedded_font_parts": 2,
+  "persian_rtl_paragraphs": 376,
+  "visible_latin_characters": 0,
+  "all_pages_rendered_and_visually_inspected": true,
+  "first_page_blue_box_and_footer_verified": true,
+  "quantitative_checks": "weighted leaf totals, active numerator and denominator, same-scope growth, workforce sums and deduplication, added-package durations and milestones",
+  "native_editability": {
+    "barResizedReopened": true,
+    "tableEditedReopened": true,
+    "addedPackageTableEdited": true,
+    "project": "agriculture",
+    "slides": 6,
+    "rendered": 6,
+    "textEditedReopened": true,
+    "opened": true
+  },
+  "sha256": "eba2caf00eed784636e473361a8697d2a1a9531d1feea4462402ef0aed6d196c",
+  "chart_editing": "Charts use editable shapes. Update bar widths together with labels; not spreadsheet-linked."
+}

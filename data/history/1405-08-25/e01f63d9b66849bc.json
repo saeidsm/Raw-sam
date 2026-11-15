@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "record_id": "r-e01f63d9b66849bc",
+  "kind": "verified_revision",
+  "period": "1405-08-25",
+  "revision": "v3-adram-active-scope-pptx",
+  "qa_passed": true,
+  "project_ids": [
+    "p-a963"
+  ],
+  "snapshot_ref": "data/p-a963/1405-08-25/r3/snapshot.json",
+  "output_ref": "outputs/p-a963/1405-08-25/r3/آدرم_کشاورزی_1405-08-25-r3.pptx",
+  "qa_ref": "data/p-a963/1405-08-25/r3/qa.json",
+  "supersedes": "data/p-a963/1405-08-25/r2/snapshot.json"
+}

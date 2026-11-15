@@ -20,7 +20,7 @@
   },
   "latest": {
     "p-7c21": "data/p-7c21/1405-08-25/r2/snapshot.json",
-    "p-a963": "data/p-a963/1405-08-25/r2/snapshot.json",
+    "p-a963": "data/p-a963/1405-08-25/r3/snapshot.json",
     "p-49bc": "data/p-49bc/1405-08-25/r2/snapshot.json"
   },
   "finance": "data/shared/1405-08-25/r2/finance.json",
@@ -159,11 +159,18 @@
       "period": "1405-08-25",
       "revision": "v2-finance-pptx",
       "qa_passed": true
+    },
+    {
+      "record_id": "r-e01f63d9b66849bc",
+      "period": "1405-08-25",
+      "revision": "v3-adram-active-scope-pptx",
+      "qa_passed": true,
+      "path": "data/history/1405-08-25/e01f63d9b66849bc.json"
     }
   ],
   "templates": {
     "p-7c21": "templates/p-7c21/1405-08-25/r2/reference.pptx",
-    "p-a963": "templates/p-a963/1405-08-25/r2/reference.pptx"
+    "p-a963": "templates/p-a963/1405-08-25/r3/reference.pptx"
   },
   "outputs": [
     {
@@ -176,9 +183,9 @@
     {
       "project_id": "p-a963",
       "period": "1405-08-25",
-      "revision": "r2",
-      "path": "outputs/p-a963/1405-08-25/r2/آدرم_کشاورزی_1405-08-25-r2.pptx",
-      "sha256": "61d006be219e6cba89dff37392d9f257cdac10dd75fe44a08bcd4497020bae0e"
+      "revision": "r3",
+      "path": "outputs/p-a963/1405-08-25/r3/آدرم_کشاورزی_1405-08-25-r3.pptx",
+      "sha256": "eba2caf00eed784636e473361a8697d2a1a9531d1feea4462402ef0aed6d196c"
     }
   ],
   "modules": {
@@ -286,9 +293,9 @@
     {
       "project_id": "p-a963",
       "period": "1405-08-25",
-      "revision": "v2-finance-pptx",
-      "path": "outputs/p-a963/1405-08-25/r2/آدرم_کشاورزی_1405-08-25-r2.pptx",
-      "sha256": "61d006be219e6cba89dff37392d9f257cdac10dd75fe44a08bcd4497020bae0e",
+      "revision": "r3",
+      "path": "outputs/p-a963/1405-08-25/r3/آدرم_کشاورزی_1405-08-25-r3.pptx",
+      "sha256": "eba2caf00eed784636e473361a8697d2a1a9531d1feea4462402ef0aed6d196c",
       "format": "pptx",
       "historical_qa_passed": true
     },
@@ -320,10 +327,12 @@
   },
   "integration_guide": "docs/integration-status.fa.md",
   "decision_updates": [
-    "data/shared/1405-08-25/h2/decisions.json"
+    "data/shared/1405-08-25/h2/decisions.json",
+    "data/shared/1405-08-25/r3/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
   ],
-  "current_scope_policy": "data/shared/1405-08-25/h2/scope-policy.json"
+  "current_scope_policy": "data/shared/1405-08-25/r3/scope-policy.json",
+  "management_report_qa": "data/p-a963/1405-08-25/r3/qa.json"
 }

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "period": "1405-08-25",
+  "revision": "r3",
+  "decisions": [
+    {
+      "decision_id": "d-r3-added-panel-quantities",
+      "source": "explicit_user_answer_in_current_conversation",
+      "confirmed": true,
+      "dismantling_m2": 600,
+      "two_tone_installation_m2": 5078,
+      "quote": "بازگشایی ۶۰۰؛ نصب دورنگ ۵٬۰۷۸ مترمربع"
+    },
+    {
+      "decision_id": "d-r3-added-panel-durations",
+      "source": "explicit_user_answer_in_current_conversation",
+      "confirmed": true,
+      "dismantling_days": 20,
+      "repair_days": 10,
+      "installation_m2_per_week": 200,
+      "quote": "بازگشایی ظرف 20 روز اصلاح زیر سازی آسیب دیده 10 روز و نصب هفته ای 200 متر",
+      "calendar_basis": null,
+      "added_crew_count": null,
+      "scope": "added package only; not production/procurement lead time"
+    }
+  ]
+}

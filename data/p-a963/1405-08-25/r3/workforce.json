@@ -1,0 +1,327 @@
+{
+  "period": "1405-08-25",
+  "scope": "Adram active execution after all-face cement-board transfer",
+  "point_in_time": "1405-08-25",
+  "current_rows": [
+    {
+      "id": 4,
+      "crew": 6,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/09",
+      "volume": "80",
+      "tail": "1405/08/01           1405/07/24              ن ت            ب رغ                      ن یگنس هزاس -رچکارتسا پ آ ک ب ت یوقت هزاس",
+      "notes": ""
+    },
+    {
+      "id": 6,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/25",
+      "end": "1405/09/24",
+      "volume": "5",
+      "tail": "1405/07/28           هاگراک دوجوم            ن ت           ل امش                  رچکارتسا پ آ ک ب ک بس هزاس -ی نتب ل نپ ی زاسریز",
+      "notes": "ل امش علض ی یارجا ض راعم عفر هب طونم*"
+    },
+    {
+      "id": 7,
+      "crew": 3,
+      "handling": 2,
+      "start": "1405/07/30",
+      "end": "1405/09/07",
+      "volume": "4",
+      "tail": "1405/07/30           هاگراک دوجوم            ن ت        ی نایم-قرش                رچکارتسا پ آ ک ب ک بس هزاس -ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/29",
+      "volume": "1",
+      "tail": "1405/08/02           1405/07/25              ن ت        ب ونج-قرش                 رچکارتسا پ آ ک ب ک بس هزاس -ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/30",
+      "end": "1405/09/07",
+      "volume": "5",
+      "tail": "1405/07/30           1405/07/25              ن ت           ب ونج                  رچکارتسا پ آ ک ب ک بس هزاس -ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 10,
+      "crew": 3,
+      "handling": 2,
+      "start": "1405/07/26",
+      "end": "1405/09/04",
+      "volume": "20",
+      "tail": "1405/07/30           1405/07/23              ن ت            ب رغ                  رچکارتسا پ آ ک ب ک بس هزاس -ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "crew": 5,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/27",
+      "volume": "5",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم            ن ت           ل امش                             ی نتب روول-ی نتب ل نپ ی زاسریز",
+      "notes": "ل امش علض ی یارجا ض راعم عفر هب طونم*"
+    },
+    {
+      "id": 12,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/06",
+      "volume": "1",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم            ن ت           ل امش                           هقبط ت ماخض-ی نتب ل نپ ی زاسریز",
+      "notes": "ل امش علض ی یارجا ض راعم عفر هب طونم*"
+    },
+    {
+      "id": 14,
+      "crew": 3,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/09/15",
+      "volume": "1",
+      "tail": "1405/07/29           1405/07/23              ن ت           ب ونج                           هقبط ت ماخض-ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 15,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/29",
+      "volume": "20",
+      "tail": "1405/08/01           1405/07/20              ن ت           ب ونج                             ی نتب روول-ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/26",
+      "volume": "12",
+      "tail": "1405/08/01           1405/07/20              ن ت           قرش                             Flat Wall-ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 18,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/27",
+      "volume": "30",
+      "tail": "1405/08/01           1405/07/20              ن ت           قرش                               ی نتب روول-ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 20,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/16",
+      "volume": "25",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم            ن ت            ب رغ                           Flat Wall-ی نتب ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 22,
+      "crew": 3,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/09/30",
+      "volume": "29",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم            ن ت           ل امش                                 ی رجآ ل نپ ی زاسریز",
+      "notes": "ل امش علض ی یارجا ض راعم عفر هب طونم*"
+    },
+    {
+      "id": 25,
+      "crew": 3,
+      "handling": 2,
+      "start": "1405/08/07",
+      "end": "1405/09/06",
+      "volume": "3,212",
+      "tail": "-                     -                ن ت            ب رغ                                       ی نتب ل نپ",
+      "notes": ""
+    },
+    {
+      "id": 27,
+      "crew": 5,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/20",
+      "volume": "59",
+      "tail": "-                     -             عبرمرتم          ب ونج                                       ی نتب ل نپ",
+      "notes": ""
+    },
+    {
+      "id": 28,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/24",
+      "end": "1405/09/29",
+      "volume": "2",
+      "tail": "-                     -             عبرمرتم          قرش                                         ی نتب ل نپ",
+      "notes": "ی نف و ی یارجا ت اضراعم عفر هب طونم"
+    },
+    {
+      "id": 29,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/10",
+      "volume": "440",
+      "tail": "-                     -             عبرمرتم          ل امش                                 ل اونیترک هشیش ب صن",
+      "notes": "هشیش ل یوحت ب سانت هب"
+    },
+    {
+      "id": 30,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/05",
+      "volume": "421",
+      "tail": "-                     -             عبرمرتم          ب ونج                                 ل اونیترک هشیش ب صن",
+      "notes": "هشیش ل یوحت ب سانت هب"
+    },
+    {
+      "id": 31,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/09/27",
+      "volume": "1,483",
+      "tail": "-                     -             عبرمرتم          قرش                                   ل اونیترک هشیش ب صن",
+      "notes": "هشیش ل یوحت ب سانت هب"
+    }
+  ],
+  "carryover_rows": [
+    {
+      "id": 1,
+      "crew": 5,
+      "handling": 2,
+      "start": "1405/08/06",
+      "end": "1405/08/24",
+      "volume": "21",
+      "tail": "1405/07/28           1405/07/19              ن ت        ی نایم قرش                   ن یگنس هزاس -رچکارتسا پ آ ک ب ت یوقت هزاس",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "crew": 5,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/06",
+      "volume": "25",
+      "tail": "1405/07/28           هاگراک دوجوم            ن ت           ب ونج                      ن یگنس هزاس -رچکارتسا پ آ ک ب ت یوقت هزاس",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "crew": 6,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/05",
+      "volume": "25",
+      "tail": "1405/08/01           1405/07/25              ن ت           ل امش                      ن یگنس هزاس -رچکارتسا پ آ ک ب ت یوقت هزاس",
+      "notes": "ل امش علض ی یارجا ض راعم عفر هب طونم*"
+    },
+    {
+      "id": 21,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/08/05",
+      "end": "1405/08/21",
+      "volume": "75",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم            ن ت            ب رغ                                 ی رجآ ل نپ ی زاسریز",
+      "notes": ""
+    },
+    {
+      "id": 23,
+      "crew": 3,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/08/18",
+      "volume": "60",
+      "tail": "1405/07/26           1405/07/19              ن ت           ب ونج                                ی رجآ ی زاسریز ل یمکت",
+      "notes": ""
+    },
+    {
+      "id": 32,
+      "crew": 4,
+      "handling": 2,
+      "start": "1405/07/20",
+      "end": "1405/08/25",
+      "volume": "728",
+      "tail": "-                     -             عبرمرتم           ب رغ                                 ل اونیترک هشیش ب صن",
+      "notes": "هشیش ل یوحت ب سانت هب"
+    },
+    {
+      "id": 34,
+      "crew": 1,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/07/29",
+      "volume": "58",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم         عبرمرتم          ی لخاد                           دنبدود و دنباوه ی ارجا و ب صن",
+      "notes": ""
+    },
+    {
+      "id": 35,
+      "crew": 1,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/07/26",
+      "volume": "70",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم         عبرمرتم          ل امش                            دنبدود و دنباوه ی ارجا و ب صن",
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "crew": 2,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/07/24",
+      "volume": "243",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم         عبرمرتم          ب ونج                            دنبدود و دنباوه ی ارجا و ب صن",
+      "notes": ""
+    },
+    {
+      "id": 37,
+      "crew": 2,
+      "handling": 1,
+      "start": "1405/07/20",
+      "end": "1405/08/01",
+      "volume": "104",
+      "tail": "هاگراک دوجوم         هاگراک دوجوم         عبرمرتم          قرش                              دنبدود و دنباوه ی ارجا و ب صن",
+      "notes": ""
+    }
+  ],
+  "current_crew": 79,
+  "carryover_crew": 33,
+  "execution_capacity": 112,
+  "handling_separate": 10,
+  "actual_week_mean": 40,
+  "gap_to_conditional_capacity": 72,
+  "condition": "front release, material availability and dependencies; not unconditional deployment or a weekly mean",
+  "carryover_rule": "retain last unclosed tasks; expired tasks move once, not counted twice",
+  "evidence": [
+    "data/p-a963/1405-08-25/r2/workforce.json"
+  ],
+  "cement_board_crew_in_previous_count": 0,
+  "additional_deduction_due_to_scope_change": 0,
+  "actual_coverage_percent": 35.714285714285715,
+  "added_package_included": false,
+  "explanation": "The selected action-plan rows contain no cement-board, clamp or held brick-panel installation crews. All retained concrete/brick substrates and unclosed carryover tasks remain. Do not reduce demand by scope-weight percentage.",
+  "prior_ledger_ref": "data/p-a963/1405-08-25/r2/snapshot.json",
+  "actionplan_rows_ref": "data/p-a963/1405-08-25/r3/actionplan-rows.json"
+}

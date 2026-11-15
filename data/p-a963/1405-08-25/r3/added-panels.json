@@ -1,0 +1,42 @@
+{
+  "status": "user_confirmed_planning_inputs",
+  "period": "1405-08-25",
+  "dismantling_m2": 600,
+  "dismantling_days": 20,
+  "repair_days": 10,
+  "two_tone_installation_m2": 5078,
+  "installation_rate_m2_per_week": 200,
+  "installation_weeks": 25.39,
+  "installation_completion_week": 26,
+  "preparation_days_sequential": 30,
+  "total_expression": "30 days preparation +25.39 weeks installation; completion in installation week26",
+  "day_calendar": "User supplied days; not converted to working/calendar weeks",
+  "sequence_assumption": "Sequential dismantling, repair and installation; no overlap credited",
+  "excluded_from_main_workforce": true,
+  "added_crew_count": null,
+  "main_execution_requirement": 112,
+  "procurement_lead_time_included": false,
+  "installation_start_condition": "Substrate ready and new panels delivered",
+  "milestones": [
+    {
+      "week": 5,
+      "installed_m2": 1000,
+      "remaining_m2": 4078
+    },
+    {
+      "week": 10,
+      "installed_m2": 2000,
+      "remaining_m2": 3078
+    },
+    {
+      "week": 20,
+      "installed_m2": 4000,
+      "remaining_m2": 1078
+    },
+    {
+      "week": 26,
+      "installed_m2": 5078,
+      "remaining_m2": 0
+    }
+  ]
+}

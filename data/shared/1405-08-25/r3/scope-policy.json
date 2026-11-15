@@ -1,0 +1,37 @@
+{
+  "decision_id": "d-h2-cement-all-faces",
+  "project_id": "p-a963",
+  "excluded_from_adram_execution_uids": [
+    753,
+    754,
+    751,
+    749,
+    755,
+    756,
+    752,
+    750
+  ],
+  "scope_includes": [
+    "cement-board substrate installation on all four faces",
+    "cement-board panel installation on all four faces"
+  ],
+  "native_baseline_change_authorized": false,
+  "retained_phases": [
+    "procurement",
+    "production",
+    "shipment"
+  ],
+  "hold_unchanged": "brick-faced concrete panel installation only; ordinary concrete and retained substrates remain active",
+  "required_recalculations": [
+    "Adram active overall progress",
+    "Adram active installation progress",
+    "Adram active workforce requirement"
+  ],
+  "previous_published_calculation": "data/p-a963/1405-08-25/r2/calculation.json",
+  "calculation_status": "recalculated_and_report_verified",
+  "supersedes": "data/shared/1405-08-25/h2/scope-policy.json",
+  "calculation_ref": "data/p-a963/1405-08-25/r3/calculation.json",
+  "workforce_ref": "data/p-a963/1405-08-25/r3/workforce.json",
+  "added_package_ref": "data/p-a963/1405-08-25/r3/added-panels.json",
+  "native_mpp_or_employer_workbook_reissued": false
+}
