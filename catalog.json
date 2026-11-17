@@ -20,7 +20,7 @@
   },
   "latest": {
     "p-7c21": "data/p-7c21/1405-08-25/r2/snapshot.json",
-    "p-a963": "data/p-a963/1405-08-25/r3/snapshot.json",
+    "p-a963": "data/p-a963/1405-08-25/r4/snapshot.json",
     "p-49bc": "data/p-49bc/1405-08-25/r2/snapshot.json"
   },
   "finance": "data/shared/1405-08-25/r2/finance.json",
@@ -166,11 +166,18 @@
       "revision": "v3-adram-active-scope-pptx",
       "qa_passed": true,
       "path": "data/history/1405-08-25/e01f63d9b66849bc.json"
+    },
+    {
+      "record_id": "r-a7bf74436efe931d",
+      "period": "1405-08-25",
+      "revision": "v4-adram-native-charts",
+      "qa_passed": true,
+      "path": "data/history/1405-08-25/a7bf74436efe931d.json"
     }
   ],
   "templates": {
     "p-7c21": "templates/p-7c21/1405-08-25/r2/reference.pptx",
-    "p-a963": "templates/p-a963/1405-08-25/r3/reference.pptx"
+    "p-a963": "templates/p-a963/1405-08-25/r4/reference.pptx"
   },
   "outputs": [
     {
@@ -183,9 +190,9 @@
     {
       "project_id": "p-a963",
       "period": "1405-08-25",
-      "revision": "r3",
-      "path": "outputs/p-a963/1405-08-25/r3/آدرم_کشاورزی_1405-08-25-r3.pptx",
-      "sha256": "eba2caf00eed784636e473361a8697d2a1a9531d1feea4462402ef0aed6d196c"
+      "revision": "r4",
+      "path": "outputs/p-a963/1405-08-25/r4/آدرم_کشاورزی_1405-08-25-r4.pptx",
+      "sha256": "cc229e079d154d5711ff2bd811b29ba1ec5a4afec8e4deb06e141215c1e6d4d5"
     }
   ],
   "modules": {
@@ -293,9 +300,9 @@
     {
       "project_id": "p-a963",
       "period": "1405-08-25",
-      "revision": "r3",
-      "path": "outputs/p-a963/1405-08-25/r3/آدرم_کشاورزی_1405-08-25-r3.pptx",
-      "sha256": "eba2caf00eed784636e473361a8697d2a1a9531d1feea4462402ef0aed6d196c",
+      "revision": "r4",
+      "path": "outputs/p-a963/1405-08-25/r4/آدرم_کشاورزی_1405-08-25-r4.pptx",
+      "sha256": "cc229e079d154d5711ff2bd811b29ba1ec5a4afec8e4deb06e141215c1e6d4d5",
       "format": "pptx",
       "historical_qa_passed": true
     },
@@ -334,5 +341,6 @@
     "data/shared/1405-08-25/h2/corrections.json"
   ],
   "current_scope_policy": "data/shared/1405-08-25/r3/scope-policy.json",
-  "management_report_qa": "data/p-a963/1405-08-25/r3/qa.json"
+  "management_report_qa": "data/p-a963/1405-08-25/r4/qa.json",
+  "native_chart_guide": "skills/management-reports/references/native-charts.fa.md"
 }

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "record_id": "r-a7bf74436efe931d",
+  "kind": "verified_revision",
+  "period": "1405-08-25",
+  "revision": "v4-adram-native-charts",
+  "qa_passed": true,
+  "project_ids": [
+    "p-a963"
+  ],
+  "snapshot_ref": "data/p-a963/1405-08-25/r4/snapshot.json",
+  "output_ref": "outputs/p-a963/1405-08-25/r4/آدرم_کشاورزی_1405-08-25-r4.pptx",
+  "qa_ref": "data/p-a963/1405-08-25/r4/qa.json",
+  "supersedes": "data/p-a963/1405-08-25/r3/snapshot.json"
+}

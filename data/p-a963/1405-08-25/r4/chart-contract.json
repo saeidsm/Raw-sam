@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "period": "1405-08-25",
+  "revision": "r4",
+  "scope": "Adram native chart conversion only; business data unchanged from r3",
+  "worksheet": "Data",
+  "charts": [
+    {
+      "chart": 1,
+      "slide": 1,
+      "name": "روند چهار دوره",
+      "inputs": "B2:B5",
+      "native_chart": true,
+      "embedded_workbook": true,
+      "formula_labels": true
+    },
+    {
+      "chart": 2,
+      "slide": 1,
+      "name": "سه مرحله اصلی",
+      "inputs": "B2:B4",
+      "native_chart": true,
+      "embedded_workbook": true,
+      "formula_labels": true
+    },
+    {
+      "chart": 3,
+      "slide": 2,
+      "name": "شیشه کرتین‌وال؛ نصب از کل",
+      "inputs": "B2:D2",
+      "native_chart": true,
+      "embedded_workbook": true,
+      "formula_labels": true
+    },
+    {
+      "chart": 4,
+      "slide": 2,
+      "name": "پنل بتنی معمولی؛ نصب از کل",
+      "inputs": "B2:D2",
+      "native_chart": true,
+      "embedded_workbook": true,
+      "formula_labels": true
+    },
+    {
+      "chart": 5,
+      "slide": 2,
+      "name": "مقایسه سرعت شیشه",
+      "inputs": "B2:B3",
+      "native_chart": true,
+      "embedded_workbook": true,
+      "formula_labels": true
+    },
+    {
+      "chart": 6,
+      "slide": 2,
+      "name": "مقایسه سرعت پنل بتنی",
+      "inputs": "B2:B3",
+      "native_chart": true,
+      "embedded_workbook": true,
+      "formula_labels": true
+    }
+  ],
+  "auto_update_scope": "Each chart and its own labels/titles; not other report elements"
+}

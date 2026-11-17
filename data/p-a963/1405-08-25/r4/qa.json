@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "revision": "r4",
+  "period": "1405-08-25",
+  "native_charts": 6,
+  "embedded_workbooks": 6,
+  "embedded_fonts": 2,
+  "font": "Vazirmatn",
+  "editable_tables": 12,
+  "slide_count": 6,
+  "chart_data_edit_and_reopen_tests": [
+    {
+      "linked_labels": [
+        "۴۰٫۰۰٪",
+        "۶۸٫۲۲٪",
+        "۶۹٫۱۷٪",
+        "۶۹٫۵۲٪",
+        "۴ آبان",
+        "۱۰ آبان",
+        "۱۸ آبان",
+        "۲۵ آبان"
+      ],
+      "test_input": 40,
+      "chart": 1,
+      "saved_reopened": true,
+      "old_input": 67.21,
+      "series_value_after_edit": 40.0,
+      "passed": true
+    },
+    {
+      "linked_labels": [
+        "۴۰٫۰۰٪",
+        "۷۷٫۴۸٪",
+        "۵۵٫۳۶٪*",
+        "تهیه و تأمین",
+        "ساخت و ارسال",
+        "نصب؛ مبنای اولیه"
+      ],
+      "test_input": 40,
+      "chart": 2,
+      "saved_reopened": true,
+      "old_input": 81.2,
+      "series_value_after_edit": 40.0,
+      "passed": true
+    },
+    {
+      "linked_labels": [
+        "نصب قبلی ۲٬۶۵۴٫۵۷؛ رشد هفته ۳۰۰٫۰۰؛ باقیمانده ۲٬۰۵۰٫۴۳"
+      ],
+      "test_input": 300,
+      "chart": 3,
+      "saved_reopened": true,
+      "old_input": 152.1,
+      "series_value_after_edit": 0.059940059940059943,
+      "passed": true
+    },
+    {
+      "linked_labels": [
+        "نصب قبلی ۱٬۳۲۷٫۶۶؛ رشد هفته ۳۰۰٫۰۰؛ باقیمانده ۶٬۴۲۲٫۳۴"
+      ],
+      "test_input": 300,
+      "chart": 4,
+      "saved_reopened": true,
+      "old_input": 117.07,
+      "series_value_after_edit": 0.037267080745341616,
+      "passed": true
+    },
+    {
+      "linked_labels": [
+        "نصب قبل ۲۴۲٫۶۹",
+        "نصب جاری ۱۰۰٫۰۰"
+      ],
+      "test_input": 100,
+      "chart": 5,
+      "saved_reopened": true,
+      "old_input": 152.1,
+      "series_value_after_edit": 0.4120482920598294,
+      "passed": true
+    },
+    {
+      "linked_labels": [
+        "نصب قبل ۲۶۰٫۰۸",
+        "نصب جاری ۱۰۰٫۰۰"
+      ],
+      "test_input": 100,
+      "chart": 6,
+      "saved_reopened": true,
+      "old_input": 117.07,
+      "series_value_after_edit": 0.3844970778222086,
+      "passed": true
+    }
+  ],
+  "unchanged_pages": {
+    "3": {
+      "pixel_identical": true
+    },
+    "4": {
+      "pixel_identical": true
+    },
+    "5": {
+      "pixel_identical": true
+    },
+    "6": {
+      "pixel_identical": true
+    }
+  },
+  "original_values_restored_in_final": true,
+  "chart_cache_and_workbook_ranges_validated": true,
+  "chart_labels_formula_linked_persian": true,
+  "scope_of_auto_update": "Inside each chart only; report tables, KPI cards, other charts and narrative are not globally linked. Regenerate the report from a frozen dataset for consistent publication.",
+  "sha256": "cc229e079d154d5711ff2bd811b29ba1ec5a4afec8e4deb06e141215c1e6d4d5"
+}
