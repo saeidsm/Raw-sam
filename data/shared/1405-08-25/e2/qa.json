@@ -1,0 +1,21 @@
+{
+  "revision": "e2",
+  "status": "review_copy_pending_material_decisions",
+  "release_ready": false,
+  "native_excel_recalculated_and_reopened": true,
+  "formula_errors_before": 189,
+  "formula_errors_after": 0,
+  "original_sheets_preserved": 11,
+  "added_receipt_sheet": 1,
+  "charts_preserved": 11,
+  "visual_checked": [
+    "staff",
+    "main-materials",
+    "summary-materials",
+    "receipt-detail"
+  ],
+  "summary_print_pages": 4,
+  "workbook_sha256": "0c1ee8f9fc640a68dd593c058055070d42187304e44ab1a0a74ca5e83664e7b5",
+  "not_published_as_final": true,
+  "remaining": "Material area coverage and disputed building allocation; nine is headcount, not fabricated daily attendance."
+}

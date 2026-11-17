@@ -1,0 +1,31 @@
+[
+  {
+    "decision_id": "e2-staff-9",
+    "effective_period": "1405-08-25",
+    "status": "user_confirmed",
+    "value": 9,
+    "unit": "person",
+    "metric": "team_headcount",
+    "non_permanent_count": 4,
+    "daily_attendance": null,
+    "answer": "۹ نفر ثبت شود؛ زیر جدول ۴ نفر غیرثابت درج شود."
+  },
+  {
+    "decision_id": "e2-glass-zero",
+    "effective_period": "1405-08-25",
+    "status": "user_confirmed",
+    "period_start": "1405-08-18",
+    "period_end": "1405-08-25",
+    "value": 0,
+    "unit": "m2",
+    "metric": "new_site_glass_receipt",
+    "answer": "ورود جدید شیشه نداشتیم."
+  },
+  {
+    "decision_id": "e2-shipments-received",
+    "effective_period": "1405-08-25",
+    "status": "user_confirmed",
+    "answer": "ارسال‌های گزارش‌شده به کارگاه تحویل شده‌اند",
+    "effect": "Report-specific shipment evidence may be recorded as received; this does not establish installation, dimensions or building allocation."
+  }
+]

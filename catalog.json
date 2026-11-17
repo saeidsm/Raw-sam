@@ -210,7 +210,10 @@
       "status": "partial",
       "skill": "skills/employer-excel/SKILL.md",
       "manifest": "integrations/employer-excel/manifest.json",
-      "handoff_received": true
+      "handoff_received": true,
+      "latest_intake": "data/shared/1405-08-25/e2/observations.json",
+      "latest_review_qa": "data/shared/1405-08-25/e2/qa.json",
+      "current_open_questions": "data/shared/1405-08-25/e2/open-questions.json"
     },
     "site_export": {
       "status": "partial",
@@ -335,12 +338,16 @@
   "integration_guide": "docs/integration-status.fa.md",
   "decision_updates": [
     "data/shared/1405-08-25/h2/decisions.json",
-    "data/shared/1405-08-25/r3/decisions.json"
+    "data/shared/1405-08-25/r3/decisions.json",
+    "data/shared/1405-08-25/e2/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
   ],
   "current_scope_policy": "data/shared/1405-08-25/r3/scope-policy.json",
   "management_report_qa": "data/p-a963/1405-08-25/r4/qa.json",
-  "native_chart_guide": "skills/management-reports/references/native-charts.fa.md"
+  "native_chart_guide": "skills/management-reports/references/native-charts.fa.md",
+  "supplemental_sources": [
+    "data/shared/1405-08-25/e2/sources.json"
+  ]
 }

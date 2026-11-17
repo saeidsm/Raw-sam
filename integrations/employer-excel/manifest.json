@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "module_id": "employer-excel",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "status": "partial",
   "readiness": "tested_partial_with_known_formula_defects_not_release_ready",
   "skill_path": "skills/employer-excel/SKILL.md",
@@ -32,5 +32,8 @@
   "release_ready": false,
   "sample_status": "archived_tested_sample_not_new_output",
   "decision_updates": "data/shared/1405-08-25/h2/decisions.json",
-  "correction_observations": "data/shared/1405-08-25/h2/corrections.json"
+  "correction_observations": "data/shared/1405-08-25/h2/corrections.json",
+  "latest_intake": "data/shared/1405-08-25/e2/observations.json",
+  "current_review_qa": "data/shared/1405-08-25/e2/qa.json",
+  "current_open_questions": "data/shared/1405-08-25/e2/open-questions.json"
 }

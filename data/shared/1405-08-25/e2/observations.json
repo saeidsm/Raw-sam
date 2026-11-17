@@ -1,0 +1,49 @@
+{
+  "calendar": "jalali",
+  "period": "1405-08-25",
+  "glass": {
+    "source_id": "s-d5cb1d61c25bf4bd",
+    "source_locator": "ورودی!A2:J764; area from H, count from C, system I, building J",
+    "library_received_m2": 7403.61,
+    "agriculture_received_m2": 5364.07,
+    "library_facade_excluding_skylight_m2": 6834.36,
+    "agriculture_adram_excluding_clamp_skylight_m2": 4477.55,
+    "skylights_both_buildings_m2": 1066.65,
+    "agriculture_aran_clamp_m2": 389.12,
+    "replacement_separated": false,
+    "period_receipt_m2": 0,
+    "decision_id": "e2-glass-zero"
+  },
+  "panels": {
+    "source_id": "s-35be9522eb568b8d",
+    "source_locator": "ورودی پنل ها (2)!A1745:N1847",
+    "period_start": "1405-08-18",
+    "period_end": "1405-08-24",
+    "building_labels_as_source": {
+      "agriculture_concrete_count": 221,
+      "support_concrete_count": 91,
+      "agriculture_substructure_count": 218
+    },
+    "disputed_building_count": 56,
+    "disputed_source_rows": [
+      1783,
+      1833
+    ],
+    "disputed_code": "P.CP-01",
+    "period_concrete_m2": null,
+    "period_substructure_kg": null,
+    "new_panel_type": "ordinary_concrete",
+    "new_two_color_brick_panel_receipts": 0,
+    "count_allocation_status": "unresolved",
+    "receipt_status_decision": "e2-shipments-received"
+  },
+  "older_accepted_basis": {
+    "ordinary_concrete_received_as_of_1405_08_16_m2": {
+      "library_main": 1963,
+      "library_additional": 640,
+      "agriculture": 6231
+    },
+    "yellow_brick_historical_confirmed_m2": 4378,
+    "note": "Do not add piece counts to these square-metre values. Historical yellow-brick basis is not new two-color supply progress."
+  }
+}
