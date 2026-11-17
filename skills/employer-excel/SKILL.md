@@ -19,4 +19,4 @@ Before release, repair the dependent P/Q formulas for unknown inputs and review 
 
 Record source cells, freeze ID, changes, formula findings and native/visual QA. Existing sample outputs were produced before the shared freeze integration; do not retroactively label them products of a new freeze. Deliver a dated revision only when its actual completeness and validation support release.
 
-When reconciling deliveries and staffing, read `skills/employer-excel/references/receipts-and-headcount.md`. Latest 25-Aban intake decisions and unresolved material questions are in `data/shared/1405-08-25/e2/`; the current workbook remains a review copy, not an unrestricted final release.
+When reconciling deliveries and staffing, read `skills/employer-excel/references/receipts-and-headcount.md`. Follow `catalog.json` → `modules.employer_excel` for the latest intake, decisions and open questions. The current workbook remains a review copy until its remaining material questions are resolved.

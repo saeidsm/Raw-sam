@@ -1,0 +1,19 @@
+[
+  {
+    "id": "e2-panel-area",
+    "status": "awaiting_updated_source",
+    "question": "Use piece counts for now, or supply packing/unit areas for recent panels? All 73 ordinary-panel lines in this period have no area in source.",
+    "user_response": "کاربر اکسل اصلاح‌شده را فردا ارسال می‌کند."
+  },
+  {
+    "id": "e2-panel-building",
+    "status": "resolved",
+    "question": "P.CP-01 counts 26 on 21 Aban and 30 on 24 Aban are labelled agriculture but historically belong to support. Confirm both allocations.",
+    "decision_id": "e3-panel-building-support"
+  },
+  {
+    "id": "e2-sadr-total",
+    "status": "unresolved_source_conflict",
+    "question": "Prior employer Sadr library 1141 m2 versus latest source computed subtotal 1032.044 m2 with incomplete source area coverage; do not present subtotal as complete delivery."
+  }
+]

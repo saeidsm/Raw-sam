@@ -1,0 +1,27 @@
+{
+  "changed": [
+    {
+      "count": 26.0,
+      "source_row": 1783.0,
+      "row": 43
+    },
+    {
+      "count": 30.0,
+      "source_row": 1833.0,
+      "row": 93
+    }
+  ],
+  "total": 312.0,
+  "support": 147.0,
+  "charts": 11,
+  "formula_errors": 0,
+  "native_reopened": true,
+  "agriculture": 165.0,
+  "status": "review_copy_awaiting_panel_areas",
+  "release_ready": false,
+  "workbook_sha256": "b0fc927ba25f2b9f10c046792abefe56b9fb6f5e497bae881f8b025db2d0ef3e",
+  "visual_checked": [
+    "main_materials"
+  ],
+  "raw_workbook_modified": false
+}

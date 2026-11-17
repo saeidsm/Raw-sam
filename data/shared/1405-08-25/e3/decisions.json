@@ -1,0 +1,32 @@
+[
+  {
+    "decision_id": "e3-panel-building-support",
+    "status": "user_confirmed",
+    "effective_period": "1405-08-25",
+    "recorded_on": "2026-11-17",
+    "answer": "۵۶ قطعه مربوط به پشتیبانی است. هر دو محموله ۲۱ و ۲۴ آبان، پنل‌های مازاد کشاورزی هم داشته‌اند.",
+    "source_id": "s-35be9522eb568b8d",
+    "source_sheet": "ورودی پنل ها (2)",
+    "corrections": [
+      {
+        "source_row": 1783,
+        "date": "1405-08-21",
+        "code": "P.CP-01",
+        "count": 26,
+        "building_before": "کشاورزی",
+        "building_after": "پشتیبانی"
+      },
+      {
+        "source_row": 1833,
+        "date": "1405-08-24",
+        "code": "P.CP-01",
+        "count": 30,
+        "building_before": "کشاورزی",
+        "building_after": "پشتیبانی"
+      }
+    ],
+    "rule": "Reassign only these two P.CP-01 rows; preserve other agriculture panels in both mixed shipments.",
+    "resolves": "e2-panel-building",
+    "expected_followup": "User will provide corrected source workbook tomorrow; no reminder requested."
+  }
+]

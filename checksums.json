@@ -1,6 +1,6 @@
 {
   ".gitignore": "e974356edef761e48813c386d3c082fe897eb51d697269f8ae5e2977ce1f5be6",
-  "catalog.json": "f71be2ba5b070a17c130170ee4cab604c3f0530fd5b59eac2318b00c17b147c4",
+  "catalog.json": "1561120266b8e7c2d90075c3d76f807b2425fd12506c7dbbee300a792fd5f044",
   "README.md": "aef5986303b90c15e05793d5bd9c8ae34cda033fabf4fc8d9b94e2bc1ead2367",
   "SKILL.md": "a7e5621354f0e34613a71952f887a2e23701211b2e3c14a3fa3dbcfa03554d56",
   "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
@@ -70,7 +70,7 @@
   "data/shared/1405-08-25/r2/qa.json": "9d61f2f115ac28e70e006b98d3790c5c7d7d0ccca87d43d0cd7c3a549986eb9b",
   "data/shared/1405-08-25/r3/decisions.json": "6d6afb0e5657d47f967ccac4105716de00e120a1a0a4ec02ebe3fcedbc169412",
   "data/shared/1405-08-25/r3/scope-policy.json": "f33af4e3a624461fef5da4bb006d1a0597568494f98b6df39472973b8e48a51d",
-  "integrations/employer-excel/manifest.json": "61775d5ef02e38bafeedf06cabb8339311a26edfa9ff4fd3a36d706451a953b6",
+  "integrations/employer-excel/manifest.json": "e67cd03e53e810bb19338e401d6977dc35297a93c1f80b3b63a6b5f078708059",
   "integrations/msp-update/manifest.json": "97285975228891d5ca85b46733e82ebe60f570ce098d85e223db77020ceb5907",
   "integrations/msp-update/mappings.json": "d80f85c0744a8f8423ca49aae53f7d7f3e72a5e6f2c9d1d228996b85d19a92b8",
   "integrations/shared/h-f1a2d02b/identity-crosswalk.json": "aa32f8bf1179b9b418fc50cf43839170222f210a00f9ac8ae1f76f19c715b66b",
@@ -197,7 +197,7 @@
   "raw/f38b75ea21b14c10/source.pdf": "f38b75ea21b14c10bfed4f5485c72d49c3cefa18664e54e8b57866ba09f073c7",
   "raw/fb4bd5f75487dfe4/source.xlsx": "fb4bd5f75487dfe45f62bd63457fa1571e84c670bc1bd13ddd0b5efea3decd23",
   "raw/fb6389156b2d6dca/source.pdf": "fb6389156b2d6dcae498ddef0295317fe5f5064e5b6526164619d286058bfb76",
-  "skills/employer-excel/SKILL.md": "604a6871a65378f3f4f56c2ae17c0ae2dbfa71e7c2f94274da8dba5660d3dfbb",
+  "skills/employer-excel/SKILL.md": "f9204f73d2d8a2ceb802cf49c9c400aabfc5760e782809f20ca9553e3a413926",
   "skills/management-reports/SKILL.md": "9df66519b0509a41c1ac18919ac34197dcc660d65318ac433d78c7e17a6dbe4d",
   "skills/msp-update/SKILL.md": "305d62a8b9cb5d28b5da30bdf8b7c6519d6c2fb364af7cee96a664b12de675f8",
   "skills/management-reports/references/native-charts.fa.md": "9cf35c84f7723558ae6861e25f7a4fa7e621cc2d4fbee7cd0ec0a1eb4cccf2e0",
@@ -212,5 +212,9 @@
   "data/shared/1405-08-25/e2/qa.json": "778bf98fac2c4da5a0bcefe8a34d94cabe35600194554a3c32dbd303600542d4",
   "data/shared/1405-08-25/e2/sources.json": "3809878bd758337e8b9828f0f24a9e2f893d9f6bdce51acd5bfe7962e385c9f6",
   "raw/35be9522eb568b8d/source.xlsx": "35be9522eb568b8df6be45252c28e7c397eb6cccd80c33be687596127553c589",
-  "skills/employer-excel/references/receipts-and-headcount.md": "78b2bb0f34d6a576698f91cb2de906ab1e16cc372df68db90382b351bb2e752c"
+  "skills/employer-excel/references/receipts-and-headcount.md": "78b2bb0f34d6a576698f91cb2de906ab1e16cc372df68db90382b351bb2e752c",
+  "data/shared/1405-08-25/e3/decisions.json": "b68f3de5ddfec269471029c078a2af5b4ed97e8cbea96c58f98bdaaa7667c236",
+  "data/shared/1405-08-25/e3/observations.json": "11ca4803dbdf895b0eeaccef7f621ed2af3cb8382f995715f7387d5aacec7f96",
+  "data/shared/1405-08-25/e3/open-questions.json": "93ab69274a634f71b97fa7cd2297f721dda63c1a3e7e40422c9fedcff06a94a1",
+  "data/shared/1405-08-25/e3/qa.json": "904029cff2642869cdef129cfb9870afbfc878cae44ed0ddbf5e744dc1b5205b"
 }

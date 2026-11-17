@@ -211,9 +211,9 @@
       "skill": "skills/employer-excel/SKILL.md",
       "manifest": "integrations/employer-excel/manifest.json",
       "handoff_received": true,
-      "latest_intake": "data/shared/1405-08-25/e2/observations.json",
-      "latest_review_qa": "data/shared/1405-08-25/e2/qa.json",
-      "current_open_questions": "data/shared/1405-08-25/e2/open-questions.json"
+      "latest_intake": "data/shared/1405-08-25/e3/observations.json",
+      "latest_review_qa": "data/shared/1405-08-25/e3/qa.json",
+      "current_open_questions": "data/shared/1405-08-25/e3/open-questions.json"
     },
     "site_export": {
       "status": "partial",
@@ -339,7 +339,8 @@
   "decision_updates": [
     "data/shared/1405-08-25/h2/decisions.json",
     "data/shared/1405-08-25/r3/decisions.json",
-    "data/shared/1405-08-25/e2/decisions.json"
+    "data/shared/1405-08-25/e2/decisions.json",
+    "data/shared/1405-08-25/e3/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
