@@ -5,7 +5,7 @@ description: Update the Pardis employer workbook from shared construction eviden
 
 Repository: https://github.com/saeidsm/Raw-sam
 
-Read root `SKILL.md`, `integrations/employer-excel/manifest.json`, `docs/shared-freeze.md`, and the mapping README beneath the manifest's `handoff_root`. All paths here resolve from the repository root. The received workbook is an archived partial-data example, not a newly approved deliverable. Its 179 inherited formula errors and 10 new errors are recorded in the integration validation; do not treat a passing scoped evidence test as a clean workbook.
+Read root `SKILL.md`, `integrations/employer-excel/manifest.json`, `docs/shared-freeze.md`, and the mapping README beneath the manifest's `handoff_root`. All paths here resolve from the repository root. The originally received workbook is an archived partial-data example with 179 inherited and 10 new formula errors. Later scoped revisions have repaired those errors; follow catalog modules.employer_excel.latest_output and latest_review_qa for the current workbook. Do not rerun historical fixes blindly, treat the archived sample as current, or equate formula cleanliness with complete project data.
 
 Use the 9971-cell inventory for address, formulas, cached values and provenance, plus employer-summary UID mappings and historical edit plans. Do not replay a prior plan as new-period input. Sheet names include trailing spaces. Preserve 11 sheets, 11 charts, tables, logos/images, merges, formulas, number formats and print settings. Verify the actual latest template rather than hard-coding these counts forever.
 

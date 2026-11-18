@@ -1,13 +1,13 @@
 {
   ".gitignore": "e974356edef761e48813c386d3c082fe897eb51d697269f8ae5e2977ce1f5be6",
-  "catalog.json": "edd4145a5bd54af3d3e0b93d9b833a7fe4047a7c601d09bdec7e26a1857ac08c",
-  "README.md": "aef5986303b90c15e05793d5bd9c8ae34cda033fabf4fc8d9b94e2bc1ead2367",
+  "catalog.json": "fc3ed8c81cacaf6dd70dcc2d3991de4946f577466db4b1cbf72477737acaefc6",
+  "README.md": "84e1dd5a36cf55d70614828c18c8ca0ea8e89a6431d99d37858a61600d33aae4",
   "SKILL.md": "a7e5621354f0e34613a71952f887a2e23701211b2e3c14a3fa3dbcfa03554d56",
   "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
-  "docs/cloud-continuation.fa.md": "3206c2e6f0916a6c6b320c3364bcfa51f90a4076d2926798bea62225803fb7b7",
+  "docs/cloud-continuation.fa.md": "711d1e54045cae6d5bfc6e3b2e5732d02af4d80ad24c7ba2e6ab9811c18af1c1",
   "docs/data-contract.md": "4761ea63ca073211f4164c7639819ecc2d9c3d2d78802b731f103c08335ece36",
   "docs/handoff-prompt.fa.md": "6b60f4e96e89f7b07c6f283aa6bed3bb5f214700b43cecf81af82582ca851d00",
-  "docs/integration-status.fa.md": "5bbba19f4285f4680a984ca3e54a69f83e06b2234302eb3b5182923155eddb4d",
+  "docs/integration-status.fa.md": "3c1d86fdc510856bae94e12a26a0866e4b0f80a710bdf48bfde872d42919fdab",
   "docs/shared-freeze.md": "ec4fab02c9636c8e8bae3e0ec6787466411ecdf45dd802f5451f27c16c932022",
   "docs/user-guide.fa.md": "4af384dffed0a89d2f05541997d77508b7bddf904cc8eadac7d4af1ddc4c274e",
   "scripts/validate.py": "5a784628df444a0c2bc2451af61bbdb454c59a8ac779991bfe991c4a19409beb",
@@ -197,7 +197,7 @@
   "raw/f38b75ea21b14c10/source.pdf": "f38b75ea21b14c10bfed4f5485c72d49c3cefa18664e54e8b57866ba09f073c7",
   "raw/fb4bd5f75487dfe4/source.xlsx": "fb4bd5f75487dfe45f62bd63457fa1571e84c670bc1bd13ddd0b5efea3decd23",
   "raw/fb6389156b2d6dca/source.pdf": "fb6389156b2d6dcae498ddef0295317fe5f5064e5b6526164619d286058bfb76",
-  "skills/employer-excel/SKILL.md": "f9204f73d2d8a2ceb802cf49c9c400aabfc5760e782809f20ca9553e3a413926",
+  "skills/employer-excel/SKILL.md": "d985cf2f894ce5a54a374fcb22b86358a3764a0b0d88a54ef5018c957b82d633",
   "skills/management-reports/SKILL.md": "9df66519b0509a41c1ac18919ac34197dcc660d65318ac433d78c7e17a6dbe4d",
   "skills/msp-update/SKILL.md": "305d62a8b9cb5d28b5da30bdf8b7c6519d6c2fb364af7cee96a664b12de675f8",
   "skills/management-reports/references/native-charts.fa.md": "9cf35c84f7723558ae6861e25f7a4fa7e621cc2d4fbee7cd0ec0a1eb4cccf2e0",
@@ -228,5 +228,7 @@
   "data/shared/1405-08-27/intake1/panel-receipts.json": "d56ff60cc0b5fae044925586a1fe0456ad9622930fd4b62c02f03178d7cde6ad",
   "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx": "1503730bd70861313dcb38988339521a42a30068e49a44612375ee16252dfeae",
   "raw/f495eeefda293ea7/source.xlsx": "f495eeefda293ea72f472875a18f34f88e6437f5e9e3edf7afb3d46d717be312",
-  "data/shared/next-cycle/2026-11-18/request.json": "b5b4a3e35491143ae3a5e446e3aa94999ffb57a6aede9e15db4746356fa87703"
+  "data/shared/next-cycle/2026-11-18/request.json": "b5b4a3e35491143ae3a5e446e3aa94999ffb57a6aede9e15db4746356fa87703",
+  "docs/cloud-runtime-status.json": "1a8ea1d139be0603bf3d20d6e57e4bd7cbe1d27063d6cfecf313b5ca438a67e2",
+  "docs/cloud-start-prompt.fa.md": "835cbc570c9c2399a6215cf1a6ca371d497549b4d7832b8b874181ce222c0d84"
 }

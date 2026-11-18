@@ -11,4 +11,4 @@ Use immutable period/revision folders. Keep the original source, user decisions 
 To verify files locally: `python scripts/validate.py` and `python scripts/validate_integrations.py`. See [data contract](docs/data-contract.md) and [shared freeze](docs/shared-freeze.md) before contributing a module or a new period.
 
 
-[راهنمای ادامه از چت ابری](docs/cloud-continuation.fa.md)
+[پرامپت آماده چت ابری](docs/cloud-start-prompt.fa.md) · [راهنمای اجرا و پیش‌نیازها](docs/cloud-continuation.fa.md)

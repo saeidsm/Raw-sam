@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-11-18",
+  "public_read_verified": true,
+  "repository_entrypoint": "SKILL.md",
+  "bootstrap_prompt": "docs/cloud-start-prompt.fa.md",
+  "capability_check_required_per_environment": true,
+  "portable_reference_assets_available": true,
+  "universal_authoring_engine_provided": false,
+  "verified_end_to_end_cloud_run": false,
+  "configured_remote_office_worker": false,
+  "tested_native_dependencies": [
+    "Windows Excel",
+    "Windows PowerPoint",
+    "Windows Microsoft Project"
+  ],
+  "required_acceptance": "Use one existing period as reference; verify data, rendered appearance and native file behavior in the destination environment.",
+  "github_write_access": "owner-authorized connection; independent from runtime capability"
+}
