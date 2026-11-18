@@ -1,6 +1,6 @@
 {
   ".gitignore": "e974356edef761e48813c386d3c082fe897eb51d697269f8ae5e2977ce1f5be6",
-  "catalog.json": "04a8319162cb80ab017960df1cedf28f6a909ba87b9a33409e3689b9aa02eea4",
+  "catalog.json": "edd4145a5bd54af3d3e0b93d9b833a7fe4047a7c601d09bdec7e26a1857ac08c",
   "README.md": "aef5986303b90c15e05793d5bd9c8ae34cda033fabf4fc8d9b94e2bc1ead2367",
   "SKILL.md": "a7e5621354f0e34613a71952f887a2e23701211b2e3c14a3fa3dbcfa03554d56",
   "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
@@ -227,5 +227,6 @@
   "data/shared/1405-08-25/e4/sources.json": "a3fdeb2f76de4044d85fa15ca5f915228496815969e9c2b5672481c111616d05",
   "data/shared/1405-08-27/intake1/panel-receipts.json": "d56ff60cc0b5fae044925586a1fe0456ad9622930fd4b62c02f03178d7cde6ad",
   "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx": "1503730bd70861313dcb38988339521a42a30068e49a44612375ee16252dfeae",
-  "raw/f495eeefda293ea7/source.xlsx": "f495eeefda293ea72f472875a18f34f88e6437f5e9e3edf7afb3d46d717be312"
+  "raw/f495eeefda293ea7/source.xlsx": "f495eeefda293ea72f472875a18f34f88e6437f5e9e3edf7afb3d46d717be312",
+  "data/shared/next-cycle/2026-11-18/request.json": "b5b4a3e35491143ae3a5e446e3aa94999ffb57a6aede9e15db4746356fa87703"
 }

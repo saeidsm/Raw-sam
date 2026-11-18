@@ -1,0 +1,91 @@
+{
+  "request_id": "next-cycle-2026-11-18",
+  "status": "awaiting_new_inputs",
+  "requested_on": "2026-11-18",
+  "expected_delivery_weekday": "Saturday",
+  "report_date": null,
+  "trigger": "User supplies the next contractor reports in chat. This record is not a scheduled automation or background monitor.",
+  "objective": "Reconcile the weekly source set once; ask material questions together; promptly generate both management PPTX reports, employer XLSX and native MPP from a shared frozen dataset.",
+  "outputs": [
+    {
+      "module": "management_reports",
+      "project_id": "p-7c21",
+      "format": "pptx",
+      "requirements": "Approved appearance, editable native charts, RTL Persian, Vazirmatn, Persian labels and project/system separation."
+    },
+    {
+      "module": "management_reports",
+      "project_id": "p-a963",
+      "format": "pptx",
+      "requirements": "Approved appearance, editable native charts, active scope versus total scope, separate held/additional brick-panel scenario."
+    },
+    {
+      "module": "employer_excel",
+      "format": "xlsx",
+      "requirements": "Preserve native workbook features; update received materials and workforce, calculate, reopen and verify."
+    },
+    {
+      "module": "msp_update",
+      "format": "mpp",
+      "requirements": "Native update on a copy using UID mapping and schedule normalization; preflight prevents unsupported decreases; preserve native tasks, weights and schedule fields."
+    }
+  ],
+  "inputs_expected": [
+    "current library progress workbook",
+    "current skylight progress workbook",
+    "current Adram progress workbook",
+    "current field/punch lists and executed-work maps",
+    "current executive workforce averages for each contractor; daily staffing export where available",
+    "new delivery or production records and site daily export",
+    "finance and scope/action-plan changes, if any"
+  ],
+  "input_reuse": "Do not request unchanged sources again. Read current catalog, decisions, source hashes and latest output before intake. New dates and missing observations must not be filled from older weeks without explicit coverage.",
+  "baseline": {
+    "employer_output": "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx",
+    "receipt_facts": "data/shared/1405-08-25/e4/observations.json",
+    "confirmed_yellow_receipt": "data/shared/1405-08-25/e4/decisions.json",
+    "next_period_panel_receipts": "data/shared/1405-08-27/intake1/panel-receipts.json",
+    "management_and_msp": "Use latest pointers and manifests in catalog.json; do not treat the employer update as a new MPP/PPTX release."
+  },
+  "carry_forward_receipts": {
+    "date": "1405-08-26",
+    "calendar": "jalali",
+    "agriculture_concrete": {
+      "count": 60,
+      "area_m2": 110.48
+    },
+    "support_concrete": {
+      "count": 14,
+      "area_m2": 27.86
+    },
+    "deduplicate_against_future_source": true
+  },
+  "retained_decisions": [
+    "Reported panel shipments were received on site.",
+    "P.CP-01 26 pieces on 21 Aban and 30 pieces on 24 Aban belong to support; other agriculture panels in the mixed shipments remain agriculture.",
+    "Yellow brick production and receipt basis remains 4378 m2 by explicit user confirmation; latest raw detail sum retained separately.",
+    "AlumGlass headcount is 9 including 4 non-permanent; do not invent daily attendance.",
+    "All-four-faces cement-board execution including substrates transferred from Adram; agriculture clamp is Aran. Hold only brick-faced panel installation, not its retained substrates or ordinary concrete installation."
+  ],
+  "remaining_input_gaps": [
+    {
+      "item": "Mass of 218 received agriculture substructure pieces",
+      "current_treatment": "Report pieces; mass is null, not zero.",
+      "blocking_scope": "Only mass-based material totals."
+    },
+    {
+      "item": "Confirmed order/contract quantity for Sadr agriculture panels",
+      "current_treatment": "Report received area; delivery ratio stays uncomputed.",
+      "blocking_scope": "Only ratio with this denominator."
+    }
+  ],
+  "workflow": [
+    "Inventory actual dates and source hashes; deduplicate reused records.",
+    "Reconcile cumulative changes against prior published reports; distinguish corrections and scope changes from weekly performance.",
+    "Ask consequential unresolved questions together while progressing independent work.",
+    "Freeze accepted facts and preserve unresolved coverage explicitly.",
+    "Produce the requested four deliverables with their own measurement bases and native checks.",
+    "Archive revisions, source provenance and JSON; publish using owner-authorized Git access, retaining prior revisions."
+  ],
+  "publication_authorization": "Existing owner authorization for Raw-sam remains in force; verify remote head, preserve concurrent work, never store credentials."
+}
