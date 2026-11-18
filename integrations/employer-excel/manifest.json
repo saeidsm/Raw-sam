@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "module_id": "employer-excel",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "status": "partial",
   "readiness": "tested_partial_with_known_formula_defects_not_release_ready",
   "skill_path": "skills/employer-excel/SKILL.md",
@@ -33,8 +33,9 @@
   "sample_status": "archived_tested_sample_not_new_output",
   "decision_updates": "data/shared/1405-08-25/h2/decisions.json",
   "correction_observations": "data/shared/1405-08-25/h2/corrections.json",
-  "latest_intake": "data/shared/1405-08-25/e3/observations.json",
-  "current_review_qa": "data/shared/1405-08-25/e3/qa.json",
-  "current_open_questions": "data/shared/1405-08-25/e3/open-questions.json",
-  "current_decision_updates": "data/shared/1405-08-25/e3/decisions.json"
+  "latest_intake": "data/shared/1405-08-25/e4/observations.json",
+  "current_review_qa": "data/shared/1405-08-25/e4/qa.json",
+  "current_open_questions": "data/shared/1405-08-25/e4/open-questions.json",
+  "current_decision_updates": "data/shared/1405-08-25/e4/decisions.json",
+  "latest_output": "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx"
 }

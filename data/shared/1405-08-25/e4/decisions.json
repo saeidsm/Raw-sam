@@ -1,0 +1,15 @@
+[
+  {
+    "decision_id": "e4-yellow-receipt-retained",
+    "status": "user_confirmed",
+    "effective_period": "1405-08-25",
+    "recorded_on": "2026-11-18",
+    "answer": "خیر؛ تحویل هم ۴٬۳۷۸ بماند",
+    "metric": "yellow_brick_site_receipt_m2",
+    "value": 4378,
+    "unit": "m2",
+    "new_source_sum": 4372.47998,
+    "difference": 5.52002,
+    "effect": "Retain 4378 for receipt and historical production. Keep detailed source total separately; discrepancy is not current-period receipt."
+  }
+]

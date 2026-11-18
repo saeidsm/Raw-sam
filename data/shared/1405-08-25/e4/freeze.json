@@ -1,0 +1,28 @@
+{
+  "freeze_id": "employer-1405-08-25-e4",
+  "calendar": "jalali",
+  "period_end": "1405-08-25",
+  "source_refs": [
+    {
+      "path": "raw/f495eeefda293ea7/source.xlsx",
+      "sha256": "f495eeefda293ea72f472875a18f34f88e6437f5e9e3edf7afb3d46d717be312"
+    }
+  ],
+  "accepted": [
+    "period-receipts.json",
+    "observations.json",
+    "decisions.json"
+  ],
+  "inherited_basis": [
+    "data/shared/1405-08-25/e2/decisions.json",
+    "data/shared/1405-08-25/e3/decisions.json"
+  ],
+  "excluded": [
+    {
+      "date": "1405-08-26",
+      "reason": "outside reporting period"
+    }
+  ],
+  "output_scope": "employer material receipt update only",
+  "qa_path": "data/shared/1405-08-25/e4/qa.json"
+}

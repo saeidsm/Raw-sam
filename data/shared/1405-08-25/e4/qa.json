@@ -1,0 +1,22 @@
+{
+  "period_support_area": 292.53000000000003,
+  "completed_area_rows": 73,
+  "charts": 11,
+  "formula_errors": 0,
+  "native_reopened": true,
+  "period_agriculture_area": 372.4900000000002,
+  "workbook_sha256": "1503730bd70861313dcb38988339521a42a30068e49a44612375ee16252dfeae",
+  "output_path": "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx",
+  "status": "validated_scoped_receipt_revision",
+  "release_scope": "completed panel areas and dated site receipt quantities; other workbook content retained",
+  "visual_checked": [
+    "main materials",
+    "material summary",
+    "receipt detail"
+  ],
+  "original_sheets_preserved": 11,
+  "total_sheets": 12,
+  "source_unchanged": true,
+  "future_receipts_excluded": true,
+  "unrestricted_whole_workbook_data_completeness": false
+}

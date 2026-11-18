@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e2-panel-area",
+    "status": "resolved",
+    "basis": "s-f495eeefda293ea7",
+    "completed_rows": 73
+  },
+  {
+    "id": "e2-panel-building",
+    "status": "resolved",
+    "basis": "e3-panel-building-support; corrected in new source"
+  },
+  {
+    "id": "e2-sadr-total",
+    "status": "resolved_for_receipts",
+    "basis": "New complete receipt ledger: library Sadr 1032.044 m2. Original template volume basis 1141 retained, not silently replaced by source order 1130."
+  },
+  {
+    "id": "panel-substructure-mass",
+    "status": "not_supplied",
+    "effect": "218 pieces reported; no kg conversion"
+  },
+  {
+    "id": "agriculture-sadr-order-volume",
+    "status": "not_confirmed",
+    "effect": "Receipt 327.03234 m2 reported; no delivery percentage inferred from zero order volume in source."
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "calendar": "jalali",
+  "as_of": "1405-08-25",
+  "source_id": "s-f495eeefda293ea7",
+  "source_locator": "ورودی پنل ها (2)!A2:N1860; quantity C, received area I; do not assume H consistently means total flat area",
+  "supersedes": "data/shared/1405-08-25/e3/observations.json",
+  "scope": "panel_receipts; other prior glass/headcount decisions remain in force",
+  "cumulative_source_quantities": [
+    {
+      "building": "کشاورزی",
+      "type": "پنل آجری-بتنی",
+      "producer": "آلومینیوم‌شیشه",
+      "count": 4288,
+      "area": 4372.47998
+    },
+    {
+      "building": "کتابخانه",
+      "type": "پنل بتنی",
+      "producer": "آلومینیوم‌شیشه",
+      "count": 1017,
+      "area": 2573.266074
+    },
+    {
+      "building": "کشاورزی",
+      "type": "پنل بتنی",
+      "producer": "آلومینیوم‌شیشه",
+      "count": 2747,
+      "area": 6594.475296
+    },
+    {
+      "building": "کشاورزی",
+      "type": "پنل بتنی",
+      "producer": "صدربتن",
+      "count": 112,
+      "area": 327.03234
+    },
+    {
+      "building": "کتابخانه",
+      "type": "پنل بتنی",
+      "producer": "صدربتن",
+      "count": 444,
+      "area": 1032.044
+    },
+    {
+      "building": "پشتیبانی",
+      "type": "پنل بتنی",
+      "producer": "آلومینیوم‌شیشه",
+      "count": 1010,
+      "area": 2009.9
+    },
+    {
+      "building": "پشتیبانی",
+      "type": "پنل آجری-بتنی",
+      "producer": "آلومینیوم‌شیشه",
+      "count": 177,
+      "area": 294.75
+    },
+    {
+      "building": "کتابخانه",
+      "type": "قرنیز",
+      "producer": "آلومینیوم‌شیشه",
+      "count": 46,
+      "area": 34.551
+    }
+  ],
+  "accepted_yellow_brick_receipt_m2": 4378,
+  "yellow_decision_id": "e4-yellow-receipt-retained",
+  "period": {
+    "start": "1405-08-18",
+    "end": "1405-08-25",
+    "agriculture_concrete_count": 165,
+    "agriculture_concrete_m2": 372.49,
+    "support_concrete_count": 147,
+    "support_concrete_m2": 292.53,
+    "agriculture_substructure_count": 218,
+    "agriculture_substructure_kg": null,
+    "unknown_mass_not_zero": true
+  },
+  "correction_policy": "Historical building reassignments, completed areas and -8 to +8 correction belong to source revision, not current-week installation or receipt growth."
+}

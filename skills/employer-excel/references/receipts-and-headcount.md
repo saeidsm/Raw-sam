@@ -8,3 +8,6 @@
 - Glass detail e2 reconciles on packing area H, not a substituted calculated face area. It includes original and replacement receipts; a receipt-to-contract-volume ratio is not order completion.
 - For AlumGlass e2 the user confirmed 9 members, including 4 non-permanent. Record 9 numerically with that note, without inventing attendance days or an office/execution split. Do not sum team headcount with other firms’ averages on different observed-day windows.
 - Preserve native features by editing a copy through Excel. Remove or repair only diagnosed formula defects; distinguish stale structured-reference helpers outside the receipt table from valid table formulas. Recalculate, reopen, scan all formula errors, verify original charts and inspect printing. On Windows use absolute native paths for SaveAs. Recheck zoom after resetting page breaks.
+
+- A later-dated complete receipt file may revise older assignments and quantities. Compare receipt identities and dates, record historical corrections separately, and exclude receipts after the report cutoff from that report; carry them into the next intake.
+- A confirmed retained quantity overrides a conflicting detailed sum only for the explicitly confirmed metric. Store both, and never treat their difference as new-period delivery.
