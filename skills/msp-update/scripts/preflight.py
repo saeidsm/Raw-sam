@@ -5,6 +5,8 @@ from pathlib import Path
 def validate(source,snapshot,plan):
     if hashlib.sha256(Path(source).read_bytes()).hexdigest()!=plan.get('sourceSha256'):
         raise ValueError('Source hash mismatch')
+    if snapshot.get('sourceSha256') is not None and snapshot['sourceSha256'].lower()!=plan['sourceSha256'].lower():
+        raise ValueError('Snapshot source hash mismatch')
     rows=snapshot['tasks'];by_uid={x['uid']:x for x in rows}
     if len(by_uid)!=len(rows):raise ValueError('Duplicate snapshot UID')
     seen=set()
@@ -16,6 +18,7 @@ def validate(source,snapshot,plan):
         if t['name']!=c['name']:raise ValueError('Task name guard failed')
         for key in ['old','new']:
             if type(c[key]) not in (int,float) or not math.isfinite(c[key]) or c[key]<0:raise ValueError('Invalid quantity')
+        if type(t.get('Number5')) not in (int,float) or not math.isfinite(t['Number5']):raise ValueError('Missing native prior quantity')
         if abs(t['Number5']-c['old'])>1e-6:raise ValueError('Old value mismatch')
         if c['new']<c['old']-1e-7:raise ValueError('Decrease rejected by confirmed policy')
     return {'status':'plan_checks_passed','changes':len(seen),'native_freshness_verified':False,'empty_plan_requires_dated_copy':not bool(seen)}

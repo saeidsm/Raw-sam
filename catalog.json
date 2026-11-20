@@ -204,7 +204,8 @@
       "status": "partial",
       "skill": "skills/msp-update/SKILL.md",
       "manifest": "integrations/msp-update/manifest.json",
-      "handoff_received": true
+      "handoff_received": true,
+      "portable_source_snapshot": "validation/portability/2026-11-20/msp-source-snapshot.json"
     },
     "employer_excel": {
       "status": "partial",
@@ -357,5 +358,7 @@
   ],
   "next_reporting_cycle": "data/shared/next-cycle/2026-11-18/request.json",
   "cloud_start_prompt": "docs/cloud-start-prompt.fa.md",
-  "cloud_runtime_status": "docs/cloud-runtime-status.json"
+  "cloud_runtime_status": "docs/cloud-runtime-status.json",
+  "execution_modes": "docs/execution-modes.fa.md",
+  "portability_validation": "validation/portability/2026-11-20/summary.json"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "module_id": "msp-update",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "status": "partial",
   "readiness": "tested_native_workflow_scoped_not_unattended",
   "skill_path": "skills/msp-update/SKILL.md",
@@ -29,5 +29,9 @@
   "release_ready": false,
   "sample_status": "archived_tested_sample_not_new_output",
   "decision_updates": "data/shared/1405-08-25/h2/decisions.json",
-  "correction_observations": "data/shared/1405-08-25/h2/corrections.json"
+  "correction_observations": "data/shared/1405-08-25/h2/corrections.json",
+  "execution_modes": "docs/execution-modes.fa.md",
+  "portability_validation": "validation/portability/2026-11-20/msp.json",
+  "xml_roundtrip_release_accepted": false,
+  "portable_source_snapshot": "validation/portability/2026-11-20/msp-source-snapshot.json"
 }

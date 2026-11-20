@@ -1,0 +1,118 @@
+{
+  "portable_authoring_host": "Linux DevOps and Windows Python stdlib; byte-identical candidate; native finalization tested on Windows Excel",
+  "formula_cell_count": 4758,
+  "all_formula_xml_preserved_before_open": true,
+  "all_cell_styles_preserved_before_open": true,
+  "sheet_layouts_preserved_before_open": true,
+  "native_reopened_formulas_match_control": true,
+  "native_reopened_layouts_match_control": true,
+  "native_objects_and_chart_series_match_control": true,
+  "native_repair_mode": null,
+  "formula_errors": 0,
+  "sheet_count": 12,
+  "chart_count": 11,
+  "changed_parts": [
+    "xl/workbook.xml",
+    "xl/worksheets/sheet3.xml",
+    "xl/worksheets/sheet12.xml"
+  ],
+  "selected_before": [
+    {
+      "sheet": "نیروی انسانی",
+      "cell": "I8",
+      "value": 9,
+      "formula": "9"
+    },
+    {
+      "sheet": "ریز تحویل پنل این دوره",
+      "cell": "M10",
+      "value": 372.4900000000002,
+      "formula": "=SUMIFS(H5:H107,C5:C107,\"کشاورزی\",D5:D107,\"پنل بتنی\")"
+    },
+    {
+      "sheet": "ریز تحویل پنل این دوره",
+      "cell": "M12",
+      "value": 665.0200000000002,
+      "formula": "=SUM(M10:M11)"
+    },
+    {
+      "sheet": "1405-08-25",
+      "cell": "D49",
+      "value": 372.4900000000002,
+      "formula": "='ریز تحویل پنل این دوره'!M10"
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "P74",
+      "value": 372.4900000000002,
+      "formula": "='ریز تحویل پنل این دوره'!M10"
+    }
+  ],
+  "selected_after": [
+    {
+      "sheet": "نیروی انسانی",
+      "cell": "I8",
+      "value": 10,
+      "formula": "10"
+    },
+    {
+      "sheet": "ریز تحویل پنل این دوره",
+      "cell": "M10",
+      "value": 373.4900000000002,
+      "formula": "=SUMIFS(H5:H107,C5:C107,\"کشاورزی\",D5:D107,\"پنل بتنی\")"
+    },
+    {
+      "sheet": "ریز تحویل پنل این دوره",
+      "cell": "M12",
+      "value": 666.0200000000002,
+      "formula": "=SUM(M10:M11)"
+    },
+    {
+      "sheet": "1405-08-25",
+      "cell": "D49",
+      "value": 373.4900000000002,
+      "formula": "='ریز تحویل پنل این دوره'!M10"
+    },
+    {
+      "sheet": "جدول خلاصه وضعیت پیشرفت ",
+      "cell": "P74",
+      "value": 373.4900000000002,
+      "formula": "='ریز تحویل پنل این دوره'!M10"
+    }
+  ],
+  "pdf_pages": 40,
+  "changed_pdf_pages": [
+    2,
+    5,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "comparison_previews": [
+    2,
+    5,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "status": "passed_existing_scalar_cells_then_native_finalize",
+  "original_unchanged": true,
+  "source_path": "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx",
+  "source_sha256": "1503730bd70861313dcb38988339521a42a30068e49a44612375ee16252dfeae",
+  "linux_devops_patch_executed": true,
+  "linux_candidate_sha256": "771751d0f50d5e44dad25d2990f3b92a35655ff9f8e531409afb15255500ed43",
+  "windows_candidate_sha256": "771751d0f50d5e44dad25d2990f3b92a35655ff9f8e531409afb15255500ed43",
+  "native_finalization_host": "Windows Excel 16.0",
+  "repair_mode_observation": "COM property unavailable; opening succeeded, formula/object/layout checks passed",
+  "visual_review": "40 pages raster-compared; all 9 changed pages visually inspected; changes attributable to test inputs and repeated test header",
+  "scope": "Three synthetic scalar edits only; no structural edit or formula rewrite; not a weekly report",
+  "linux_python_version": "3.12.3"
+}

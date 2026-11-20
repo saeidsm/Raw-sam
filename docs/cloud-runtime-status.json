@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18",
+  "as_of": "2026-11-20",
   "public_read_verified": true,
   "repository_entrypoint": "SKILL.md",
   "bootstrap_prompt": "docs/cloud-start-prompt.fa.md",
@@ -14,5 +14,13 @@
     "Windows Microsoft Project"
   ],
   "required_acceptance": "Use one existing period as reference; verify data, rendered appearance and native file behavior in the destination environment.",
-  "github_write_access": "owner-authorized connection; independent from runtime capability"
+  "github_write_access": "owner-authorized connection; independent from runtime capability",
+  "portability_validation": "validation/portability/2026-11-20/summary.json",
+  "execution_modes": "docs/execution-modes.fa.md",
+  "excel_portable_patch_verified": true,
+  "excel_linux_authoring_verified": true,
+  "excel_native_finalize_required": true,
+  "msp_xml_open_verified": true,
+  "msp_xml_full_preservation_verified": false,
+  "cloud_msp_output": "UID change plan, not replacement XML-derived MPP"
 }

@@ -1,0 +1,14 @@
+{
+  "tested_on": "2026-11-20",
+  "test_only": true,
+  "reporting_period_unchanged": "1405-08-25",
+  "source_originals_unchanged": true,
+  "excel": "passed_scoped_cloud_patch_plus_native_finalization",
+  "msp_xml": "rejected_for_full_preservation",
+  "local_native_mode_retained": true,
+  "cloud_mode_retained": true,
+  "cloud_msp_fallback": "change_plan_then_apply_to_original_MPP_copy",
+  "excel_evidence": "validation/portability/2026-11-20/excel.json",
+  "msp_evidence": "validation/portability/2026-11-20/msp.json",
+  "production_latest_pointers_changed": false
+}

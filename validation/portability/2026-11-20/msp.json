@@ -1,0 +1,831 @@
+{
+  "status": "xml_import_opens_but_full_preservation_failed",
+  "source_path": "integrations/shared/h-f1a2d02b/package/examples/msp/after-1405.08.25.mpp",
+  "source_sha256": "22b2205343603cb931dada1b08817547aba57f3d165edad259b0e5126aa43826",
+  "original_unchanged": true,
+  "native_application": "Microsoft Project desktop 16",
+  "actual_test": "MPP copy exported to real MSPDI; imported as new project; calculated; saved to MPP; reopened; exported and compared against native MPP control recalculated in same app",
+  "xml_imported": true,
+  "native_mpp_saved_and_reopened": true,
+  "tasks_excluding_project_summary": 1104,
+  "task_uids_preserved": true,
+  "Number5_values_preserved": true,
+  "Number9_values_preserved": true,
+  "custom_field_definitions_preserved": true,
+  "leaf_Number20_weight_changes": 124,
+  "weight_changes": [
+    {
+      "uid": 21,
+      "before": "224",
+      "after": "185"
+    },
+    {
+      "uid": 1342,
+      "before": "105",
+      "after": "30"
+    },
+    {
+      "uid": 1341,
+      "before": "30",
+      "after": "10"
+    },
+    {
+      "uid": 1340,
+      "before": "30",
+      "after": "10"
+    },
+    {
+      "uid": 1366,
+      "before": "30",
+      "after": "15"
+    },
+    {
+      "uid": 1367,
+      "before": "30",
+      "after": "15"
+    },
+    {
+      "uid": 1377,
+      "before": "60",
+      "after": "11"
+    },
+    {
+      "uid": 1378,
+      "before": "55",
+      "after": "15"
+    },
+    {
+      "uid": 1379,
+      "before": "55",
+      "after": "47"
+    },
+    {
+      "uid": 1691,
+      "before": "25",
+      "after": "15"
+    },
+    {
+      "uid": 1692,
+      "before": "25",
+      "after": "15"
+    },
+    {
+      "uid": 1687,
+      "before": "47",
+      "after": "25"
+    },
+    {
+      "uid": 1688,
+      "before": "47",
+      "after": "35"
+    },
+    {
+      "uid": 1995,
+      "before": "45",
+      "after": "52"
+    },
+    {
+      "uid": 1251,
+      "before": "22",
+      "after": "12"
+    },
+    {
+      "uid": 1254,
+      "before": "22",
+      "after": "9"
+    },
+    {
+      "uid": 1255,
+      "before": "22",
+      "after": "7"
+    },
+    {
+      "uid": 1257,
+      "before": "22",
+      "after": "10"
+    },
+    {
+      "uid": 1258,
+      "before": "7",
+      "after": "5"
+    },
+    {
+      "uid": 1511,
+      "before": "84",
+      "after": "190"
+    },
+    {
+      "uid": 196,
+      "before": "41",
+      "after": "15"
+    },
+    {
+      "uid": 197,
+      "before": "24",
+      "after": "15"
+    },
+    {
+      "uid": 1512,
+      "before": "7",
+      "after": "8"
+    },
+    {
+      "uid": 200,
+      "before": "7",
+      "after": "8"
+    },
+    {
+      "uid": 201,
+      "before": "37",
+      "after": "22"
+    },
+    {
+      "uid": 2066,
+      "before": "30",
+      "after": "10"
+    },
+    {
+      "uid": 2067,
+      "before": "14",
+      "after": "10"
+    },
+    {
+      "uid": 2068,
+      "before": "8",
+      "after": "20"
+    },
+    {
+      "uid": 2070,
+      "before": "3",
+      "after": "5"
+    },
+    {
+      "uid": 2071,
+      "before": "3",
+      "after": "10"
+    },
+    {
+      "uid": 2072,
+      "before": "13",
+      "after": "9"
+    },
+    {
+      "uid": 102,
+      "before": "50",
+      "after": "19.5"
+    },
+    {
+      "uid": 103,
+      "before": "35",
+      "after": "20"
+    },
+    {
+      "uid": 107,
+      "before": "45",
+      "after": "26.49"
+    },
+    {
+      "uid": 111,
+      "before": "75",
+      "after": "19.4"
+    },
+    {
+      "uid": 251,
+      "before": "40",
+      "after": "6.8"
+    },
+    {
+      "uid": 252,
+      "before": "35",
+      "after": "7"
+    },
+    {
+      "uid": 1515,
+      "before": "7",
+      "after": "5"
+    },
+    {
+      "uid": 255,
+      "before": "15",
+      "after": "10"
+    },
+    {
+      "uid": 256,
+      "before": "45",
+      "after": "15"
+    },
+    {
+      "uid": 260,
+      "before": "40",
+      "after": "7"
+    },
+    {
+      "uid": 261,
+      "before": "40",
+      "after": "15"
+    },
+    {
+      "uid": 1518,
+      "before": "15",
+      "after": "5"
+    },
+    {
+      "uid": 264,
+      "before": "40",
+      "after": "15"
+    },
+    {
+      "uid": 265,
+      "before": "45",
+      "after": "17"
+    },
+    {
+      "uid": 73,
+      "before": "12",
+      "after": "25"
+    },
+    {
+      "uid": 74,
+      "before": "20",
+      "after": "25"
+    },
+    {
+      "uid": 78,
+      "before": "6",
+      "after": "5.88"
+    },
+    {
+      "uid": 63,
+      "before": "55",
+      "after": "40"
+    },
+    {
+      "uid": 113,
+      "before": "60",
+      "after": "59.2"
+    },
+    {
+      "uid": 123,
+      "before": "65",
+      "after": "43"
+    },
+    {
+      "uid": 1262,
+      "before": "15",
+      "after": "14.85"
+    },
+    {
+      "uid": 320,
+      "before": "10",
+      "after": "9.8"
+    },
+    {
+      "uid": 321,
+      "before": "7",
+      "after": "6.69"
+    },
+    {
+      "uid": 331,
+      "before": "15",
+      "after": "14.25"
+    },
+    {
+      "uid": 285,
+      "before": "15",
+      "after": "14.7"
+    },
+    {
+      "uid": 1274,
+      "before": "5",
+      "after": "4"
+    },
+    {
+      "uid": 1275,
+      "before": "5",
+      "after": "4"
+    },
+    {
+      "uid": 1273,
+      "before": "5",
+      "after": "4"
+    },
+    {
+      "uid": 1270,
+      "before": "5",
+      "after": "8"
+    },
+    {
+      "uid": 345,
+      "before": "10",
+      "after": "9.8"
+    },
+    {
+      "uid": 351,
+      "before": "30",
+      "after": "29.3"
+    },
+    {
+      "uid": 341,
+      "before": "10",
+      "after": "9.2"
+    },
+    {
+      "uid": 1645,
+      "before": "10",
+      "after": "9.8"
+    },
+    {
+      "uid": 1648,
+      "before": "10",
+      "after": "9.7"
+    },
+    {
+      "uid": 373,
+      "before": "20",
+      "after": "19.4"
+    },
+    {
+      "uid": 364,
+      "before": "30",
+      "after": "29"
+    },
+    {
+      "uid": 1505,
+      "before": "30",
+      "after": "20"
+    },
+    {
+      "uid": 464,
+      "before": "6",
+      "after": "5"
+    },
+    {
+      "uid": 465,
+      "before": "14",
+      "after": "6"
+    },
+    {
+      "uid": 495,
+      "before": "14",
+      "after": "13"
+    },
+    {
+      "uid": 498,
+      "before": "20",
+      "after": "30"
+    },
+    {
+      "uid": 579,
+      "before": "14",
+      "after": "14.06"
+    },
+    {
+      "uid": 581,
+      "before": "21",
+      "after": "22.28"
+    },
+    {
+      "uid": 529,
+      "before": "60",
+      "after": "60.4"
+    },
+    {
+      "uid": 531,
+      "before": "40",
+      "after": "39.52"
+    },
+    {
+      "uid": 477,
+      "before": "15",
+      "after": "15.45"
+    },
+    {
+      "uid": 478,
+      "before": "22",
+      "after": "22.25"
+    },
+    {
+      "uid": 480,
+      "before": "22",
+      "after": "20"
+    },
+    {
+      "uid": 725,
+      "before": "10",
+      "after": "9"
+    },
+    {
+      "uid": 616,
+      "before": "7",
+      "after": "20"
+    },
+    {
+      "uid": 617,
+      "before": "5",
+      "after": "20"
+    },
+    {
+      "uid": 611,
+      "before": "30",
+      "after": "29"
+    },
+    {
+      "uid": 693,
+      "before": "10",
+      "after": "15"
+    },
+    {
+      "uid": 694,
+      "before": "14",
+      "after": "15"
+    },
+    {
+      "uid": 654,
+      "before": "35",
+      "after": "13"
+    },
+    {
+      "uid": 759,
+      "before": "14",
+      "after": "7"
+    },
+    {
+      "uid": 758,
+      "before": "15",
+      "after": "7"
+    },
+    {
+      "uid": 1672,
+      "before": "45",
+      "after": "30"
+    },
+    {
+      "uid": 963,
+      "before": "7",
+      "after": "6"
+    },
+    {
+      "uid": 1787,
+      "before": "7",
+      "after": "6.74"
+    },
+    {
+      "uid": 1789,
+      "before": "10",
+      "after": "9.44"
+    },
+    {
+      "uid": 1795,
+      "before": "7",
+      "after": "6.74"
+    },
+    {
+      "uid": 1797,
+      "before": "10",
+      "after": "9.7"
+    },
+    {
+      "uid": 969,
+      "before": "30",
+      "after": "29.3"
+    },
+    {
+      "uid": 987,
+      "before": "10",
+      "after": "9.8"
+    },
+    {
+      "uid": 989,
+      "before": "10",
+      "after": "9.6"
+    },
+    {
+      "uid": 997,
+      "before": "10",
+      "after": "9.1"
+    },
+    {
+      "uid": 2045,
+      "before": "5",
+      "after": "7"
+    },
+    {
+      "uid": 2046,
+      "before": "15",
+      "after": "14"
+    },
+    {
+      "uid": 1804,
+      "before": "30",
+      "after": "40"
+    },
+    {
+      "uid": 1816,
+      "before": "10",
+      "after": "9.8"
+    },
+    {
+      "uid": 1817,
+      "before": "10",
+      "after": "9.3"
+    },
+    {
+      "uid": 1018,
+      "before": "21",
+      "after": "20.76"
+    },
+    {
+      "uid": 1821,
+      "before": "29",
+      "after": "28.84"
+    },
+    {
+      "uid": 1828,
+      "before": "35",
+      "after": "123.5"
+    },
+    {
+      "uid": 1081,
+      "before": "35",
+      "after": "34.95"
+    },
+    {
+      "uid": 1849,
+      "before": "40",
+      "after": "30"
+    },
+    {
+      "uid": 1851,
+      "before": "45",
+      "after": "25"
+    },
+    {
+      "uid": 2020,
+      "before": "20",
+      "after": "19.6"
+    },
+    {
+      "uid": 2022,
+      "before": "20",
+      "after": "19.6"
+    },
+    {
+      "uid": 1086,
+      "before": "45",
+      "after": "25"
+    },
+    {
+      "uid": 1094,
+      "before": "40",
+      "after": "10"
+    },
+    {
+      "uid": 1854,
+      "before": "3",
+      "after": "2.86"
+    },
+    {
+      "uid": 1853,
+      "before": "3",
+      "after": "2.71"
+    },
+    {
+      "uid": 1852,
+      "before": "3",
+      "after": "3.17"
+    },
+    {
+      "uid": 2025,
+      "before": "3",
+      "after": "3.29"
+    },
+    {
+      "uid": 2026,
+      "before": "3",
+      "after": "3.54"
+    },
+    {
+      "uid": 1105,
+      "before": "5",
+      "after": "4.65"
+    },
+    {
+      "uid": 2057,
+      "before": "5",
+      "after": "7"
+    },
+    {
+      "uid": 2058,
+      "before": "15",
+      "after": "20"
+    },
+    {
+      "uid": 2062,
+      "before": "3",
+      "after": "12"
+    },
+    {
+      "uid": 2063,
+      "before": "3",
+      "after": "11"
+    },
+    {
+      "uid": 2064,
+      "before": "7",
+      "after": "16"
+    }
+  ],
+  "summary_Number1_before": "100",
+  "summary_Number1_after": "97.98",
+  "summary_Number7_before": "88.8",
+  "summary_Number7_after": "89.41",
+  "task_table_before": [
+    {
+      "name": "Entry",
+      "columns": [
+        {
+          "field": 188743703,
+          "title": null,
+          "width": 6
+        },
+        {
+          "field": 188743703,
+          "title": null,
+          "width": 9
+        },
+        {
+          "field": 188743696,
+          "title": null,
+          "width": 9
+        },
+        {
+          "field": 188743694,
+          "title": "Task Name",
+          "width": 67
+        },
+        {
+          "field": 188744967,
+          "title": "مدت زمان",
+          "width": 13
+        },
+        {
+          "field": 188743731,
+          "title": null,
+          "width": 13
+        },
+        {
+          "field": 188743734,
+          "title": null,
+          "width": 13
+        },
+        {
+          "field": 188743767,
+          "title": null,
+          "width": 10
+        },
+        {
+          "field": 188743985,
+          "title": null,
+          "width": 10
+        },
+        {
+          "field": 188743984,
+          "title": null,
+          "width": 8
+        },
+        {
+          "field": 188743983,
+          "title": null,
+          "width": 8
+        },
+        {
+          "field": 188743771,
+          "title": null,
+          "width": 13
+        },
+        {
+          "field": 188743986,
+          "title": null,
+          "width": 9
+        },
+        {
+          "field": 188744096,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188744100,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188744098,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188744104,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188743748,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188744102,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188743728,
+          "title": null,
+          "width": 18
+        },
+        {
+          "field": 188743727,
+          "title": null,
+          "width": 18
+        }
+      ]
+    }
+  ],
+  "task_table_after": [
+    {
+      "name": "Entry",
+      "columns": [
+        {
+          "field": 188743703,
+          "title": null,
+          "width": 6
+        },
+        {
+          "field": 188743885,
+          "title": null,
+          "width": 6
+        },
+        {
+          "field": 188744960,
+          "title": null,
+          "width": 9
+        },
+        {
+          "field": 188743694,
+          "title": "Task Name",
+          "width": 24
+        },
+        {
+          "field": 188744967,
+          "title": null,
+          "width": 13
+        },
+        {
+          "field": 188744965,
+          "title": null,
+          "width": 13
+        },
+        {
+          "field": 188744966,
+          "title": null,
+          "width": 13
+        },
+        {
+          "field": 188743727,
+          "title": null,
+          "width": 17
+        },
+        {
+          "field": 188743729,
+          "title": null,
+          "width": 17
+        },
+        {
+          "field": -1,
+          "title": null,
+          "width": 20
+        }
+      ]
+    }
+  ],
+  "views_before": [
+    "Gantt with Timeline",
+    "Gantt Chart",
+    "Timeline",
+    "Task Form",
+    "Task Details Form"
+  ],
+  "views_after": [
+    "Gantt with Timeline",
+    "Gantt Chart",
+    "Timeline"
+  ],
+  "additional_differences": "Assignment work variance, timephased data, GUIDs and outline lookup IDs also differed. GUID changes alone are not a rejection reason. Calendar GUID differed; no unsupported claim of changed working calendar.",
+  "release_decision": "Do not replace authoritative MPP with this XML roundtrip. Cloud produces UID changes plan; native operator applies to original MPP copy. XML remains experimental only.",
+  "native_control_xml_sha256": "f0ae1bb219cfc575e62e52ba6f9bcc05c00919acf212f84e2586d0533dd4955b",
+  "roundtrip_xml_sha256": "d8f7514533fccfdbfccbb6a749e6bb880d84330824ba36ba125d9a4b11d71ce8",
+  "roundtrip_mpp_sha256": "ab337377a1c92321ef3c05831454afdc55d97e1601b1f3eb99cb6823f63796d0",
+  "value_comparison_scope": "Preservation comparisons above compare native XML exports; not a claim of exact in-memory numeric equality. Portable source snapshot separately captures Number5/Number9 directly from original MPP.",
+  "original_native_vs_exported_quantity_values_different": 15,
+  "native_quantity_fields_omitted_in_xml": 132
+}

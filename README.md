@@ -12,3 +12,5 @@ To verify files locally: `python scripts/validate.py` and `python scripts/valida
 
 
 [پرامپت آماده چت ابری](docs/cloud-start-prompt.fa.md) · [راهنمای اجرا و پیش‌نیازها](docs/cloud-continuation.fa.md)
+
+[دو مسیر اجرا و نتیجه آزمون انتقال](docs/execution-modes.fa.md): ویرایش محدود اکسل در Linux و کنترل نهایی در Excel موفق بود؛ تبدیل کامل XML برنامه برای حفظ وزن‌ها و قالب رد شد. مسیر لپ‌تاپی حفظ شده و مسیر ابری MSP بسته تغییرات برای اعمال روی MPP اصلی تولید می‌کند.
