@@ -354,11 +354,13 @@
   "native_chart_guide": "skills/management-reports/references/native-charts.fa.md",
   "supplemental_sources": [
     "data/shared/1405-08-25/e2/sources.json",
-    "data/shared/1405-08-25/e4/sources.json"
+    "data/shared/1405-08-25/e4/sources.json",
+    "data/shared/1405-09-02/intake1/sources.json"
   ],
   "next_reporting_cycle": "data/shared/next-cycle/2026-11-18/request.json",
   "cloud_start_prompt": "docs/cloud-start-prompt.fa.md",
   "cloud_runtime_status": "docs/cloud-runtime-status.json",
   "execution_modes": "docs/execution-modes.fa.md",
-  "portability_validation": "validation/portability/2026-11-20/summary.json"
+  "portability_validation": "validation/portability/2026-11-20/summary.json",
+  "current_intake": "data/shared/1405-09-02/intake1/intake.json"
 }

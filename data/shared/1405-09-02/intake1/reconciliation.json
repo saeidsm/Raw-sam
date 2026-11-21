@@ -1,0 +1,55 @@
+{
+  "status": "candidate_not_frozen",
+  "issues": [
+    {
+      "id": "internal-glass",
+      "source_id": "s-d147864efd0ae314",
+      "locators": [
+        "آدرم!H189",
+        "فعالیت‌های دوره!C3"
+      ],
+      "values": [
+        307,
+        334.59
+      ],
+      "unit": "m2",
+      "status": "awaiting_user"
+    },
+    {
+      "id": "concrete-west-substrate",
+      "source_id": "s-d147864efd0ae314",
+      "locators": [
+        "آدرم!H219",
+        "فعالیت‌های دوره!C5"
+      ],
+      "values": [
+        103112,
+        105112
+      ],
+      "unit": "kg",
+      "status": "awaiting_user"
+    },
+    {
+      "id": "field-glass-denominator",
+      "source_id": "s-34f3f0e9124c71fe",
+      "locator": "page 35",
+      "field_installed": 3041,
+      "field_remaining": 1904,
+      "field_sum": 4945,
+      "confirmed_total": 5005,
+      "treatment": "Retain prior confirmed 5005 denominator; do not silently reduce scope. Main-sheet exact installed3041.32 gives remaining1963.68; current higher activity value unresolved."
+    },
+    {
+      "id": "workforce-nonadditive",
+      "source_id": "s-34f3f0e9124c71fe",
+      "locator": "pages12,13,26,27,34",
+      "treatment": "Crew assignments overlap; do not sum front counts into workforce average. Page15 need12 vs summary page34 need10 for west heavy detail remains internal discrepancy; use stable action-plan crews for conditional capacity."
+    },
+    {
+      "id": "quality-versus-quantity",
+      "source_id": "s-41e4d42599480f6e",
+      "locator": "pages8,16,21,23,24,30,31",
+      "treatment": "Reported installation does not establish accepted completion. Track repairs separately; do not fabricate quantity deductions."
+    }
+  ]
+}

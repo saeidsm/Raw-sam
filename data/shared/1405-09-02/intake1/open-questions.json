@@ -1,0 +1,22 @@
+[
+  {
+    "id": "q-0902-date-workforce",
+    "status": "awaiting_user",
+    "question": "Confirm report title 1405-09-02 with field observations 29/30 Aban, and current Adram executive weekly mean; stale workbook summary 54 and previous confirmed 40 are not current evidence."
+  },
+  {
+    "id": "q-0902-activity-differences",
+    "status": "awaiting_user",
+    "question": "Current internal glass: main sheet H189=307 m2 vs activities C3=334.59; concrete substrate west: main H219=103112 kg vs activities C5=105112. Determine current authoritative values."
+  },
+  {
+    "id": "q-0902-prior-period",
+    "status": "awaiting_user",
+    "question": "New workbook previous period differs from published 25 Aban. Are differences subsequent performance or corrections to prior period? Heavy structure 191220 vs 197754 kg; concrete west 1303.61 vs1343.22 m2."
+  },
+  {
+    "id": "q-0902-finance-scope",
+    "status": "awaiting_user",
+    "question": "Any new finance/payment/material receipts/scope/hold or yellow-panel dismantling changes? Carry-forward 26 Aban receipt will be deduplicated, not inferred as new delivery."
+  }
+]

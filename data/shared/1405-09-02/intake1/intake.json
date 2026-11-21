@@ -1,0 +1,17 @@
+{
+  "intake_id": "intake-1405-09-02-1",
+  "received_on": "2026-11-21",
+  "status": "awaiting_material_answers",
+  "proposed_report_date": "1405-09-02",
+  "report_date_confirmed": false,
+  "current_scope": "Advance Adram analysis/report; Aran progress workbook not yet received. Received Aran punch evidence retained separately.",
+  "sources": "data/shared/1405-09-02/intake1/sources.json",
+  "questions": "data/shared/1405-09-02/intake1/open-questions.json",
+  "calculation": "data/shared/1405-09-02/intake1/candidate-calculation.json",
+  "reconciliation": "data/shared/1405-09-02/intake1/reconciliation.json",
+  "quality_actions": "data/shared/1405-09-02/intake1/quality-actions.json",
+  "workforce_candidate": "data/shared/1405-09-02/intake1/workforce-candidate.json",
+  "carry_forward_receipts": "data/shared/1405-08-27/intake1/panel-receipts.json",
+  "production_outputs_updated": false,
+  "freeze_approved": false
+}

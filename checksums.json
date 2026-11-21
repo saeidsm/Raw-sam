@@ -1,6 +1,6 @@
 {
   ".gitignore": "e974356edef761e48813c386d3c082fe897eb51d697269f8ae5e2977ce1f5be6",
-  "catalog.json": "52fdb889cb610aef740f845bddb035728ad0659354e60567dff055abad875b8f",
+  "catalog.json": "325690ef097fa337b75d2213eabe529b1ff562c62b601a406ff9e10813892f7f",
   "README.md": "863853b31493a4d8ee59346a71f98e63fc72102bc96293049f672011379892dd",
   "SKILL.md": "823a22812f5549ab3fff8ded4045f4021db6e5644c6ad62bf1f0cc888ce1581d",
   "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
@@ -239,5 +239,18 @@
   "validation/portability/2026-11-20/excel.json": "8ae7731ebcdfd069f6b1066cf896a68c2824422fa99fb45b9b9ad5aea65f6d5e",
   "validation/portability/2026-11-20/msp-source-snapshot.json": "1b68f0810c2643ccee530926f301f7d2926b5855a68258b41d6411b6e5c6ad85",
   "validation/portability/2026-11-20/msp.json": "7de73a5ca381d64e063a6e7b94c0b665c77254886a345d527b5dd98216a0d591",
-  "validation/portability/2026-11-20/summary.json": "e6e2fdabd7f199d37ae851350fe590a213697c1ad602cac29c9a882388f96917"
+  "validation/portability/2026-11-20/summary.json": "e6e2fdabd7f199d37ae851350fe590a213697c1ad602cac29c9a882388f96917",
+  "data/shared/1405-09-02/intake1/adram-cells.json": "c8e8362a34af03b29f8003a066b4a68b9d60448ff53326cf3aee56c9c2903682",
+  "data/shared/1405-09-02/intake1/aggregates.json": "75b78ff214b23d3a16af940f4b55c91f47fb40ecfe657f82ce6fa3a4b5e8f532",
+  "data/shared/1405-09-02/intake1/candidate-calculation.json": "fedf763771e44667f525f382ae492919a81b1e13789b3cc5d02480374fce0a8f",
+  "data/shared/1405-09-02/intake1/intake.json": "18bdda03e4fa93aa456b0b961c6beb99e7f746ddde3a85b2645b7aa51b006c58",
+  "data/shared/1405-09-02/intake1/open-questions.json": "beec6a9a836bdffb8d58e147e6313d20b5d2f7ad77c3c1e03311b056bb6bd030",
+  "data/shared/1405-09-02/intake1/quality-actions.json": "19a48fd0f6f3630cc88d367f62734afe54725e76cf6e7f82fe8b0f1636c52ceb",
+  "data/shared/1405-09-02/intake1/reconciliation.json": "b14d9747f915f8574a1a683ec1b59911b6dc50e744898f50d5dc58bc8ddd7880",
+  "data/shared/1405-09-02/intake1/sources.json": "15ee54532885a9adad327c4638137c03efdadc16b696ab06de6e48481d54cb4d",
+  "data/shared/1405-09-02/intake1/workforce-candidate.json": "323b5e6e99d25fb5e5da6818fbdb7d3d2a3e77f5437a8b7c1c18a26e9814b844",
+  "raw/2dcb9ca5b5433be1/source.pdf": "2dcb9ca5b5433be1c71f67aea33be867ab82e1ee28bb55d47066bf5dabe56aa3",
+  "raw/34f3f0e9124c71fe/source.pdf": "34f3f0e9124c71fe5aac32974150ccc0b498d9eee32d96be274d977c06cb1de0",
+  "raw/41e4d42599480f6e/source.pdf": "41e4d42599480f6e895ce3fba212628aaf91be8fcd4483a7c5bd985f21e81f5e",
+  "raw/d147864efd0ae314/source.xlsx": "d147864efd0ae3144ae091a4c397e52d4990016a6ea44c78f33af62b3859a778"
 }

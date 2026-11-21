@@ -1,0 +1,31 @@
+{
+  "status": "candidate_not_frozen",
+  "as_of": "1405-09-02",
+  "prior_open_rows_ref": "data/p-a963/1405-08-25/r3/workforce.json",
+  "retained_execution_crew": 112,
+  "new_rows": [
+    {
+      "id": 2,
+      "crew": 5,
+      "start": "1405/08/29",
+      "end": "1405/09/25"
+    },
+    {
+      "id": 26,
+      "crew": 3,
+      "start": "1405/09/02",
+      "end": "1405/09/26"
+    },
+    {
+      "id": 33,
+      "crew": 5,
+      "start": "1405/08/26",
+      "end": "1405/09/08"
+    }
+  ],
+  "conditional_execution_capacity": 125,
+  "handling_separate": 10,
+  "actual_week_mean": null,
+  "condition": "Requires fronts, material and dependencies released; prior unclosed tasks retained once. Not an unconditional deployment or observed weekly mean.",
+  "added_package_included": false
+}
