@@ -9,9 +9,7 @@
   "decisions": "data/shared/1405-08-30/intake1/decisions.json",
   "source_date_issue": "Received workbook is labelled2 Azar; verify actual work dates against upcoming daily logs and exclude post30 Aban progress. Candidate2 Azar workforce/progress calculations are not confirmed30 Aban outputs.",
   "unresolved_previous_questions": [
-    "q-0902-activity-differences",
-    "q-0902-prior-period",
-    "q-0902-finance-scope"
+    "q-0902-finance-scope: finance and material receipt changes not yet answered"
   ],
   "workforce_actual": {
     "mean": 60,
@@ -27,5 +25,13 @@
   ],
   "aran_progress_workbook": "not_yet_received",
   "freeze_approved": false,
-  "production_outputs_updated": false
+  "production_outputs_updated": false,
+  "resolved_questions": [
+    "q-0902-date-workforce",
+    "q-0902-activity-differences",
+    "q-0902-prior-period"
+  ],
+  "new_pending_question": "Does hold release include new two-tone installation, or only dismantling/repair; has new production/receipt started?",
+  "active_progress_status": "Recalculate after scope clarification; prior candidate assumed held brick installation and is no longer current policy.",
+  "quantity_comparison": "data/shared/1405-08-30/intake1/confirmed-quantity-comparison.json"
 }

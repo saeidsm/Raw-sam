@@ -27,5 +27,51 @@
     "answer": "User will supply daily Excel reports for shared use in management report, native MSP update and employer workbook.",
     "status": "awaiting_daily_reports",
     "basis": "user_instruction"
+  },
+  {
+    "decision_id": "d-0830-higher-activity-values",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "basis": "user_confirmation",
+    "source_id": "s-d147864efd0ae314",
+    "overrides": [
+      {
+        "metric": "internal_curtain_glass_installed",
+        "unit": "m2",
+        "value": 334.59,
+        "selected_locator": "فعالیت‌های دوره!C3",
+        "superseded_main_locator": "آدرم!H189",
+        "superseded_main_value": 307
+      },
+      {
+        "metric": "west_concrete_substrate_installed",
+        "unit": "kg",
+        "value": 105112,
+        "selected_locator": "فعالیت‌های دوره!C5",
+        "superseded_main_locator": "آدرم!H219",
+        "superseded_main_value": 103112
+      }
+    ]
+  },
+  {
+    "decision_id": "d-0830-preserve-published-baseline",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "basis": "user_confirmation",
+    "answer": "Differences from published25 Aban are subsequent performance, not prior-period corrections. Keep published baseline."
+  },
+  {
+    "decision_id": "d-0830-brick-hold-lifted",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "basis": "user_confirmation",
+    "answer": "Brick scope hold was lifted by instruction about two weeks ago; contractor has not recorded installed work in a signed quantity record or dismantled it.",
+    "instruction_date": null,
+    "relative_instruction_timing": "about two weeks before this statement",
+    "quantity_record_completed": false,
+    "dismantling_started": false,
+    "dismantling_volume_basis_m2": 600,
+    "new_two_tone_installation_scope_clarification": "pending",
+    "constraint": "Do not carry historical yellow-panel installed quantities as new two-tone installation progress. Do not describe contractor as waiting for hold release."
   }
 ]
