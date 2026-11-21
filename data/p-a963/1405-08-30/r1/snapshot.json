@@ -1,0 +1,1038 @@
+{
+  "schema_version": 1,
+  "kind": "project_snapshot",
+  "project_id": "p-a963",
+  "period": "1405-08-30",
+  "revision": "r1",
+  "quantities": {
+    "نصب و اجرا|زیرسازی کرتین وال و ویندووال": {
+      "previous": 27596,
+      "actual": 27596,
+      "total": 30035,
+      "delta": 0,
+      "remaining": 2439,
+      "weeks_at_current_rate": null,
+      "unit": "کیلوگرم",
+      "source_rows": [
+        {
+          "row": 168,
+          "desc": "                پیاده سای،حمل و نصب زیرسازی کرتین وال شمال",
+          "face": "شمال",
+          "actual": 3012,
+          "total": 3012,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 173,
+          "desc": "                تحویل،پیاده سازی،حمل و نصب زیرسازی کرتین وال جنوب",
+          "face": "جنوب",
+          "actual": 3036,
+          "total": 3036,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 177,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی کرتین وال شرق",
+          "face": "شرق",
+          "actual": 10425,
+          "total": 12864,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 182,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی -کرتین وال غرب",
+          "face": "غرب",
+          "actual": 8651,
+          "total": 8651,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 187,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی - ویندووال داخلی",
+          "face": "داخلی",
+          "actual": 2472,
+          "total": 2472,
+          "unit": "کیلوگرم"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|پروفیل آلومینیومی کرتین وال و ویندووال": {
+      "previous": 4427,
+      "actual": 4427,
+      "total": 5005,
+      "delta": 0,
+      "remaining": 578,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 169,
+          "desc": "                پیاده سازی،حمل و نصب پروفیل آلومینیومی کرتین وال شمال",
+          "face": "شمال",
+          "actual": 502,
+          "total": 502,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 174,
+          "desc": "                پیاده سای،حمل و نصب پروفیل آلومینیومی کرتین وال جنوب",
+          "face": "جنوب",
+          "actual": 506,
+          "total": 506,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 178,
+          "desc": "                پیاده سازی، حمل و نصب پروفیل آلومینیومی کرتین وال شرق",
+          "face": "شرق",
+          "actual": 1566,
+          "total": 2144,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 183,
+          "desc": "                پیاده سازی،حمل و نصب پروفیل آلومینیومی -کرتین وال غرب",
+          "face": "غرب",
+          "actual": 1441,
+          "total": 1441,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 188,
+          "desc": "                پیاده سازی،حمل و نصب پروفیل آلومینیومی - ویندووال داخلی",
+          "face": "داخلی",
+          "actual": 412,
+          "total": 412,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|شدوباکس": {
+      "previous": 355,
+      "actual": 355,
+      "total": 355,
+      "delta": 0,
+      "remaining": 0,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 170,
+          "desc": "                نصب و اجرای شدوباکس کرتین وال شمال",
+          "face": "شمال",
+          "actual": 30,
+          "total": 30,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 179,
+          "desc": "                نصب و اجرای شدوباکس کرتین وال شرق",
+          "face": "شرق",
+          "actual": 166,
+          "total": 166,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 184,
+          "desc": "                نصب و اجرای شدوباکس -کرتین وال غرب",
+          "face": "غرب",
+          "actual": 159,
+          "total": 159,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|شیشه کرتین وال و ویندووال": {
+      "previous": 2806.67,
+      "actual": 3068.91,
+      "total": 5005,
+      "delta": 262.2399999999998,
+      "remaining": 1936.0900000000001,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 171,
+          "desc": "                پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - شمال",
+          "face": "شمال",
+          "actual": 314.67,
+          "total": 502,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 175,
+          "desc": "                پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - جنوب",
+          "face": "جنوب",
+          "actual": 288.42,
+          "total": 506,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 180,
+          "desc": "                پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - شرق",
+          "face": "شرق",
+          "actual": 1137.75,
+          "total": 2144,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 185,
+          "desc": "                پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - غرب",
+          "face": "غرب",
+          "actual": 993.48,
+          "total": 1441,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 189,
+          "desc": "                پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - ویندووال داخلی",
+          "face": "داخلی",
+          "actual": 334.59,
+          "total": 412,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|سازه تقویت بک آپ استراکچر": {
+      "previous": 191220,
+      "actual": 201003,
+      "total": 271000,
+      "delta": 9783,
+      "remaining": 69997,
+      "weeks_at_current_rate": null,
+      "unit": "کیلوگرم",
+      "source_rows": [
+        {
+          "row": 190,
+          "desc": "          حمل و نصب و تحویل آهن الات سازه تقویت بک آپ استراکچر",
+          "face": null,
+          "actual": 201003,
+          "total": 271000,
+          "unit": "کیلوگرم"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|زیرسازی پنل آجری": {
+      "previous": 251169,
+      "actual": 253609,
+      "total": 260618,
+      "delta": 2440,
+      "remaining": 7009,
+      "weeks_at_current_rate": null,
+      "unit": "کیلوگرم",
+      "source_rows": [
+        {
+          "row": 193,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل آجری شمال",
+          "face": "شمال",
+          "actual": 121,
+          "total": 2000,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 196,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل آجری جنوب",
+          "face": "جنوب",
+          "actual": 57870,
+          "total": 60000,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 199,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل آجری شرق",
+          "face": "شرق",
+          "actual": 132618,
+          "total": 132618,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 202,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل آجری غرب",
+          "face": "غرب",
+          "actual": 63000,
+          "total": 66000,
+          "unit": "کیلوگرم"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|پنل آجری": {
+      "previous": 975,
+      "actual": 975,
+      "total": 5078,
+      "delta": 0,
+      "remaining": 4103,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 194,
+          "desc": "                حمل و نصب پنل آجری شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 140,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 197,
+          "desc": "                حمل و نصب پنل آجری جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 1370,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 200,
+          "desc": "                حمل و نصب پنل آجری شرق",
+          "face": "شرق",
+          "actual": 975,
+          "total": 2520,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 203,
+          "desc": "                حمل و نصب پنل آجری غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 1048,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|ایزولسن": {
+      "previous": 600,
+      "actual": 600,
+      "total": 600,
+      "delta": 0,
+      "remaining": 0,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 206,
+          "desc": "                حمل و نصب و اجرای ایزولسن پنل بتنی شمال",
+          "face": "شمال",
+          "actual": 50,
+          "total": 50,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 210,
+          "desc": "                حمل و نصب و اجرای ایزولسن پنل بتنی جنوب",
+          "face": "جنوب",
+          "actual": 50,
+          "total": 50,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 214,
+          "desc": "                حمل و نصب و اجرای ایزولسن پنل بتنی شرق",
+          "face": "شرق",
+          "actual": 200,
+          "total": 200,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 218,
+          "desc": "                حمل و نصب و اجرای ایزولسن پنل بتنی غرب",
+          "face": "غرب",
+          "actual": 300,
+          "total": 300,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|زیرسازی پنل بتنی": {
+      "previous": 137142,
+      "actual": 140497,
+      "total": 204000,
+      "delta": 3355,
+      "remaining": 63503,
+      "weeks_at_current_rate": null,
+      "unit": "کیلوگرم",
+      "source_rows": [
+        {
+          "row": 207,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل بتنی شمال",
+          "face": "شمال",
+          "actual": 1355,
+          "total": 15000,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 211,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل بتنی جنوب",
+          "face": "جنوب",
+          "actual": 16200,
+          "total": 17000,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 215,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل بتنی شرق",
+          "face": "شرق",
+          "actual": 17830,
+          "total": 62000,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 219,
+          "desc": "                پیاده سازی،حمل و نصب زیرسازی پنل بتنی غرب",
+          "face": "غرب",
+          "actual": 105112,
+          "total": 110000,
+          "unit": "کیلوگرم"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|پنل بتنی": {
+      "previous": 1444.73,
+      "actual": 1614.13,
+      "total": 8050,
+      "delta": 169.4000000000001,
+      "remaining": 6435.87,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 208,
+          "desc": "                حمل و نصب پنل بتنی شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 1100,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 212,
+          "desc": "                حمل و نصب پنل بتنی جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 1000,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 216,
+          "desc": "                حمل و نصب پنل بتنی شرق",
+          "face": "شرق",
+          "actual": 141.12,
+          "total": 2730,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 220,
+          "desc": "                حمل و نصب پنل بتنی غرب",
+          "face": "غرب",
+          "actual": 1473.01,
+          "total": 3220,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|زیرسازی هندریل": {
+      "previous": 2983,
+      "actual": 2983,
+      "total": 4800,
+      "delta": 0,
+      "remaining": 1817,
+      "weeks_at_current_rate": null,
+      "unit": "کیلوگرم",
+      "source_rows": [
+        {
+          "row": 222,
+          "desc": "             نصب و اجرای زیرسازی-هندریل-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 1200,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 223,
+          "desc": "             نصب و اجرای زیرسازی-هندریل-جنوب",
+          "face": "جنوب",
+          "actual": 583,
+          "total": 1200,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 224,
+          "desc": "             نصب و اجرای زیرسازی-هندریل-شرق",
+          "face": "شرق",
+          "actual": 1200,
+          "total": 1200,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 225,
+          "desc": "             نصب و اجرای زیرسازی-هندریل-غرب",
+          "face": "غرب",
+          "actual": 1200,
+          "total": 1200,
+          "unit": "کیلوگرم"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|هندریل": {
+      "previous": 0,
+      "actual": 0,
+      "total": 432,
+      "delta": 0,
+      "remaining": 432,
+      "weeks_at_current_rate": null,
+      "unit": "مترطول",
+      "source_rows": [
+        {
+          "row": 226,
+          "desc": "             نصب و اجرای پروفیل-هندریل-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 84,
+          "unit": "مترطول"
+        },
+        {
+          "row": 227,
+          "desc": "             نصب و اجرای پروفیل-هندریل-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 53,
+          "unit": "مترطول"
+        },
+        {
+          "row": 228,
+          "desc": "             نصب و اجرای پروفیل-هندریل-شرق",
+          "face": "شرق",
+          "actual": 0,
+          "total": 94,
+          "unit": "مترطول"
+        },
+        {
+          "row": 229,
+          "desc": "             نصب و اجرای پروفیل-هندریل-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 201,
+          "unit": "مترطول"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|شیشه هندریل": {
+      "previous": 0,
+      "actual": 0,
+      "total": 432,
+      "delta": 0,
+      "remaining": 432,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 230,
+          "desc": "             نصب شیشه-هندریل-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 84,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 231,
+          "desc": "             نصب شیشه-هندریل-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 53,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 232,
+          "desc": "             نصب شیشه-هندریل-شرق",
+          "face": "شرق",
+          "actual": 0,
+          "total": 94,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 233,
+          "desc": "             نصب شیشه-هندریل-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 201,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|فلاشینگ فولادی": {
+      "previous": 0,
+      "actual": 0,
+      "total": 324,
+      "delta": 0,
+      "remaining": 324,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 235,
+          "desc": "             نصب و اجرای فلاشینگ فولادی-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 64,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 236,
+          "desc": "             نصب و اجرای فلاشینگ فولادی-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 40,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 237,
+          "desc": "             نصب و اجرای فلاشینگ فولادی-شرق",
+          "face": "شرق",
+          "actual": 0,
+          "total": 70,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 238,
+          "desc": "             نصب و اجرای فلاشینگ فولادی-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 150,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|فلاشینگ آلومینیومی": {
+      "previous": 0,
+      "actual": 0,
+      "total": 478,
+      "delta": 0,
+      "remaining": 478,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 239,
+          "desc": "             نصب و اجرای فلاشینگ آلومینیومی-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 60,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 240,
+          "desc": "             نصب و اجرای فلاشینگ آلومینیومی-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 30,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 241,
+          "desc": "             نصب و اجرای فلاشینگ آلومینیومی-شرق",
+          "face": "شرق",
+          "actual": 0,
+          "total": 230,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 242,
+          "desc": "             نصب و اجرای فلاشینگ آلومینیومی-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 158,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|زیرسازی سمنت بورد": {
+      "previous": 0,
+      "actual": 0,
+      "total": 45840,
+      "delta": 0,
+      "remaining": 45840,
+      "weeks_at_current_rate": null,
+      "unit": "کیلوگرم",
+      "source_rows": [
+        {
+          "row": 244,
+          "desc": "             نصب و اجرای زیرسازی سمنت برد نمای شمالی",
+          "face": "شمال",
+          "actual": 0,
+          "total": 1980,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 245,
+          "desc": "             نصب و اجرای زیرسازی سمنت برد نمای جنوبی",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 5145,
+          "unit": "کیلوگرم"
+        },
+        {
+          "row": 246,
+          "desc": "             نصب و اجرای زیرسازی سمنت برد نمای شرقی",
+          "face": "شرق",
+          "actual": 0,
+          "total": 15600,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 247,
+          "desc": "             نصب و اجرای زیرسازی سمنت برد نمای غربی",
+          "face": "غرب",
+          "actual": 0,
+          "total": 23115,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|سمنت بورد": {
+      "previous": 0,
+      "actual": 0,
+      "total": 3056,
+      "delta": 0,
+      "remaining": 3056,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 248,
+          "desc": "             نصب و اجرای پنل سمنت برد نمای شمالی",
+          "face": "شمال",
+          "actual": 0,
+          "total": 132,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 249,
+          "desc": "             نصب و اجرای پنل سمنت برد نمای جنوبی",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 343,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 250,
+          "desc": "             نصب و اجرای پنل سمنت برد نمای شرقی",
+          "face": "شرق",
+          "actual": 0,
+          "total": 1040,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 251,
+          "desc": "             نصب و اجرای پنل سمنت برد نمای غربی",
+          "face": "غرب",
+          "actual": 0,
+          "total": 1541,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|دودبند": {
+      "previous": 394,
+      "actual": 394,
+      "total": 394,
+      "delta": 0,
+      "remaining": 0,
+      "weeks_at_current_rate": null,
+      "unit": "مترطول",
+      "source_rows": [
+        {
+          "row": 253,
+          "desc": "             نصب و اجرای دودبند-نمای شمال",
+          "face": "شمال",
+          "actual": 33,
+          "total": 33,
+          "unit": "مترطول"
+        },
+        {
+          "row": 254,
+          "desc": "             نصب و اجرای دودبند -نمای شرق",
+          "face": "شرق",
+          "actual": 184,
+          "total": 184,
+          "unit": "مترطول"
+        },
+        {
+          "row": 255,
+          "desc": "             نصب و اجرای دودبند -نمای غرب",
+          "face": "غرب",
+          "actual": 177,
+          "total": 177,
+          "unit": "مترطول"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|هوابند": {
+      "previous": 264.1,
+      "actual": 264.1,
+      "total": 636,
+      "delta": 0.0,
+      "remaining": 371.9,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 257,
+          "desc": "             نصب و اجرای دودبند و هوابند -وجه شمال",
+          "face": "شمال",
+          "actual": 14.600000000000001,
+          "total": 73,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 258,
+          "desc": "             نصب و اجرای دودبند و هوابند -وجه جنوب",
+          "face": "جنوب",
+          "actual": 17.6,
+          "total": 88,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 259,
+          "desc": "             نصب و اجرای دودبند و هوابند -وجه شرق",
+          "face": "شرق",
+          "actual": 42.9,
+          "total": 286,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 260,
+          "desc": "             نصب و اجرای دودبند و هوابند -وجه غرب",
+          "face": "غرب",
+          "actual": 189,
+          "total": 189,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|بازشو": {
+      "previous": 0,
+      "actual": 0,
+      "total": 95,
+      "delta": 0,
+      "remaining": 95,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 262,
+          "desc": "             نصب بارشوها-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 27,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 263,
+          "desc": "             نصب بازشوها-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 17,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 264,
+          "desc": "             نصب بازشوها-شرق",
+          "face": "شرق",
+          "actual": 0,
+          "total": 17,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 265,
+          "desc": "             نصب بازشوها-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 34,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|شیشه بازشو": {
+      "previous": 0,
+      "actual": 0,
+      "total": 95,
+      "delta": 0,
+      "remaining": 95,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 266,
+          "desc": "             نصب شیشه بازشو-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 27,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 267,
+          "desc": "             نصب شیشه بازشو-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 17,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 268,
+          "desc": "             نصب شیشه بازشو-شرق",
+          "face": "شرق",
+          "actual": 0,
+          "total": 17,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 269,
+          "desc": "             نصب شیشه بازشو-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 34,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    },
+    "نصب و اجرا|اسلایدینگ": {
+      "previous": 0,
+      "actual": 0,
+      "total": 53,
+      "delta": 0,
+      "remaining": 53,
+      "weeks_at_current_rate": null,
+      "unit": "مترمربع",
+      "source_rows": [
+        {
+          "row": 270,
+          "desc": "             نصب درب های اسلایدینگ-شمال",
+          "face": "شمال",
+          "actual": 0,
+          "total": 23,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 271,
+          "desc": "             نصب درب های اسلایدینگ-جنوب",
+          "face": "جنوب",
+          "actual": 0,
+          "total": 15,
+          "unit": "مترمربع"
+        },
+        {
+          "row": 272,
+          "desc": "             نصب درب های اسلایدینگ-غرب",
+          "face": "غرب",
+          "actual": 0,
+          "total": 15,
+          "unit": "مترمربع"
+        }
+      ],
+      "comparison_basis": "Published25 Aban baseline retained; delta is reporting-period quantity, not normalized seven-day rate."
+    }
+  },
+  "finance_ref": "data/shared/1405-08-30/management1/finance.json",
+  "supersedes": "data/p-a963/1405-08-25/r4/snapshot.json",
+  "workforce_ref": "data/shared/1405-08-30/management1/workforce.json",
+  "added_package_ref": "data/p-a963/1405-08-25/r3/added-panels.json",
+  "calculation_ref": "data/shared/1405-08-30/management1/calculation.json",
+  "decision_refs": [
+    "data/shared/1405-08-30/intake5/decisions.json",
+    "data/shared/1405-08-30/management1/decisions.json"
+  ],
+  "qa_ref": "data/p-a963/1405-08-30/r1/qa.json",
+  "status": "published_validated",
+  "prior_confirmed_snapshot": {
+    "library_crew": 25,
+    "agriculture_crew": 40,
+    "handrail_remaining": 60,
+    "handrail_added_scope": 60,
+    "handrail_reason": "تبدیل فلاورباکس به نرده",
+    "agri_field_remaining": 2198.33,
+    "agri_curtain_total": 5005,
+    "confirmed": true
+  },
+  "prior_confirmed_as_of": "1405-08-25",
+  "progress": {
+    "all_stages": {
+      "original_progress_percent": 70.0921018837993,
+      "retained_active_progress_percent": 73.43868809739581,
+      "original_weight": 20.615767189468674,
+      "retained_active_weight": 19.54134848080684
+    },
+    "execution": {
+      "original_progress_percent": 56.78672272415538,
+      "retained_active_progress_percent": 63.822932977781754,
+      "original_weight": 8.33702987063726,
+      "retained_active_weight": 7.262611161975424
+    }
+  },
+  "prior_scope": {
+    "all_stages": {
+      "original_weight": 20.615767189468674,
+      "original_earned": 14.331460987486313,
+      "original_progress": 69.51699083411931,
+      "original_remaining": 30.483009165880695,
+      "transferred_weight": 0.5565799508855104,
+      "transferred_earned": 0.0,
+      "transferred_remaining_pct_original": 2.6997780183016076,
+      "held_weight": 0.5178387577763248,
+      "held_earned": 0.09911458172431982,
+      "held_remaining_pct_original": 2.0310870422804617,
+      "active_weight": 19.54134848080684,
+      "active_earned": 14.232346405761993,
+      "active_progress": 72.83195640127266,
+      "active_remaining_percent": 27.16804359872735,
+      "active_remaining_pct_original": 25.752144105298633
+    },
+    "execution": {
+      "original_weight": 8.33702987063726,
+      "original_earned": 4.615762480985855,
+      "original_progress": 55.36459089876139,
+      "original_remaining": 44.63540910123861,
+      "transferred_weight": 0.5565799508855104,
+      "transferred_earned": 0.0,
+      "transferred_remaining_pct_original": 6.67599804152995,
+      "held_weight": 0.5178387577763248,
+      "held_earned": 0.09911458172431982,
+      "held_remaining_pct_original": 5.022462226346791,
+      "active_weight": 7.262611161975424,
+      "active_earned": 4.516647899261535,
+      "active_progress": 62.190413317309016,
+      "active_remaining_percent": 37.809586682690984,
+      "active_remaining_pct_original": 32.93694883336186
+    },
+    "same_scope_growth": {
+      "all_stages": 0.36125241333461133,
+      "execution": 0.5664015087799896
+    },
+    "basis": "Published physical-progress basis: Excel actual/total ratios using fixed MSP Number1 weights. Native nondecrease policy retained separately; never silently substitute its quantities for the published report basis.",
+    "policy_ref": "data/shared/1405-08-25/r3/scope-policy.json"
+  },
+  "scope_policy_ref": "data/shared/1405-08-30/intake2/scope-policy.json",
+  "actual_executive_mean": {
+    "value": 60,
+    "approximate": true,
+    "source": "user_confirmation"
+  },
+  "freeze_ref": "data/shared/1405-08-30/management1/freeze.json"
+}

@@ -1,0 +1,22 @@
+{
+  "period": "1405-08-30",
+  "decisions": [
+    {
+      "id": "d-0830-adjustment-index-revision",
+      "status": "user_confirmed",
+      "applies_to": [
+        "c-71af",
+        "c-a641"
+      ],
+      "rule": "Employer changed base index; both cumulative adjustment amounts reduced. Replace prior cumulative values, never add them as a new installment.",
+      "source": "current_user_answer"
+    },
+    {
+      "id": "d-0830-payment-evidence-retained",
+      "status": "retained_prior_confirmation_not_new_period_confirmation",
+      "value": 140000000000,
+      "unit": "IRR",
+      "rule": "Keep last confirmed iron adjustment advance payment with explicit last-confirmed label; current dashboard payment cells blank. Do not infer zero or newly confirmed no-change."
+    }
+  ]
+}

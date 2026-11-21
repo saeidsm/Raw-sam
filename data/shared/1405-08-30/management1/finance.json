@@ -1,0 +1,125 @@
+{
+  "as_of": "1405-08-30",
+  "currency": "IRR",
+  "source_sha256": "6d71baeac213c6f745ad94e5a2d4e1af12e0a768f42e1f1b0e7c2588d5e2d90e",
+  "contracts": {
+    "c-71af": {
+      "project_id": "p-7c21",
+      "contract_ref": "P41",
+      "initial_amount": 1395000000000,
+      "statement": {
+        "number": 10,
+        "submitted": 1529008045470,
+        "supervision_reviewed": 1125829227294,
+        "employer_approved": null,
+        "submitted_date": "1405-08-12",
+        "reviewed_date": "1405-08-21"
+      },
+      "adjustment": {
+        "number": 2,
+        "submitted": 278385965514,
+        "supervision_reviewed": 104399754249,
+        "employer_approved": null,
+        "submitted_date": "1405-08-19",
+        "reviewed_date": "1405-08-26",
+        "amount_basis": "cumulative_replaces_prior_due_to_employer_base_index_revision"
+      },
+      "payments": null,
+      "payable_claims": null,
+      "same_stage_totals": {
+        "submitted_statement_plus_adjustment": 1807394010984,
+        "reviewed_statement_plus_adjustment": 1230228981543,
+        "advance_not_added_again": true,
+        "not_net_payable": true
+      }
+    },
+    "c-49bc": {
+      "project_ids": [
+        "p-7c21",
+        "p-a963"
+      ],
+      "contract_ref": "P49",
+      "initial_amount": 639123712915,
+      "statement": {
+        "number": 7,
+        "submitted": 796467547987,
+        "supervision_reviewed": 782248335548,
+        "employer_approved": null,
+        "submitted_date": "1405-07-13",
+        "reviewed_date": "1405-07-19"
+      },
+      "adjustment": {
+        "number": 1,
+        "submitted": 108769707939,
+        "supervision_reviewed": 108769707939,
+        "employer_approved": null,
+        "submitted_date": "1405-06-21",
+        "reviewed_date": "1405-06-25"
+      },
+      "payments": null,
+      "payable_claims": null
+    },
+    "c-a641": {
+      "project_id": "p-a963",
+      "contract_ref": "P42",
+      "initial_amount": 1999251575995,
+      "statement": {
+        "number": 7,
+        "submitted": 2204141891946,
+        "supervision_reviewed": 1925145253654,
+        "employer_approved": 1911657753651,
+        "submitted_date": "1405-08-02",
+        "reviewed_date": "1405-08-11",
+        "approved_date": "1405-08-17"
+      },
+      "adjustment": {
+        "number": null,
+        "statement_numbers": [
+          3,
+          6,
+          7
+        ],
+        "submitted": 699255133248,
+        "supervision_reviewed": 248781471744,
+        "employer_approved": null,
+        "submitted_date": "1405-08-19",
+        "reviewed_date": "1405-08-26",
+        "status": "under_employer_review",
+        "amount_basis": "cumulative_replaces_prior_due_to_employer_base_index_revision"
+      },
+      "adjustment_advance_iron": {
+        "adjustment_number": 1,
+        "employer_approved": 201266728236,
+        "approved_date": "1405-08-16",
+        "actual_paid": 140000000000,
+        "payment_date": null,
+        "remaining_approved_advance": 61266728236,
+        "basis": "User confirmed14 billion toman paid; balance described as about6 billion; exact balance calculated against approved amount",
+        "settlement_rule": "Deduct actual adjustment-advance payments from adjustment1 settlement; no independent additive entitlement",
+        "actual_paid_status": "last_user_confirmed_payment_retained_as_dated_evidence",
+        "current_dashboard_payment_cells_blank_not_zero": true,
+        "current_balance_basis": "Approved advance minus last confirmed payment; not independent confirmation of current-period payment completeness"
+      },
+      "payments": [
+        {
+          "payment_id": "pay-iron-001",
+          "amount": 140000000000,
+          "date": null,
+          "allocation": "adjustment_advance",
+          "adjustment_number": 1,
+          "source": "user_confirmation"
+        }
+      ],
+      "payable_claims": null,
+      "same_stage_totals": {
+        "submitted_statement_plus_adjustment": 2903397025194,
+        "reviewed_statement_plus_adjustment": 2173926725398,
+        "advance_not_added_again": true,
+        "not_net_payable": true
+      }
+    }
+  },
+  "source_ref": "data/shared/1405-08-30/intake5/sources.json",
+  "supersedes": "data/shared/1405-08-25/r2/finance.json",
+  "payment_update_policy": "New dashboard blank payment cells do not erase last confirmed payments or prove no additional payment. Report labels140bIRR as last confirmed payment."
+}

@@ -25,3 +25,6 @@ Read the root SKILL.md, catalog latest snapshots/decisions and the reference PPT
 
 ## Added work packages
 Keep user-confirmed added work separate from the main active-scope progress, workforce and completion forecast. For revision r3 of25Aban: dismantling600m2 in20days, repair10days, and new two-tone installation5078m2 at200m2/week. This gives25.39 installation weeks, completion in week26, after30 sequential preparation days. These are dated planning inputs, not permanent rates; reconfirm changes in future periods. Do not convert days to calendar/working weeks without a calendar, infer a crew count, include procurement lead time, or credit overlap. The approved report now has a sixth page for this package.
+
+## Revised cumulative adjustment basis
+When the employer revises the base index, a user-confirmed reduction in cumulative adjustment replaces the previous cumulative amount; do not add the new dashboard figure to the old figure. Preserve the prior snapshot and the reason for revision. Blank payment fields do not erase confirmed payments: show only the last confirmed payment with that label unless a newer payment is evidenced. The30 Aban source and decision are in data/shared/1405-08-30/management1/.

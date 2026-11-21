@@ -1,0 +1,128 @@
+{
+  "sha256": "15b8c61a2a1202a8bae7383def27936b65fa3fbcd75cb45039eabe71430d2626",
+  "charts": 6,
+  "formula_count": 36,
+  "cache_mismatches": [],
+  "latin_digits_in_visible_text": [],
+  "text_safe_margin_exceptions": [],
+  "font_parts": 2,
+  "embedded_fonts": [
+    "Vazirmatn"
+  ],
+  "status": "passed",
+  "slide_count": 6,
+  "native_edit_test": {
+    "chart_checks": [
+      {
+        "series": 1,
+        "test_value": 42.25,
+        "actual_series": 42.25,
+        "saved_reopened": true,
+        "point": 0,
+        "chart": 1,
+        "formula_response_passed": true,
+        "expected_series": 42.25,
+        "cell": "B2",
+        "labels": [
+          "۴۲٫۲۵٪",
+          "۶۹٫۱۷٪",
+          "۶۹٫۵۲٪",
+          "۷۰٫۰۹٪",
+          "۱۰ آبان",
+          "۱۸ آبان",
+          "۲۵ آبان",
+          "۳۰ آبان"
+        ]
+      },
+      {
+        "series": 1,
+        "test_value": 42.25,
+        "actual_series": 42.25,
+        "saved_reopened": true,
+        "point": 0,
+        "chart": 2,
+        "formula_response_passed": true,
+        "expected_series": 42.25,
+        "cell": "B2",
+        "labels": [
+          "۴۲٫۲۵٪",
+          "۷۷٫۰۶٪",
+          "۵۶٫۷۹٪",
+          "تهیه و تأمین",
+          "ساخت و ارسال",
+          "نصب؛ مبنای اولیه"
+        ]
+      },
+      {
+        "series": 2,
+        "test_value": 100,
+        "actual_series": 0.01998001998001998,
+        "saved_reopened": true,
+        "point": 0,
+        "chart": 3,
+        "formula_response_passed": true,
+        "expected_series": 0.01998001998001998,
+        "cell": "C2",
+        "labels": [
+          "نصب قبلی ۲٬۸۰۶٫۶۷؛ رشد دوره ۱۰۰٫۰۰؛ باقیمانده ۲٬۰۹۸٫۳۳"
+        ]
+      },
+      {
+        "series": 2,
+        "test_value": 100,
+        "actual_series": 0.012422360248447204,
+        "saved_reopened": true,
+        "point": 0,
+        "chart": 4,
+        "formula_response_passed": true,
+        "expected_series": 0.012422360248447204,
+        "cell": "C2",
+        "labels": [
+          "نصب قبلی ۱٬۴۴۴٫۷۳؛ رشد دوره ۱۰۰٫۰۰؛ باقیمانده ۶٬۵۰۵٫۲۷"
+        ]
+      },
+      {
+        "series": 1,
+        "test_value": 25.42,
+        "actual_series": 0.1671268902038133,
+        "saved_reopened": true,
+        "point": 1,
+        "chart": 5,
+        "formula_response_passed": true,
+        "expected_series": 0.1671268902038133,
+        "cell": "B3",
+        "labels": [
+          "رشد قبل ۱۵۲٫۱۰",
+          "رشد جاری ۲۵٫۴۲"
+        ]
+      },
+      {
+        "series": 1,
+        "test_value": 25.42,
+        "actual_series": 0.21713504740753398,
+        "saved_reopened": true,
+        "point": 1,
+        "chart": 6,
+        "formula_response_passed": true,
+        "expected_series": 0.21713504740753398,
+        "cell": "B3",
+        "labels": [
+          "رشد قبل ۱۱۷٫۰۷",
+          "رشد جاری ۲۵٫۴۲"
+        ]
+      }
+    ],
+    "project": "adram",
+    "text_and_table_saved_reopened": true
+  },
+  "native_reopen": {
+    "pages": 6,
+    "charts": 6,
+    "rendered_all_pages": true,
+    "project": "adram",
+    "saved_reopened": true
+  },
+  "visual_review": "All report pages inspected; chart positions/caches corrected; financial pages re-rendered and inspected; at least1cm content margin.",
+  "validated_against_freeze_id": "f-1405-08-30-management-03",
+  "measurement_basis": "Physical Excel ratios with fixed official schedule weights; distinct from native schedule non-decrease exceptions."
+}

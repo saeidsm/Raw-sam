@@ -19,11 +19,11 @@
     }
   },
   "latest": {
-    "p-7c21": "data/p-7c21/1405-08-25/r2/snapshot.json",
-    "p-a963": "data/p-a963/1405-08-25/r4/snapshot.json",
-    "p-49bc": "data/p-49bc/1405-08-25/r2/snapshot.json"
+    "p-7c21": "data/p-7c21/1405-08-30/r1/snapshot.json",
+    "p-a963": "data/p-a963/1405-08-30/r1/snapshot.json",
+    "p-49bc": "data/p-49bc/1405-08-30/r1/snapshot.json"
   },
-  "finance": "data/shared/1405-08-25/r2/finance.json",
+  "finance": "data/shared/1405-08-30/management1/finance.json",
   "decisions": "data/shared/1405-08-25/r2/decisions.json",
   "sources": "sources.json",
   "history": [
@@ -173,11 +173,25 @@
       "revision": "v4-adram-native-charts",
       "qa_passed": true,
       "path": "data/history/1405-08-25/a7bf74436efe931d.json"
+    },
+    {
+      "record_id": "r-59b74c1c554e06b8",
+      "path": "data/p-a963/1405-08-30/r1/snapshot.json",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "qa_passed": true
+    },
+    {
+      "record_id": "r-6936c67c9dff6b43",
+      "path": "data/p-7c21/1405-08-30/r1/snapshot.json",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "qa_passed": true
     }
   ],
   "templates": {
-    "p-7c21": "templates/p-7c21/1405-08-25/r2/reference.pptx",
-    "p-a963": "templates/p-a963/1405-08-25/r4/reference.pptx"
+    "p-7c21": "templates/p-7c21/1405-08-30/r1/reference.pptx",
+    "p-a963": "templates/p-a963/1405-08-30/r1/reference.pptx"
   },
   "outputs": [
     {
@@ -213,6 +227,46 @@
       "validated_against_freeze_id": "f-1405-08-30-performance-02",
       "status": "scoped_release",
       "financial_update_included": false
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-a963/1405-08-30/r1/آدرم_کشاورزی_1405-08-30-r1.pptx",
+      "sha256": "15b8c61a2a1202a8bae7383def27936b65fa3fbcd75cb45039eabe71430d2626",
+      "kind": "pptx",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-a963/1405-08-30/r1/آدرم_کشاورزی_1405-08-30-r1.pdf",
+      "sha256": "36867c22a7f81530c938a1a102ee221888aa0dd2a07353454a87852ddb442953",
+      "kind": "pdf",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-7c21/1405-08-30/r1/آران‌سیج_کتابخانه_1405-08-30-r1.pptx",
+      "sha256": "ee7a342dee06c08a87e607a01f114ed0be1ad71114f3db5920e47ffae5a19cc4",
+      "kind": "pptx",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-7c21/1405-08-30/r1/آران‌سیج_کتابخانه_1405-08-30-r1.pdf",
+      "sha256": "697e80d6c650a2c762793cf5679bee3878225165485c5c1ff3ba0ee35f9e80c0",
+      "kind": "pdf",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
     }
   ],
   "modules": {
@@ -372,7 +426,8 @@
     "data/shared/1405-08-30/intake1/decisions.json",
     "data/shared/1405-08-30/intake2/decisions.json",
     "data/shared/1405-08-30/intake4/decisions.json",
-    "data/shared/1405-08-30/intake5/decisions.json"
+    "data/shared/1405-08-30/intake5/decisions.json",
+    "data/shared/1405-08-30/management1/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
@@ -393,5 +448,5 @@
   "portability_validation": "validation/portability/2026-11-20/summary.json",
   "current_intake": "data/shared/1405-08-30/intake5/intake.json",
   "current_performance_release": "data/shared/1405-08-30/release1/release.json",
-  "pending_financial_intake": "data/shared/1405-08-30/intake5/sources.json"
+  "current_management_release": "data/shared/1405-08-30/management1/release.json"
 }

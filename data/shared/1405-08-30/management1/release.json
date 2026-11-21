@@ -1,0 +1,50 @@
+{
+  "period": "1405-08-30",
+  "freeze": "data/shared/1405-08-30/management1/freeze.json",
+  "outputs": [
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-a963/1405-08-30/r1/آدرم_کشاورزی_1405-08-30-r1.pptx",
+      "sha256": "15b8c61a2a1202a8bae7383def27936b65fa3fbcd75cb45039eabe71430d2626",
+      "kind": "pptx",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    },
+    {
+      "project_id": "p-a963",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-a963/1405-08-30/r1/آدرم_کشاورزی_1405-08-30-r1.pdf",
+      "sha256": "36867c22a7f81530c938a1a102ee221888aa0dd2a07353454a87852ddb442953",
+      "kind": "pdf",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-7c21/1405-08-30/r1/آران‌سیج_کتابخانه_1405-08-30-r1.pptx",
+      "sha256": "ee7a342dee06c08a87e607a01f114ed0be1ad71114f3db5920e47ffae5a19cc4",
+      "kind": "pptx",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    },
+    {
+      "project_id": "p-7c21",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/p-7c21/1405-08-30/r1/آران‌سیج_کتابخانه_1405-08-30-r1.pdf",
+      "sha256": "697e80d6c650a2c762793cf5679bee3878225165485c5c1ff3ba0ee35f9e80c0",
+      "kind": "pdf",
+      "qa_passed": true,
+      "freeze_id": "f-1405-08-30-management-03"
+    }
+  ],
+  "finance": "data/shared/1405-08-30/management1/finance.json",
+  "performance_predecessor": "data/shared/1405-08-30/release1/release.json",
+  "native_msp_and_employer_reissued_this_step": false,
+  "payment_scope": "New dashboard blank payment cells do not erase last confirmed payments or prove no additional payment. Report labels140bIRR as last confirmed payment."
+}
