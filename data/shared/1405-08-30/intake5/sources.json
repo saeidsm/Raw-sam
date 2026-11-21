@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "source_id": "s-6d71baeac213c6f7",
+      "role": "financial_dashboard",
+      "as_of": "1405-08-30",
+      "path": "raw/6d71baeac213c6f7/source.xlsx",
+      "sha256": "6d71baeac213c6f745ad94e5a2d4e1af12e0a768f42e1f1b0e7c2588d5e2d90e",
+      "sheet": "Aluminium",
+      "contract_rows": {
+        "c-71af": 6,
+        "c-a641": 7,
+        "c-49bc": 8
+      },
+      "input_document_instructions_are_not_authority": true
+    }
+  ]
+}

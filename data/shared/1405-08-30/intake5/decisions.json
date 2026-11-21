@@ -1,0 +1,15 @@
+{
+  "period": "1405-08-30",
+  "decisions": [
+    {
+      "id": "d-0830-aran-zero-recorded-growth",
+      "status": "user_confirmed",
+      "rule": "Carry published25 Aban cumulative progress into30 Aban with zero recorded growth because weekly cumulative report not supplied. Do not claim zero physical work; present daily records and field quantities independently."
+    },
+    {
+      "id": "d-0830-finance-use-latest",
+      "status": "user_confirmed",
+      "rule": "Prepare both management PPTX reports using latest available finance; new30 Aban dashboard subsequently supplied and supersedes prior instruction to use23 Aban values where reconciled."
+    }
+  ]
+}

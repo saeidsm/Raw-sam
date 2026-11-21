@@ -1,0 +1,18 @@
+{
+  "period": "1405-08-30",
+  "status": "preparing_management_outputs",
+  "finance_source": "data/shared/1405-08-30/intake5/sources.json",
+  "decisions": "data/shared/1405-08-30/intake5/decisions.json",
+  "questions": [
+    {
+      "id": "adjustment-total-vs-new",
+      "status": "awaiting_user",
+      "reason": "Both new supervision adjustment figures lower than prior values despite cumulative column header."
+    },
+    {
+      "id": "iron-advance-payment-current",
+      "status": "awaiting_user",
+      "reason": "Payment column blank; prior confirmed140bIRR retained as dated evidence, not zero."
+    }
+  ]
+}

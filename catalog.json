@@ -371,7 +371,8 @@
     "data/shared/1405-08-25/e4/decisions.json",
     "data/shared/1405-08-30/intake1/decisions.json",
     "data/shared/1405-08-30/intake2/decisions.json",
-    "data/shared/1405-08-30/intake4/decisions.json"
+    "data/shared/1405-08-30/intake4/decisions.json",
+    "data/shared/1405-08-30/intake5/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
@@ -390,6 +391,7 @@
   "cloud_runtime_status": "docs/cloud-runtime-status.json",
   "execution_modes": "docs/execution-modes.fa.md",
   "portability_validation": "validation/portability/2026-11-20/summary.json",
-  "current_intake": "data/shared/1405-08-30/intake4/intake.json",
-  "current_performance_release": "data/shared/1405-08-30/release1/release.json"
+  "current_intake": "data/shared/1405-08-30/intake5/intake.json",
+  "current_performance_release": "data/shared/1405-08-30/release1/release.json",
+  "pending_financial_intake": "data/shared/1405-08-30/intake5/sources.json"
 }
