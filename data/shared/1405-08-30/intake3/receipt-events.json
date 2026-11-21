@@ -1,0 +1,422 @@
+[
+  {
+    "record_date": "1405-08-23",
+    "building_label": "ساختمان کشاورزی",
+    "material": "پلیت",
+    "movement": "ورودی",
+    "description": "520 کیلوگرم",
+    "source_row_indices": [
+      2,
+      3
+    ],
+    "attachments": [
+      "docs/doc_2540.jpeg"
+    ],
+    "receipt_date": "1405-08-23",
+    "record_id": "daily-material-001",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-25",
+    "building_label": "ساختمان کشاورزی",
+    "material": "سازه سنگین",
+    "movement": "ورودی",
+    "description": "1500کیلوگرم",
+    "source_row_indices": [
+      4,
+      5
+    ],
+    "attachments": [
+      "docs/doc_2652.jpeg"
+    ],
+    "receipt_date": "1405-08-25",
+    "record_id": "daily-material-002",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-25",
+    "building_label": "ساختمان کشاورزی",
+    "material": "سازه سنگین",
+    "movement": "ورودی",
+    "description": "15950 کیلوگرم",
+    "source_row_indices": [
+      6,
+      7
+    ],
+    "attachments": [
+      "docs/doc_2654.jpeg"
+    ],
+    "receipt_date": "1405-08-25",
+    "record_id": "daily-material-003",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "وینچ زرد رنگ",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/13وارد کارگاه گردید",
+    "source_row_indices": [
+      8,
+      26
+    ],
+    "attachments": [
+      "docs/doc_2633.pdf"
+    ],
+    "receipt_date": "1405-07-13",
+    "record_id": "daily-material-004",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "دستگاه جوش زرد رنگ و وینچ",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/09وارد کارگاه گردید",
+    "source_row_indices": [
+      9,
+      27
+    ],
+    "attachments": [
+      "docs/doc_2634.pdf"
+    ],
+    "receipt_date": "1405-07-09",
+    "record_id": "daily-material-005",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "کابل جوش",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/13وارد کارگاه گردید",
+    "source_row_indices": [
+      10,
+      28
+    ],
+    "attachments": [
+      "docs/doc_2635.pdf"
+    ],
+    "receipt_date": "1405-07-13",
+    "record_id": "daily-material-006",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "پروفیل بر",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/24وارد کارگاه گردید",
+    "source_row_indices": [
+      11,
+      29
+    ],
+    "attachments": [
+      "docs/doc_2636.pdf"
+    ],
+    "receipt_date": "1405-08-24",
+    "record_id": "daily-material-007",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "دستگاه جوش",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/25وارد کارگاه گردید",
+    "source_row_indices": [
+      12,
+      30
+    ],
+    "attachments": [
+      "docs/doc_2637.pdf"
+    ],
+    "receipt_date": "1405-07-25",
+    "record_id": "daily-material-008",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "دریل شارژی به همراه 2 باطری",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/27وارد کارگاه گردید",
+    "source_row_indices": [
+      13,
+      31
+    ],
+    "attachments": [
+      "docs/doc_2638.pdf"
+    ],
+    "receipt_date": "1405-07-27",
+    "record_id": "daily-material-009",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "الکترود",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/03وارد کارگاه گردید",
+    "source_row_indices": [
+      14,
+      32
+    ],
+    "attachments": [
+      "docs/doc_2639.pdf"
+    ],
+    "receipt_date": "1405-08-03",
+    "record_id": "daily-material-010",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "رانر و استاد",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/12وارد کارگاه گردید",
+    "source_row_indices": [
+      15,
+      33
+    ],
+    "attachments": [
+      "docs/doc_2640.pdf"
+    ],
+    "receipt_date": "1405-07-12",
+    "record_id": "daily-material-011",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "کناف",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/25وارد کارگاه گردید",
+    "source_row_indices": [
+      16,
+      34
+    ],
+    "attachments": [
+      "docs/doc_2641.pdf"
+    ],
+    "receipt_date": "1405-07-25",
+    "record_id": "daily-material-012",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "Flashing wall post/clamp columns",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/15وارد کارگاه گردید",
+    "source_row_indices": [
+      17,
+      35
+    ],
+    "attachments": [
+      "docs/doc_2642.pdf"
+    ],
+    "receipt_date": "1405-07-15",
+    "record_id": "daily-material-013",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "قوطی 60*60*4و گازوییل بشکله 220 لیتری",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/25وارد کارگاه گردید",
+    "source_row_indices": [
+      18,
+      36
+    ],
+    "attachments": [
+      "docs/doc_2643.pdf"
+    ],
+    "receipt_date": "1405-08-25",
+    "record_id": "daily-material-014",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "فلاشینگ آهنی/فوم میله ای/اسپیسر",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/07وارد کارگاه گردید",
+    "source_row_indices": [
+      19,
+      37
+    ],
+    "attachments": [
+      "docs/doc_2644.pdf"
+    ],
+    "receipt_date": "1405-08-07",
+    "record_id": "daily-material-015",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "قوطی آهن/پروفیل و پروفیل آلومنیوم و دماغه دار",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/12وارد کارگاه گردید",
+    "source_row_indices": [
+      20,
+      38
+    ],
+    "attachments": [
+      "docs/doc_2645.pdf"
+    ],
+    "receipt_date": "1405-08-12",
+    "record_id": "daily-material-016",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "فلاشینگ آهنی/گایدستون کلمپ",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/05وارد کارگاه گردید",
+    "source_row_indices": [
+      21,
+      39
+    ],
+    "attachments": [
+      "docs/doc_2646.pdf"
+    ],
+    "receipt_date": "1405-08-05",
+    "record_id": "daily-material-017",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "زیرسازی فلزی نما",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/14وارد کارگاه گردید",
+    "source_row_indices": [
+      22,
+      40
+    ],
+    "attachments": [
+      "docs/doc_2647.pdf"
+    ],
+    "receipt_date": "1405-08-14",
+    "record_id": "daily-material-018",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "زیرسازی فلزی نما",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/10وارد کارگاه گردید",
+    "source_row_indices": [
+      23,
+      41
+    ],
+    "attachments": [
+      "docs/doc_2648.pdf"
+    ],
+    "receipt_date": "1405-08-10",
+    "record_id": "daily-material-019",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "زیرسازی فلزی",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/08/25وارد کارگاه گردید",
+    "source_row_indices": [
+      24,
+      42
+    ],
+    "attachments": [
+      "docs/doc_2649.pdf"
+    ],
+    "receipt_date": "1405-08-25",
+    "record_id": "daily-material-020",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  },
+  {
+    "record_date": "1405-08-27",
+    "building_label": "ساختمان کتابخانه",
+    "material": "clamp columns/Flashinh/Pvc/یوچنل/ورق اتصال شیشه کلمپ/نبشی،پیچ،مهره،راد",
+    "movement": "ورودی",
+    "description": "در تاریخ 1405/07/21وارد کارگاه گردید",
+    "source_row_indices": [
+      25,
+      43
+    ],
+    "attachments": [
+      "docs/doc_2650.pdf"
+    ],
+    "receipt_date": "1405-07-21",
+    "record_id": "daily-material-021",
+    "source_id": "s-ae56824c2a76a384",
+    "status": "extracted",
+    "add_to_post_25_receipts": false,
+    "dedup_with_prior_ledger_required": true
+  }
+]

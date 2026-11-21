@@ -1,0 +1,207 @@
+[
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "building_id": "p-7c21",
+    "contractor_id": "aran-sij",
+    "contract_id": null,
+    "review_state": "Approved",
+    "reported_executive": 36.0,
+    "reported_office": 12.0,
+    "effective_executive": 29.0,
+    "effective_office": 12.0,
+    "effective_total": 41.0,
+    "explicit_supervision_corrections": [
+      {
+        "role": "استاد کار",
+        "reported": 30.0,
+        "reviewed": 23.0
+      }
+    ],
+    "glass_m2": 0,
+    "concrete_panel_m2": 0
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "building_id": "p-a963",
+    "contractor_id": "adram",
+    "contract_id": "c-a641",
+    "review_state": "Approved",
+    "reported_executive": 56.0,
+    "reported_office": 9.0,
+    "effective_executive": 56.0,
+    "effective_office": 7.0,
+    "effective_total": 63.0,
+    "explicit_supervision_corrections": [
+      {
+        "role": "سرپرست دفتر فنی",
+        "reported": 1.0,
+        "reviewed": 0.0
+      },
+      {
+        "role": "ایمنی",
+        "reported": 1.0,
+        "reviewed": 0.0
+      }
+    ],
+    "glass_m2": 28.88,
+    "concrete_panel_m2": 48.1
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "building_id": "p-7c21",
+    "contractor_id": "aran-sij",
+    "contract_id": null,
+    "review_state": "Approved",
+    "reported_executive": 37.0,
+    "reported_office": 12.0,
+    "effective_executive": 32.0,
+    "effective_office": 12.0,
+    "effective_total": 44.0,
+    "explicit_supervision_corrections": [
+      {
+        "role": "استاد کار",
+        "reported": 30.0,
+        "reviewed": 25.0
+      }
+    ],
+    "glass_m2": 0,
+    "concrete_panel_m2": 0
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "building_id": "p-a963",
+    "contractor_id": "adram",
+    "contract_id": "c-a641",
+    "review_state": "Approved",
+    "reported_executive": 57.0,
+    "reported_office": 7.0,
+    "effective_executive": 57.0,
+    "effective_office": 6.0,
+    "effective_total": 63.0,
+    "explicit_supervision_corrections": [
+      {
+        "role": "ایمنی",
+        "reported": 1.0,
+        "reviewed": 0.0
+      }
+    ],
+    "glass_m2": 40.3,
+    "concrete_panel_m2": 29.34
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "building_id": "p-7c21",
+    "contractor_id": "aran-sij",
+    "contract_id": null,
+    "review_state": "Submitted",
+    "reported_executive": 38.0,
+    "reported_office": 13.0,
+    "effective_executive": 38.0,
+    "effective_office": 13.0,
+    "effective_total": 51.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 0,
+    "concrete_panel_m2": 0
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "building_id": "p-a963",
+    "contractor_id": "adram",
+    "contract_id": "c-a641",
+    "review_state": "Submitted",
+    "reported_executive": 75.0,
+    "reported_office": 7.0,
+    "effective_executive": 75.0,
+    "effective_office": 7.0,
+    "effective_total": 82.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 39.24,
+    "concrete_panel_m2": 19.04
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "building_id": "p-7c21",
+    "contractor_id": "aran-sij",
+    "contract_id": null,
+    "review_state": "Submitted",
+    "reported_executive": 37.0,
+    "reported_office": 12.0,
+    "effective_executive": 37.0,
+    "effective_office": 12.0,
+    "effective_total": 49.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 0,
+    "concrete_panel_m2": 0
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "building_id": "p-a963",
+    "contractor_id": "adram",
+    "contract_id": "c-a641",
+    "review_state": "Submitted",
+    "reported_executive": 55.0,
+    "reported_office": 7.0,
+    "effective_executive": 55.0,
+    "effective_office": 7.0,
+    "effective_total": 62.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 52.08,
+    "concrete_panel_m2": 8.11
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "building_id": "p-7c21",
+    "contractor_id": "aran-sij",
+    "contract_id": null,
+    "review_state": "Submitted",
+    "reported_executive": 37.0,
+    "reported_office": 11.0,
+    "effective_executive": 37.0,
+    "effective_office": 11.0,
+    "effective_total": 48.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 0,
+    "concrete_panel_m2": 0
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "building_id": "p-a963",
+    "contractor_id": "adram",
+    "contract_id": "c-a641",
+    "review_state": "Submitted",
+    "reported_executive": 52.0,
+    "reported_office": 7.0,
+    "effective_executive": 52.0,
+    "effective_office": 7.0,
+    "effective_total": 59.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 36.24,
+    "concrete_panel_m2": 15.41
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "building_id": "p-a963",
+    "contractor_id": "adram",
+    "contract_id": "c-a641",
+    "review_state": "Submitted",
+    "reported_executive": 50.0,
+    "reported_office": 8.0,
+    "effective_executive": 50.0,
+    "effective_office": 8.0,
+    "effective_total": 58.0,
+    "explicit_supervision_corrections": [],
+    "glass_m2": 48.99,
+    "concrete_panel_m2": 31.85
+  }
+]

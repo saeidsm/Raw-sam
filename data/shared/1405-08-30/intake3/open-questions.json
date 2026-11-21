@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q-0830-daily-coverage",
+    "status": "awaiting_user",
+    "question": "Proceed with 23-28 Aban daily package,30 Aban field evidence and user-reconciled current quantities, or receive29/30 Aban daily logs?",
+    "blocks": "Final output coverage, attendance and rate interpretation only."
+  },
+  {
+    "id": "q-0830-financial-change",
+    "status": "awaiting_user",
+    "question": "Any payment or statement review changes between23 and30 Aban? Last confirmed iron advance paid140 billion IRR; outstanding approved61.266728236 billion IRR.",
+    "blocks": "Current financial as-of confirmation; never infer zero payment."
+  }
+]

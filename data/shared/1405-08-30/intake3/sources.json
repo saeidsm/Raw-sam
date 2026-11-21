@@ -1,0 +1,158 @@
+{
+  "status": "received_not_frozen",
+  "representations_of_same_package": true,
+  "do_not_add_xls_and_html_quantities": true,
+  "sources": [
+    {
+      "source_id": "s-25a0ac692a9396c2",
+      "filename": "گزارش_کل_پیمانکاران_1405-08-23_تا_1405-08-28.html",
+      "path": "raw/25a0ac692a9396c2/source.html",
+      "sha256": "25a0ac692a9396c2e16587da7cbb0a45cdcc7017c52b72516a2ccfd2528ca279",
+      "format": "html_report",
+      "period_start": "1405-08-23",
+      "period_end": "1405-08-28",
+      "calendar": "jalali",
+      "status": "received_not_frozen",
+      "linked_attachments": [
+        {
+          "source_id": "s-9b91718f91a05f57",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2540.jpeg",
+          "sha256": "9b91718f91a05f573d99a924690c54ec1e8507725acb35e7e47e110b5c0892e1",
+          "package_path": "docs/doc_2540.jpeg"
+        },
+        {
+          "source_id": "s-0e4a7181b8ca9df8",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2652.jpeg",
+          "sha256": "0e4a7181b8ca9df8ad0380367b268b3a755c580a52c2fa08d17c16e4db34074b",
+          "package_path": "docs/doc_2652.jpeg"
+        },
+        {
+          "source_id": "s-7067c19fec2e5dc4",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2654.jpeg",
+          "sha256": "7067c19fec2e5dc464ec13ec69038387db05662b855318059095f7b0953130e8",
+          "package_path": "docs/doc_2654.jpeg"
+        },
+        {
+          "source_id": "s-0245dce365e66f94",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2633.pdf",
+          "sha256": "0245dce365e66f94d79edf9bb04792198f1006fea1b32ab569c70231c44b6da1",
+          "package_path": "docs/doc_2633.pdf"
+        },
+        {
+          "source_id": "s-d03cf99a03b7761d",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2634.pdf",
+          "sha256": "d03cf99a03b7761d7659b0c568466fd91f86fd7eba019e4b331bc6b13d0c06b1",
+          "package_path": "docs/doc_2634.pdf"
+        },
+        {
+          "source_id": "s-3af2006518786c28",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2635.pdf",
+          "sha256": "3af2006518786c2883e22f35c1a7c5ad6b9c2d14034429bd699c494a585b423c",
+          "package_path": "docs/doc_2635.pdf"
+        },
+        {
+          "source_id": "s-4d230a8c648afbe5",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2636.pdf",
+          "sha256": "4d230a8c648afbe5a04333f05c92a67208b9c1dd1352959d65d41aeccd1e072c",
+          "package_path": "docs/doc_2636.pdf"
+        },
+        {
+          "source_id": "s-ca2de430b36856f0",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2637.pdf",
+          "sha256": "ca2de430b36856f0c1ad04dda447190f62900bf5037b8972a142566dc8683940",
+          "package_path": "docs/doc_2637.pdf"
+        },
+        {
+          "source_id": "s-7829c86d5adee81f",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2638.pdf",
+          "sha256": "7829c86d5adee81f2f6802fc847871f453e2e6758fc000a68e3d96cc0575cfb9",
+          "package_path": "docs/doc_2638.pdf"
+        },
+        {
+          "source_id": "s-b00a8107c3c97a18",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2639.pdf",
+          "sha256": "b00a8107c3c97a18128746bf771c066298f5cd40aa0caf159d9870376b3e116b",
+          "package_path": "docs/doc_2639.pdf"
+        },
+        {
+          "source_id": "s-2f4e849dc9dd7433",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2640.pdf",
+          "sha256": "2f4e849dc9dd7433d3bd85597eba4a3047069a7eb7e8152b44faad0446a08f08",
+          "package_path": "docs/doc_2640.pdf"
+        },
+        {
+          "source_id": "s-93973a769ce5cc30",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2641.pdf",
+          "sha256": "93973a769ce5cc304f89d26cacf08d86dce8e372ab9560c602e2cf10f657c95a",
+          "package_path": "docs/doc_2641.pdf"
+        },
+        {
+          "source_id": "s-7e0f9a15078d59b3",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2642.pdf",
+          "sha256": "7e0f9a15078d59b3f83db95993cad688e12eb2315a78f27fc54fc58637f5f05c",
+          "package_path": "docs/doc_2642.pdf"
+        },
+        {
+          "source_id": "s-f205b91556e75eea",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2643.pdf",
+          "sha256": "f205b91556e75eeab6a20d2e11957c71713055a9ed408b9783cfa9ae69180ca5",
+          "package_path": "docs/doc_2643.pdf"
+        },
+        {
+          "source_id": "s-2f771ee8b1a9e9e7",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2644.pdf",
+          "sha256": "2f771ee8b1a9e9e7106bbbddcba7976567f97461a01795887d540659a452b631",
+          "package_path": "docs/doc_2644.pdf"
+        },
+        {
+          "source_id": "s-517b10829faef7ac",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2645.pdf",
+          "sha256": "517b10829faef7ace909ac4d339aa1059b6d3957d1b644d2174b75f83ec0adfc",
+          "package_path": "docs/doc_2645.pdf"
+        },
+        {
+          "source_id": "s-72532b322c0d6636",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2646.pdf",
+          "sha256": "72532b322c0d6636d2685c967b6edf62e341fde68ab194ed46b4686f4c006239",
+          "package_path": "docs/doc_2646.pdf"
+        },
+        {
+          "source_id": "s-68d2985b84dbb14b",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2647.pdf",
+          "sha256": "68d2985b84dbb14b4b8dcef4506347df970e43200fde281d393dd690e6320162",
+          "package_path": "docs/doc_2647.pdf"
+        },
+        {
+          "source_id": "s-cb01affaf9da2665",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2648.pdf",
+          "sha256": "cb01affaf9da2665a24b52fe1fe4fb410082194d5adbd09f656c8a880cae3141",
+          "package_path": "docs/doc_2648.pdf"
+        },
+        {
+          "source_id": "s-4a261b425a8616df",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2649.pdf",
+          "sha256": "4a261b425a8616dfc8c547d1241c1c7fadd91e6e11fa8ff8a6429d488642047d",
+          "package_path": "docs/doc_2649.pdf"
+        },
+        {
+          "source_id": "s-fe7efb5cabc99fdf",
+          "path": "raw/25a0ac692a9396c2/docs/doc_2650.pdf",
+          "sha256": "fe7efb5cabc99fdf72d65c5a3e3fbbdff21885edf3db7faaca4a628a9a87b751",
+          "package_path": "docs/doc_2650.pdf"
+        }
+      ],
+      "embedded_photo_data_preserved": true
+    },
+    {
+      "source_id": "s-ae56824c2a76a384",
+      "filename": "گزارش_کل_پیمانکاران_1405-08-23_تا_1405-08-28.xls",
+      "path": "raw/ae56824c2a76a384/source.xls",
+      "sha256": "ae56824c2a76a3844c7dd25fd626e06d7da2683215bf4e77f7db0f63cda2407e",
+      "format": "html",
+      "period_start": "1405-08-23",
+      "period_end": "1405-08-28",
+      "calendar": "jalali",
+      "status": "received_not_frozen"
+    }
+  ]
+}

@@ -1,0 +1,1964 @@
+[
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انجام فعالیت در طبقه همکف به دلیل تداخل جبهه کاری با مسیر دسترسی پیمانکار ثانویه.(باز کردن لامل های نصب شده برای مسیر دسترسی)",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "مورد مطروحه صرفاً دو دهنه کرتین‌وال جنوب می‌باشد که با هماهنگی مشاور و کارفرما جهت جابه‌جایی هواساز به داخل طبقه باز گردیده است.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "قرارداشتن آکس Fتا E در وضعیت HOLD امکان ادامه و تکمیل عملیات اجرایی در محدوده های مذکور فراهم نمی باشد.(عدم ابلاغ دستور کار)",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "امکان فعالیت بر روی اسکای‌لایت کشاورزی وجود دارد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم دسترسی به ساختمان کشاورزی از سمت غرب.",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری انجام شده و می بایست نسبت هماهنگی دسترسی اقدام گردد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1481 وجود معارضات و موانع اجرایی اجرایی در مسیر نصب شیشه های اسکای لایت طبقه اول در اضلاع شمالی و جنوبی.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "پیگیری های لازم در حال انجام است. پیمانکار می‌بایست نسبت به هماهنگی جهت انتقال شیشه اقدام نماید. همچنین تعداد نفرات پایین پیمانکار منجر به بروز اختلال در روند پیشرفت شده است.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان فعالیت در طبقه همکف ضلع جنوب و همچنین دپوی مصالح پیمانکار ثانویه",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "مورد تأیید نمی باشد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب ستون در جبهه کلمپ به مقدار 33 مترمربع به دلیل اجرای آسانسور و پله برقی.",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیمانکار می بایست نسبت به فعالیت بر روی بخش های باقیمانده کلمپ و تکمیل و تحویل سازه و نصب شیشه اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عطف به نامه 1467 تا زمان کف سازی امکان نصب درب های اتوماتیک طبقه همکف کتابخانه وجود ندارد.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "امکان نصب درب وجود داشته و مورد مطروحه مانع نصب نمی باشد",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 7
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "با عنایت به اتمام نصب سمنت برد تراز سقف همکف و رنگ آمیزی آنها، در بارندگی های اخیر متاسفانه با توجه به عدم اتصال لوله های آب باران، به پنل های نصب شده و زیرسازی و رنگ آن آسیب وارد شده است.مطابق عکس",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 8
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "کانکس های انبار و آبدارخانه آذر79 همچنان جمع آوری نگردیده است و همچنین داربست محدوده مذکور نصب نگردیده است.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "پیمانکار می بایست تمرکز فعالیت را بر روی محدوده ای که کانکس ها جمع اوری شده گذاشته و فعالیت در این بخش آغاز گردد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 9
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "به دلیل دپوی گسترده مصالح پیمانکار ثانویه در محدوده مذکور(مطابق عکس ) محل مناسبی برای نگهداری شیشه ها جهت نصب در روزهای آتی فراهم نمی باشد.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "هماهنگی جهت استفاده از جرثقیل انجام گردید و پیمانکار از حضور و همکاری خودداری نمود",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 10
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 0,
+    "date": "1405-08-23",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انتقال و نصب شیشه کلمپ غرب کشاورزیمطابق عکس)",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "حجم زیادی از شیشه ها پای کار می باشد. هماهنگی جهت انتقال نیز انجام گردیده است.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 0,
+      "table_index": 2,
+      "row_index": 11
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "مشکل در دپو مناسب و تخلیه مصالح در دو سمت خیابان مجاور پروژه به علل اجرای عملیات کف سازی پیاده ر اه توسط شرکت نگرش در یک سمت و و اجرای عملیات ایزوگام توسط شرکت پایبست بر روی کانال انرژی در سوی دیگر.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "به علت تخلیه در همان جبهه عنوان شده مورد تأیید نمی‌باشد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 1,
+      "table_index": 4,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی ستون های همکف در محل تداخل با ژنراتور و آلیماک شرکت سیوان",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری های لازم در این خصوص انجام گردیده است. لازم است پیمانکار فعالیت های خود را معطوف به تکمیل بخش قابل فعالیت در این جبهه و همچنین سایر جبهه ها و تحویل آن نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 1,
+      "table_index": 4,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنل بتنی شرق همکف به دلیل عدم برچیدن لوله های رایزر تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری‌ها در حال انجام می‌باشد. پیمانکار می‌بایست نسبت به تکمیل بخش موجود اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 1,
+      "table_index": 4,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "اجرای عملیات نصب زیرسازی سازه بتنی در قسمت میانی ضلع غربی، به دلیل تداخل با دیتیل راهپله میانی مربوط به شرکت پتروفوالد پارس در محدوده مذکور، در شرایط فعلی امکانپذیر نمیباشد. همچنین، با توجه به جمع آوری و باز شدن داربستهای مورد استفاده این پیمانکار و عدم وجود دسترسی مناسب و ایمن به محل کار، امکان ادامه عملیات اجرایی در این بخش فراهم نیست",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "جبهه مذکور از مدت‌ها قبل قابل فعالیت بوده و عدم فعالیت و تکمیل تاکنون به دلیل نبود نیروی کافی و متریال می‌باشد. پیمانکار نسبت به فعالیت در بخش های قابل اجرا اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 1,
+      "table_index": 4,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای آجری و بتنی ضلع شمال به دلیل تداخل گوشواره‌های کف طبقه دوم با فن‌کویل‌های نصب‌شده در طبقه اول، در محل ستون‌های بتنی و آجری",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "پیمانکار می‌بایست قبل از بروز این مورد نسبت به نصب اقدام می‌نمود.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 1,
+      "table_index": 4,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 1,
+    "date": "1405-08-23",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنلهای ستونهای بتنی در ضلع جنوب و همچنین شرق پروژه در طبقه همکف به دلیل عدم تأمین و نبود بکاستراکچر مربوطه",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری لازم در حال انجام می باشد. پیمانکار می بایست نسبت به تکمیل بخش های قابل اجرا و افزایش نیرو اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 1,
+      "table_index": 4,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انجام فعالیت در طبقه همکف به دلیل تداخل جبهه کاری با مسیر دسترسی پیمانکار ثانویه.(باز کردن لامل های نصب شده برای مسیر دسترسی)",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "مورد مطروحه صرفاً دو دهنه کرتین‌وال جنوب می‌باشد که با هماهنگی مشاور و کارفرما جهت جابه‌جایی هواساز به داخل طبقه باز گردیده است.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "قرارداشتن آکس Fتا E در وضعیت HOLD امکان ادامه و تکمیل عملیات اجرایی در محدوده های مذکور فراهم نمی باشد.(عدم ابلاغ دستور کار)",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "امکان فعالیت بر روی اسکای‌لایت کشاورزی وجود دارد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم دسترسی به ساختمان کشاورزی از سمت غرب.",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری انجام شده و می بایست نسبت هماهنگی دسترسی اقدام گردد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1481 وجود معارضات و موانع اجرایی اجرایی در مسیر نصب شیشه های اسکای لایت طبقه اول در اضلاع شمالی و جنوبی.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "پیگیری های لازم در حال انجام است. پیمانکار می‌بایست نسبت به هماهنگی جهت انتقال شیشه اقدام نماید. همچنین تعداد نفرات پایین پیمانکار منجر به بروز اختلال در روند پیشرفت شده است.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان فعالیت در طبقه همکف ضلع جنوب و همچنین دپوی مصالح پیمانکار ثانویه",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "مورد تأیید نمی باشد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب ستون در جبهه کلمپ به مقدار 33 مترمربع به دلیل اجرای آسانسور و پله برقی.",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیمانکار می بایست نسبت به فعالیت بر روی بخش های باقیمانده کلمپ و تکمیل و تحویل سازه و نصب شیشه اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عطف به نامه 1467 تا زمان کف سازی امکان نصب درب های اتوماتیک طبقه همکف کتابخانه وجود ندارد.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "امکان نصب درب وجود داشته و مورد مطروحه مانع نصب نمی باشد",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 7
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "با عنایت به اتمام نصب سمنت برد تراز سقف همکف و رنگ آمیزی آنها، در بارندگی های اخیر متاسفانه با توجه به عدم اتصال لوله های آب باران، به پنل های نصب شده و زیرسازی و رنگ آن آسیب وارد شده است.مطابق عکس",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 8
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "کانکس های انبار و آبدارخانه آذر79 همچنان جمع آوری نگردیده است و همچنین داربست محدوده مذکور نصب نگردیده است.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "پیمانکار می بایست تمرکز فعالیت را بر روی محدوده ای که کانکس ها جمع اوری شده گذاشته و فعالیت در این بخش آغاز گردد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 9
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "به دلیل دپوی گسترده مصالح پیمانکار ثانویه در محدوده مذکور(مطابق عکس ) محل مناسبی برای نگهداری شیشه ها جهت نصب در روزهای آتی فراهم نمی باشد.",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": "هماهنگی جهت استفاده از جرثقیل انجام گردید و پیمانکار از حضور و همکاری خودداری نمود",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 10
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم وجود پروفایل های بازشو شیشه های نما (جهت آتش نشانی)",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 11
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 2,
+    "date": "1405-08-24",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انتقال و نصب شیشه کلمپ غرب کشاورزیمطابق عکس)",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "حجم زیادی از شیشه ها پای کار می باشد. هماهنگی جهت انتقال نیز انجام گردیده است.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 2,
+      "table_index": 2,
+      "row_index": 12
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "مشکل در دپو مناسب و تخلیه مصالح در دو سمت خیابان مجاور پروژه به علل اجرای عملیات کف سازی پیاده ر اه توسط شرکت نگرش در یک سمت و و اجرای عملیات ایزوگام توسط شرکت پایبست بر روی کانال انرژی در سوی دیگر.",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "به علت تخلیه در همان جبهه عنوان شده مورد تأیید نمی‌باشد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 3,
+      "table_index": 2,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی ستون های همکف در محل تداخل با ژنراتور و آلیماک شرکت سیوان",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری های لازم در این خصوص انجام گردیده است. لازم است پیمانکار فعالیت های خود را معطوف به تکمیل بخش قابل فعالیت در این جبهه و همچنین سایر جبهه ها و تحویل آن نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 3,
+      "table_index": 2,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنل بتنی شرق همکف به دلیل عدم برچیدن لوله های رایزر تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری‌ها در حال انجام می‌باشد. پیمانکار می‌بایست نسبت به تکمیل بخش موجود اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 3,
+      "table_index": 2,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "اجرای عملیات نصب زیرسازی سازه بتنی در قسمت میانی ضلع غربی، به دلیل تداخل با دیتیل راهپله میانی مربوط به شرکت پتروفوالد پارس در محدوده مذکور، در شرایط فعلی امکانپذیر نمیباشد. همچنین، با توجه به جمع آوری و باز شدن داربستهای مورد استفاده این پیمانکار و عدم وجود دسترسی مناسب و ایمن به محل کار، امکان ادامه عملیات اجرایی در این بخش فراهم نیست",
+    "priority": "🟡 متوسط",
+    "source_status": "❌ رد شده",
+    "supervision_response": "جبهه مذکور از مدت‌ها قبل قابل فعالیت بوده و عدم فعالیت و تکمیل تاکنون به دلیل نبود نیروی کافی و متریال می‌باشد. پیمانکار نسبت به فعالیت در بخش های قابل اجرا اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 3,
+      "table_index": 2,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای آجری و بتنی در ضلع شمال واقع در آکس B به دلیل وجود معارض تاسیساتی به واسطه عبور لوله تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "با پیگیری های انجام شده موضوع مذکور در تاریخ 19 ابان ماه برطرف گردیده، عدم فعالیت در این جبهه به دلیل کمبود نیرو بوده و ادعاهای این چنینی کاملا نادرست می باشد.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 3,
+      "table_index": 2,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 3,
+    "date": "1405-08-24",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنلهای ستونهای بتنی در ضلع جنوب و همچنین شرق پروژه در طبقه همکف به دلیل عدم تأمین و نبود بکاستراکچر مربوطه",
+    "priority": "🟡 متوسط",
+    "source_status": "⚙️ در بررسی",
+    "supervision_response": "پیگیری لازم در حال انجام می باشد. پیمانکار می بایست نسبت به تکمیل بخش های قابل اجرا و افزایش نیرو اقدام نماید.",
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 3,
+      "table_index": 2,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انجام فعالیت در طبقه همکف به دلیل تداخل جبهه کاری با مسیر دسترسی پیمانکار ثانویه.(باز کردن لامل های نصب شده برای مسیر دسترسی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "قرارداشتن آکس Fتا E در وضعیت HOLD امکان ادامه و تکمیل عملیات اجرایی در محدوده های مذکور فراهم نمی باشد.(عدم ابلاغ دستور کار)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم دسترسی به ساختمان کشاورزی از سمت غرب.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1481 وجود معارضات و موانع اجرایی اجرایی در مسیر نصب شیشه های اسکای لایت طبقه اول در اضلاع شمالی و جنوبی.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان فعالیت در طبقه همکف ضلع جنوب و همچنین دپوی مصالح پیمانکار ثانویه",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب ستون در جبهه کلمپ به مقدار 33 مترمربع به دلیل اجرای آسانسور و پله برقی.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عطف به نامه 1467 تا زمان کف سازی امکان نصب درب های اتوماتیک طبقه همکف کتابخانه وجود ندارد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 7
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "با عنایت به اتمام نصب سمنت برد تراز سقف همکف و رنگ آمیزی آنها، در بارندگی های اخیر متاسفانه با توجه به عدم اتصال لوله های آب باران، به پنل های نصب شده و زیرسازی و رنگ آن آسیب وارد شده است.مطابق عکس",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 8
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "کانکس های انبار و آبدارخانه آذر79 همچنان جمع آوری نگردیده است و همچنین داربست محدوده مذکور نصب نگردیده است.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 9
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "به دلیل دپوی گسترده مصالح پیمانکار ثانویه در محدوده مذکور(مطابق عکس ) محل مناسبی برای نگهداری شیشه ها جهت نصب در روزهای آتی فراهم نمی باشد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 10
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم وجود پروفایل های بازشو شیشه های نما (جهت آتش نشانی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 11
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انتقال و نصب شیشه کلمپ غرب کشاورزیمطابق عکس)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 12
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم جمع آوری داربست (معارض نصب شیشه های همکف کشاورزی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 13
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "تعیین تکلیف نشدن دیتیل فلاشینگ سمنت برد سقف همکف",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 14
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 4,
+    "date": "1405-08-25",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب فلاشینگ اسکای لایت کتابخانه ضلع جنوبی (معارض با کانال تاسیسات)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 4,
+      "table_index": 2,
+      "row_index": 15
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "مشکل در دپو مناسب و تخلیه مصالح در دو سمت خیابان مجاور پروژه به علل اجرای عملیات کف سازی پیاده ر اه توسط شرکت نگرش در یک سمت و و اجرای عملیات ایزوگام توسط شرکت پایبست بر روی کانال انرژی در سوی دیگر.",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 5,
+      "table_index": 4,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی ستون های همکف در محل تداخل با ژنراتور و آلیماک شرکت سیوان",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 5,
+      "table_index": 4,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنل بتنی شرق همکف به دلیل عدم برچیدن لوله های رایزر تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 5,
+      "table_index": 4,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای بتنی آکس های 8 و 11 واقع در ضلع غرب میانی به دلیل تداخل با استراکچر پله",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 5,
+      "table_index": 4,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای آجری و بتنی در ضلع شمال واقع در آکس B به دلیل وجود معارض تاسیساتی به واسطه عبور لوله تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 5,
+      "table_index": 4,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 5,
+    "date": "1405-08-25",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنلهای ستونهای بتنی در ضلع جنوب و همچنین شرق پروژه در طبقه همکف به دلیل عدم تأمین و نبود بکاستراکچر مربوطه",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 5,
+      "table_index": 4,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انجام فعالیت در طبقه همکف به دلیل تداخل جبهه کاری با مسیر دسترسی پیمانکار ثانویه.(باز کردن لامل های نصب شده برای مسیر دسترسی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "قرارداشتن آکس Fتا E در وضعیت HOLD امکان ادامه و تکمیل عملیات اجرایی در محدوده های مذکور فراهم نمی باشد.(عدم ابلاغ دستور کار)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم دسترسی به ساختمان کشاورزی از سمت غرب.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1481 وجود معارضات و موانع اجرایی اجرایی در مسیر نصب شیشه های اسکای لایت طبقه اول در اضلاع شمالی و جنوبی.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان فعالیت در طبقه همکف ضلع جنوب و همچنین دپوی مصالح پیمانکار ثانویه",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب ستون در جبهه کلمپ به مقدار 33 مترمربع به دلیل اجرای آسانسور و پله برقی.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عطف به نامه 1467 تا زمان کف سازی امکان نصب درب های اتوماتیک طبقه همکف کتابخانه وجود ندارد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 7
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "با عنایت به اتمام نصب سمنت برد تراز سقف همکف و رنگ آمیزی آنها، در بارندگی های اخیر متاسفانه با توجه به عدم اتصال لوله های آب باران، به پنل های نصب شده و زیرسازی و رنگ آن آسیب وارد شده است.مطابق عکس",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 8
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "کانکس های انبار و آبدارخانه آذر79 همچنان جمع آوری نگردیده است و همچنین داربست محدوده مذکور نصب نگردیده است.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 9
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "به دلیل دپوی گسترده مصالح پیمانکار ثانویه در محدوده مذکور(مطابق عکس ) محل مناسبی برای نگهداری شیشه ها جهت نصب در روزهای آتی فراهم نمی باشد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 10
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم وجود پروفایل های بازشو شیشه های نما (جهت آتش نشانی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 11
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انتقال و نصب شیشه کلمپ غرب کشاورزی",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 12
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم جمع آوری داربست (معارض نصب شیشه های همکف کشاورزی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 13
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "تعیین تکلیف نشدن دیتیل فلاشینگ سمنت برد سقف همکف",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 14
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 6,
+    "date": "1405-08-26",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب فلاشینگ اسکای لایت کتابخانه ضلع جنوبی (معارض با کانال تاسیسات)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 6,
+      "table_index": 2,
+      "row_index": 15
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "مشکل در دپو مناسب و تخلیه مصالح در دو سمت خیابان مجاور پروژه به علل اجرای عملیات کف سازی پیاده ر اه توسط شرکت نگرش در یک سمت و و اجرای عملیات ایزوگام توسط شرکت پایبست بر روی کانال انرژی در سوی دیگر.",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 7,
+      "table_index": 3,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی ستون های همکف در محل تداخل با ژنراتور و آلیماک شرکت سیوان",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 7,
+      "table_index": 3,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنل بتنی شرق همکف به دلیل عدم برچیدن لوله های رایزر تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 7,
+      "table_index": 3,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای بتنی آکس های 8 و 11 واقع در ضلع غرب میانی به دلیل تداخل با استراکچر پله",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 7,
+      "table_index": 3,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای آجری و بتنی در ضلع شمال واقع در آکس B به دلیل وجود معارض تاسیساتی به واسطه عبور لوله تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 7,
+      "table_index": 3,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 7,
+    "date": "1405-08-26",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنلهای ستونهای بتنی در ضلع جنوب و همچنین شرق پروژه در طبقه همکف به دلیل عدم تأمین و نبود بکاستراکچر مربوطه",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 7,
+      "table_index": 3,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انجام فعالیت در طبقه همکف به دلیل تداخل جبهه کاری با مسیر دسترسی پیمانکار ثانویه.(باز کردن لامل های نصب شده برای مسیر دسترسی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "قرارداشتن آکس Fتا E در وضعیت HOLD امکان ادامه و تکمیل عملیات اجرایی در محدوده های مذکور فراهم نمی باشد.(عدم ابلاغ دستور کار)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم دسترسی به ساختمان کشاورزی از سمت غرب.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1481 وجود معارضات و موانع اجرایی اجرایی در مسیر نصب شیشه های اسکای لایت طبقه اول در اضلاع شمالی و جنوبی.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان فعالیت در طبقه همکف ضلع جنوب و همچنین دپوی مصالح پیمانکار ثانویه",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب ستون در جبهه کلمپ به مقدار 33 مترمربع به دلیل اجرای آسانسور و پله برقی.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عطف به نامه 1467 تا زمان کف سازی امکان نصب درب های اتوماتیک طبقه همکف کتابخانه وجود ندارد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 7
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "با عنایت به اتمام نصب سمنت برد تراز سقف همکف و رنگ آمیزی آنها، در بارندگی های اخیر متاسفانه با توجه به عدم اتصال لوله های آب باران، به پنل های نصب شده و زیرسازی و رنگ آن آسیب وارد شده است.مطابق عکس",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 8
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "کانکس های انبار و آبدارخانه آذر79 همچنان جمع آوری نگردیده است و همچنین داربست محدوده مذکور نصب نگردیده است.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 9
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "به دلیل دپوی گسترده مصالح پیمانکار ثانویه در محدوده مذکور(مطابق عکس ) محل مناسبی برای نگهداری شیشه ها جهت نصب در روزهای آتی فراهم نمی باشد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 10
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم وجود پروفایل های بازشو شیشه های نما (جهت آتش نشانی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 11
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان انتقال و نصب شیشه کلمپ غرب کشاورزی مطابق عکس",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 12
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم جمع آوری داربست (معارض نصب شیشه های همکف کشاورزی)",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 13
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "تعیین تکلیف نشدن دیتیل فلاشینگ سمنت برد سقف همکف",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 14
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب فلاشینگ اسکای لایت کتابخانه ضلع جنوبی و شمالی (معارض با کانال تاسیسات) مطابق عکس",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 15
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "با توجه به وجود تخته های شرکت آذر79 در محدوده راه پله ضلع شمال ساختمان کتابخانه امکان فعالیت وجود نداد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 16
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه شماره 1543 جهت نصب پنل های بتنی قطعات فلزی به تعداد 190 جفت با کد های PLA و PLB (پاشنه) و همچنین تعداد 820 عدد واشر مدرس به کد pL2 مورد نیاز این شرکت می باشد که در انبار کارفرما موجود نمی باشد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 17
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1497- 14050805 مورخ 05/08/1405در خصوص کسری پنل های بتنی همچنان تعداد 80 عدد پنل بتنی نوع Lib-Flat01 وLib-Flat02 در کارگاه موجود نمی باشد.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 18
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "پیرو نامه 1537 با توجه به معارض داربست های موجود در محدوده اسکای لایت طبقه اول تاکنون اصلاحات مد نظر این شرکت انجام نپذیرفته است.",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 19
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 8,
+    "date": "1405-08-27",
+    "contractor_id": "aran-sij",
+    "building_id": "p-7c21",
+    "claim": "عدم امکان نصب پرشر وفیس کپ شیشه طبقه دوم به علت عدم اجرای صحیح واش بتن آذر ۷۹",
+    "priority": "⚫ بحرانی",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 8,
+      "table_index": 3,
+      "row_index": 20
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "مشکل در دپو مناسب و تخلیه مصالح در دو سمت خیابان مجاور پروژه به علل اجرای عملیات کف سازی پیاده ر اه توسط شرکت نگرش در یک سمت و و اجرای عملیات ایزوگام توسط شرکت پایبست بر روی کانال انرژی در سوی دیگر.",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 9,
+      "table_index": 2,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی ستون های همکف در محل تداخل با ژنراتور و آلیماک شرکت سیوان",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 9,
+      "table_index": 2,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنل بتنی شرق همکف به دلیل عدم برچیدن لوله های رایزر تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 9,
+      "table_index": 2,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای بتنی آکس های 8 و 11 واقع در ضلع غرب میانی به دلیل تداخل با استراکچر پله",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 9,
+      "table_index": 2,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای آجری و بتنی در ضلع شمال واقع در آکس B به دلیل وجود معارض تاسیساتی به واسطه عبور لوله تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 9,
+      "table_index": 2,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 9,
+    "date": "1405-08-27",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنلهای ستونهای بتنی در ضلع جنوب و همچنین شرق پروژه به دلیل عدم تأمین و نبود بکاستراکچر مربوطه",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 9,
+      "table_index": 2,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "مشکل در دپو مناسب و تخلیه مصالح در دو سمت خیابان مجاور پروژه به علل اجرای عملیات کف سازی پیاده ر اه توسط شرکت نگرش در یک سمت و و اجرای عملیات ایزوگام توسط شرکت پایبست بر روی کانال انرژی در سوی دیگر.",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 10,
+      "table_index": 3,
+      "row_index": 1
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی ستون های همکف در محل تداخل با ژنراتور و آلیماک شرکت سیوان",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 10,
+      "table_index": 3,
+      "row_index": 2
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنل بتنی شرق همکف به دلیل عدم برچیدن لوله های رایزر تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 10,
+      "table_index": 3,
+      "row_index": 3
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای بتنی آکس های 8 و 11 واقع در ضلع غرب میانی به دلیل تداخل با استراکچر پله",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 10,
+      "table_index": 3,
+      "row_index": 4
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب زیرسازی آهنی نمای آجری و بتنی در ضلع شمال واقع در آکس B به دلیل وجود معارض تاسیساتی به واسطه عبور لوله تاسیسات",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 10,
+      "table_index": 3,
+      "row_index": 5
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  },
+  {
+    "record_index": 10,
+    "date": "1405-08-28",
+    "contractor_id": "adram",
+    "building_id": "p-a963",
+    "claim": "عدم امکان نصب پنلهای ستونهای بتنی در ضلع جنوب و همچنین شرق پروژه به دلیل عدم تأمین و نبود بکاستراکچر مربوطه",
+    "priority": "🟡 متوسط",
+    "source_status": "🔓 باز",
+    "supervision_response": null,
+    "source_id": "s-25a0ac692a9396c2",
+    "source_locator": {
+      "daily_block_index": 10,
+      "table_index": 3,
+      "row_index": 6
+    },
+    "status": "extracted",
+    "attributed_delay_days": null
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "status": "intake_checks_passed_not_output_QA",
+  "daily_report_count": 11,
+  "adram_daily_count": 6,
+  "aran_daily_count": 5,
+  "source_and_linked_attachment_hashes_verified": 23,
+  "observation_count": 287,
+  "unique_observation_ids": 287,
+  "duplicate_material_description_attachment_rows_collapsed": true,
+  "material_events": 21,
+  "explicit_delivery_dates_all_on_or_before_25_Aban": true,
+  "aran_glass_separation_m2": {
+    "p-a963|skylight": 208.0,
+    "p-7c21|clamp": 42.0,
+    "p-7c21|skylight": 6.0
+  },
+  "unresolved_shared_building_activity_count": 1,
+  "main_actionplan_execution_candidate": 122,
+  "candidate_msp_increases": 6,
+  "native_changes_applied": false,
+  "production_freeze": false
+}

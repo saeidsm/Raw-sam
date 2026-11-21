@@ -1,0 +1,85 @@
+{
+  "status": "candidate_not_frozen",
+  "calendar": "jalali",
+  "daily_window": [
+    "1405-08-23",
+    "1405-08-28"
+  ],
+  "observed_adram_days": 6,
+  "daily": [
+    {
+      "date": "1405-08-23",
+      "glass_m2": 28.88,
+      "concrete_panel_m2": 48.1,
+      "effective_executive": 56.0,
+      "effective_office": 7.0,
+      "effective_total": 63.0,
+      "review_state": "Approved"
+    },
+    {
+      "date": "1405-08-24",
+      "glass_m2": 40.3,
+      "concrete_panel_m2": 29.34,
+      "effective_executive": 57.0,
+      "effective_office": 6.0,
+      "effective_total": 63.0,
+      "review_state": "Approved"
+    },
+    {
+      "date": "1405-08-25",
+      "glass_m2": 39.24,
+      "concrete_panel_m2": 19.04,
+      "effective_executive": 75.0,
+      "effective_office": 7.0,
+      "effective_total": 82.0,
+      "review_state": "Submitted"
+    },
+    {
+      "date": "1405-08-26",
+      "glass_m2": 52.08,
+      "concrete_panel_m2": 8.11,
+      "effective_executive": 55.0,
+      "effective_office": 7.0,
+      "effective_total": 62.0,
+      "review_state": "Submitted"
+    },
+    {
+      "date": "1405-08-27",
+      "glass_m2": 36.24,
+      "concrete_panel_m2": 15.41,
+      "effective_executive": 52.0,
+      "effective_office": 7.0,
+      "effective_total": 59.0,
+      "review_state": "Submitted"
+    },
+    {
+      "date": "1405-08-28",
+      "glass_m2": 48.99,
+      "concrete_panel_m2": 31.85,
+      "effective_executive": 50.0,
+      "effective_office": 8.0,
+      "effective_total": 58.0,
+      "review_state": "Submitted"
+    }
+  ],
+  "daily_glass_m2": 245.73,
+  "daily_concrete_panel_m2": 151.85,
+  "glass_mean_per_observed_day_m2": 40.955,
+  "panel_mean_per_observed_day_m2": 25.308333333333334,
+  "published_snapshot_delta": {
+    "baseline_report_date": "1405-08-25",
+    "current_report_date": "1405-08-30",
+    "glass_m2": 262.24,
+    "panel_m2": 169.4
+  },
+  "non_addition_rule": "Daily quantities and cumulative differences overlap; never add them. Calendar dates in report names alone do not establish the same measurement window.",
+  "missing_days_not_zero": [
+    "1405-08-29",
+    "1405-08-30"
+  ],
+  "date_gap_25_to_30_is_not_a_verified_5_day_production_window": true,
+  "weekly_forecast": null,
+  "confirmed_adram_approximate_week_mean": 60,
+  "weekly_mean_source": "d-0830-adram-workforce",
+  "daily_means_do_not_override_weekly_confirmation": true
+}
