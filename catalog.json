@@ -345,12 +345,13 @@
     "data/shared/1405-08-25/e2/decisions.json",
     "data/shared/1405-08-25/e3/decisions.json",
     "data/shared/1405-08-25/e4/decisions.json",
-    "data/shared/1405-08-30/intake1/decisions.json"
+    "data/shared/1405-08-30/intake1/decisions.json",
+    "data/shared/1405-08-30/intake2/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
   ],
-  "current_scope_policy": "data/shared/1405-08-25/r3/scope-policy.json",
+  "current_scope_policy": "data/shared/1405-08-30/intake2/scope-policy.json",
   "management_report_qa": "data/p-a963/1405-08-25/r4/qa.json",
   "native_chart_guide": "skills/management-reports/references/native-charts.fa.md",
   "supplemental_sources": [
@@ -363,5 +364,5 @@
   "cloud_runtime_status": "docs/cloud-runtime-status.json",
   "execution_modes": "docs/execution-modes.fa.md",
   "portability_validation": "validation/portability/2026-11-20/summary.json",
-  "current_intake": "data/shared/1405-08-30/intake1/intake.json"
+  "current_intake": "data/shared/1405-08-30/intake2/intake.json"
 }

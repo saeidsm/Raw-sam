@@ -1,0 +1,47 @@
+[
+  {
+    "decision_id": "d-0830-brick-sequence",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "basis": "user_confirmation",
+    "question": "Scope of notified release and next installation",
+    "answer_fa": "پنل‌های تک‌رنگ قبلی بخش آجری باید صورت‌جلسه مشترک شوند، بازگشایی و به انبار منتقل شوند؛ پنل‌های دورنگ به‌زودی می‌رسند و باید نصب شوند.",
+    "prior_notice_date": null,
+    "dismantling_volume_basis_m2": 600,
+    "new_installation_volume_basis_m2": 5078,
+    "new_panel_arrival": "expected_soon_not_received_evidence",
+    "actual_arrival_date": null,
+    "production_quantity": null,
+    "receipt_quantity": null,
+    "retained_context": "Replacement package from prior user decisions, separate from ordinary concrete panels and main retained substrate scope."
+  },
+  {
+    "decision_id": "d-0830-brick-delay-prerequisites",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "basis": "user_reporting_rule",
+    "answer_fa": "تا زمانی که زیرسازی فلزی و ستون‌های پنل آجری تکمیل نشده‌اند، پیمانکار در تأخیر است، حتی اگر پنل آجری هولد باشد؛ پس از تکمیل این پیش‌نیازها، مدت انتظار پنل به تأخیر پیمانکار افزوده نمی‌شود.",
+    "front_specific": true,
+    "prerequisites": [
+      "metal_substructure_complete",
+      "brick_panel_columns_complete"
+    ],
+    "completion_date_basis": "later documented completion date of the two required prerequisites on the same front",
+    "prior_delay_erased": false,
+    "not_a_basis_for": [
+      "global delay reset",
+      "deleting MSP tasks",
+      "changing schedule baseline",
+      "crediting unperformed new-panel installation",
+      "suspending separately instructed dismantling or warehouse transfer"
+    ],
+    "duration_days": null,
+    "needs_evidence": [
+      "planned prerequisite finish for each front",
+      "actual completed prerequisite dates",
+      "hold and notice dates",
+      "new panel receipt and installation-readiness dates",
+      "project working calendar when counting days"
+    ]
+  }
+]

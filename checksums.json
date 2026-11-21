@@ -1,6 +1,6 @@
 {
   ".gitignore": "e974356edef761e48813c386d3c082fe897eb51d697269f8ae5e2977ce1f5be6",
-  "catalog.json": "ee5a97513124f101d0b4e502dfc7f3154bcfdb188fec50f2c36f3e1726ffab82",
+  "catalog.json": "5d6b83e3288362c03829aa4e99ef1da5db2c38018ee28c29e4a11dc66042474e",
   "README.md": "863853b31493a4d8ee59346a71f98e63fc72102bc96293049f672011379892dd",
   "SKILL.md": "823a22812f5549ab3fff8ded4045f4021db6e5644c6ad62bf1f0cc888ce1581d",
   "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
@@ -197,9 +197,9 @@
   "raw/f38b75ea21b14c10/source.pdf": "f38b75ea21b14c10bfed4f5485c72d49c3cefa18664e54e8b57866ba09f073c7",
   "raw/fb4bd5f75487dfe4/source.xlsx": "fb4bd5f75487dfe45f62bd63457fa1571e84c670bc1bd13ddd0b5efea3decd23",
   "raw/fb6389156b2d6dca/source.pdf": "fb6389156b2d6dcae498ddef0295317fe5f5064e5b6526164619d286058bfb76",
-  "skills/employer-excel/SKILL.md": "8a9e61d6b77aacb11c44ae008a9a4a780de34e5eb952337a38426ff7148d707a",
-  "skills/management-reports/SKILL.md": "9df66519b0509a41c1ac18919ac34197dcc660d65318ac433d78c7e17a6dbe4d",
-  "skills/msp-update/SKILL.md": "3dcc69db7fc6182339b369569a639dee60d2d673e38fc76ab82fff3118c96aef",
+  "skills/employer-excel/SKILL.md": "fea5253887baecda0e9eaf77dbebf5c09090554613ef03a2646b39b11a68763a",
+  "skills/management-reports/SKILL.md": "9c09358f136bf301df5885ff541088ef570c0a3040bcd6d7fafa636e86918ca9",
+  "skills/msp-update/SKILL.md": "76e1dbc32cc4c0160cd6bc26eb455ec47a70a481108f3a37cbee8c2d17489a48",
   "skills/management-reports/references/native-charts.fa.md": "9cf35c84f7723558ae6861e25f7a4fa7e621cc2d4fbee7cd0ec0a1eb4cccf2e0",
   "skills/msp-update/scripts/preflight.py": "a79665badd6908c7bef62dec6c30269bb4dcaf65c07027ace12d3e8f3c157deb",
   "templates/p-7c21/1405-08-25/r2/reference.pptx": "99a7139a57c5a7b38fa0fa610ff2072c331803133ecb0d07bc48de4134d0a053",
@@ -255,5 +255,9 @@
   "raw/d147864efd0ae314/source.xlsx": "d147864efd0ae3144ae091a4c397e52d4990016a6ea44c78f33af62b3859a778",
   "data/shared/1405-08-30/intake1/decisions.json": "ba4bc4b0f804d6027e98ff1074d02d52f75c832465e4cd9bbb939b0d3de277d5",
   "data/shared/1405-08-30/intake1/intake.json": "fbbdccdc1a8eece980de9995dc8bf48701aecefbc0d6a5e1b779b25d45cad3f5",
-  "data/shared/1405-08-30/intake1/confirmed-quantity-comparison.json": "bcb4aa5e935b1e34a4784a330d2bc35e2fbc8792361df0b0b8c8a2dbfbacbf6d"
+  "data/shared/1405-08-30/intake1/confirmed-quantity-comparison.json": "bcb4aa5e935b1e34a4784a330d2bc35e2fbc8792361df0b0b8c8a2dbfbacbf6d",
+  "data/shared/1405-08-30/intake2/decisions.json": "aa98c7028af858742fd27e9728344654bfc83241db9b854773e4b59828099753",
+  "data/shared/1405-08-30/intake2/intake.json": "944bc16d02cd7895052318648b47ca84fcfbf3ce4f1d08b391e39e13450e4404",
+  "data/shared/1405-08-30/intake2/scope-policy.json": "3c009befb9f7115547a5fa782c34ccff984acac928194505e4927f13e4f25283",
+  "skills/management-reports/references/brick-delay.fa.md": "aff82e14f5711e0ce077182b2a7069708f6e9ff6a64682807bd911a1c012dba6"
 }

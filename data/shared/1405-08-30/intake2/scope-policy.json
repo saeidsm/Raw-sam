@@ -1,0 +1,41 @@
+{
+  "policy_id": "scope-0830-brick-release-and-delay",
+  "project_id": "p-a963",
+  "effective_period": "1405-08-30",
+  "decision_refs": [
+    "d-0830-brick-sequence",
+    "d-0830-brick-delay-prerequisites"
+  ],
+  "supersedes": "data/shared/1405-08-25/r3/scope-policy.json",
+  "excluded_from_adram_execution_uids": [
+    753,
+    754,
+    751,
+    749,
+    755,
+    756,
+    752,
+    750
+  ],
+  "cement_board_transfer": "All four faces, substrate and panel execution to Sivan; unchanged.",
+  "agriculture_clamp": "Aran Sij; outside Adram branch; unchanged.",
+  "ordinary_concrete_and_retained_substrates": "Active; do not include them in brick replacement disposal/hold.",
+  "brick_disposition": {
+    "old_single_color_panels": "Joint quantity record, dismantle, transfer to employer warehouse; instruction already issued; no longer waiting for release.",
+    "new_two_tone_panels": "Install under the separate replacement/additional package when available; expected soon is not a dated receipt.",
+    "old_earned_to_new_installation": "Never transfer historical installed yellow-panel quantities to new two-tone progress.",
+    "main_vs_added_scope": "Keep the separately agreed replacement package separate from main retained progress, crew and time. Reconcile scope labels and numerator/denominator before release; do not restore obsolete yellow-panel installation as current active work solely because the hold was lifted."
+  },
+  "delay_rule": {
+    "per_front": true,
+    "prerequisites_incomplete": "Do not excuse outstanding metal substrate or columns because panels were held. Assess against their own planned dates and recorded performance.",
+    "prerequisites_complete_waiting_panels": "Stop additional contractor-attributed waiting delay from documented completion of both prerequisites for this front. Preserve previously accrued delay.",
+    "independent_instructed_work": "Joint measurement, dismantling and warehouse transfer retain their own instruction and status. No exemption inferred for unperformed instructed work.",
+    "installation_ready": "Panel installation delay is assessed separately once delivery and readiness are documented; do not assume indefinite exemption or assign an invented start date.",
+    "delay_days": null,
+    "percent_vs_days": "Schedule variance percentage is not a count of delay days."
+  },
+  "native_baseline_change_authorized": false,
+  "calculation_status": "policy_confirmed_dates_and_daily_evidence_pending",
+  "native_mpp_or_employer_workbook_reissued": false
+}

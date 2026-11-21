@@ -1,0 +1,41 @@
+{
+  "intake_id": "intake-1405-08-30-2",
+  "status": "awaiting_daily_reports_and_remaining_finance_material_inputs",
+  "report_date": "1405-08-30",
+  "calendar": "jalali",
+  "report_date_confirmed": true,
+  "sources_received_ref": "data/shared/1405-09-02/intake1/sources.json",
+  "previous_intake_ref": "data/shared/1405-08-30/intake1/intake.json",
+  "decisions": "data/shared/1405-08-30/intake2/decisions.json",
+  "source_date_issue": "Received workbook is labelled2 Azar; verify actual work dates against upcoming daily logs and exclude post30 Aban progress. Candidate2 Azar workforce/progress calculations are not confirmed30 Aban outputs.",
+  "unresolved_previous_questions": [
+    "q-0902-finance-scope: finance and material receipt changes not yet answered"
+  ],
+  "workforce_actual": {
+    "mean": 60,
+    "unit": "person",
+    "approximate": true,
+    "source": "d-0830-adram-workforce"
+  },
+  "rate_basis": "Prior published report date25 Aban to30 Aban spans5 calendar days. Do not call cumulative difference a7-day weekly rate; reconcile daily coverage before forecasts.",
+  "requested_outputs": [
+    "Adram editable management PPTX",
+    "native MSP update for supported reported scope",
+    "employer XLSX update for supported reported scope"
+  ],
+  "aran_progress_workbook": "not_yet_received",
+  "freeze_approved": false,
+  "production_outputs_updated": false,
+  "resolved_questions": [
+    "q-0902-date-workforce",
+    "q-0902-activity-differences",
+    "q-0902-prior-period",
+    "brick_release_scope_and_sequence"
+  ],
+  "new_pending_question": null,
+  "active_progress_status": "Reconcile replacement package separately; removed prior blanket brick-held assumption. Await daily evidence and front completion dates before final outputs.",
+  "quantity_comparison": "data/shared/1405-08-30/intake1/confirmed-quantity-comparison.json",
+  "prior_decisions": "data/shared/1405-08-30/intake1/decisions.json",
+  "scope_policy": "data/shared/1405-08-30/intake2/scope-policy.json",
+  "delay_days_status": "Not calculated; actual prerequisite-completion and instruction dates must be supported."
+}
