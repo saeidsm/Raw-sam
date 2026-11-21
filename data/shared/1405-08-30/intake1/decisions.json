@@ -1,0 +1,31 @@
+[
+  {
+    "decision_id": "d-0830-report-date",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "question": "Confirm report date",
+    "answer": "Report for30 Aban1405, not2 Azar",
+    "report_date": "1405-08-30",
+    "calendar": "jalali",
+    "basis": "user_confirmation"
+  },
+  {
+    "decision_id": "d-0830-adram-workforce",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "metric": "executive_weekly_mean",
+    "value": 60,
+    "unit": "person",
+    "approximate": true,
+    "basis": "user_confirmation",
+    "constraint": "Approximate weekly mean; do not fabricate daily roster or exact person-days."
+  },
+  {
+    "decision_id": "d-0830-shared-outputs",
+    "decision_date": "2026-11-21",
+    "effective_period": "1405-08-30",
+    "answer": "User will supply daily Excel reports for shared use in management report, native MSP update and employer workbook.",
+    "status": "awaiting_daily_reports",
+    "basis": "user_instruction"
+  }
+]
