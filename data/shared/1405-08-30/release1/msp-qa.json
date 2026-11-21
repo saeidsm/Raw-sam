@@ -1,0 +1,742 @@
+{
+  "status": "native_save_reopen_verified",
+  "freeze_id": "f-1405-08-30-performance-01",
+  "tasks": 1104,
+  "changed_leaf_uids": [
+    728,
+    1508,
+    588,
+    674,
+    634,
+    770
+  ],
+  "leaf_changes": 6,
+  "task_property_changes": [
+    {
+      "uid": 9,
+      "field": "Number3",
+      "before": "14.5624076683539",
+      "after": "14.6809712234369"
+    },
+    {
+      "uid": 9,
+      "field": "Number4",
+      "before": "87.1830592620219",
+      "after": "87.6622666991533"
+    },
+    {
+      "uid": 9,
+      "field": "Number5",
+      "before": "2912662.21",
+      "after": "2928671.85"
+    },
+    {
+      "uid": 9,
+      "field": "Number7",
+      "before": "70.6372337954658",
+      "after": "71.2123448451458"
+    },
+    {
+      "uid": 470,
+      "field": "Number3",
+      "before": "4.62621980136464",
+      "after": "4.74478335644758"
+    },
+    {
+      "uid": 470,
+      "field": "Number4",
+      "before": "73.706561716078",
+      "after": "75.5823668013699"
+    },
+    {
+      "uid": 470,
+      "field": "Number5",
+      "before": "629071.5",
+      "after": "645081.14"
+    },
+    {
+      "uid": 470,
+      "field": "Number7",
+      "before": "55.4900231035279",
+      "after": "56.912154928922"
+    },
+    {
+      "uid": 474,
+      "field": "Number3",
+      "before": "1.70485084145587",
+      "after": "1.73774653899429"
+    },
+    {
+      "uid": 474,
+      "field": "Number4",
+      "before": "88.5635396039604",
+      "after": "89.2126485148515"
+    },
+    {
+      "uid": 474,
+      "field": "Number5",
+      "before": "35779.67",
+      "after": "36041.91"
+    },
+    {
+      "uid": 474,
+      "field": "Number7",
+      "before": "83.6078093048017",
+      "after": "85.2210514371117"
+    },
+    {
+      "uid": 722,
+      "field": "Number3",
+      "before": "0.140972920486957",
+      "after": "0.173868618025378"
+    },
+    {
+      "uid": 722,
+      "field": "Number4",
+      "before": "89.6950849514563",
+      "after": "97.651395631068"
+    },
+    {
+      "uid": 722,
+      "field": "Number5",
+      "before": "2956.35",
+      "after": "3218.59"
+    },
+    {
+      "uid": 722,
+      "field": "Number7",
+      "before": "76.7914111855459",
+      "after": "94.7105053433628"
+    },
+    {
+      "uid": 728,
+      "field": "Number3",
+      "before": "9.07567006141221E-03",
+      "after": "4.19713675998329E-02"
+    },
+    {
+      "uid": 728,
+      "field": "Number4",
+      "before": "17.5606796116505",
+      "after": "81.2111650485437"
+    },
+    {
+      "uid": 728,
+      "field": "Number5",
+      "before": "72.35",
+      "after": "334.59"
+    },
+    {
+      "uid": 728,
+      "field": "Number7",
+      "before": "17.5606796116505",
+      "after": "81.2111650485437"
+    },
+    {
+      "uid": 1508,
+      "field": "Number3",
+      "before": "0.752648619870343",
+      "after": "0.791154850642185"
+    },
+    {
+      "uid": 1508,
+      "field": "Number4",
+      "before": "70.5608856088561",
+      "after": "74.1708487084871"
+    },
+    {
+      "uid": 1508,
+      "field": "Number5",
+      "before": "191220",
+      "after": "201003"
+    },
+    {
+      "uid": 1508,
+      "field": "Number7",
+      "before": "70.5608856088561",
+      "after": "74.1708487084871"
+    },
+    {
+      "uid": 583,
+      "field": "Number3",
+      "before": "0.808861098930761",
+      "after": "0.81574851255245"
+    },
+    {
+      "uid": 583,
+      "field": "Number4",
+      "before": "94.8994339395399",
+      "after": "95.8177767072143"
+    },
+    {
+      "uid": 583,
+      "field": "Number5",
+      "before": "252144",
+      "after": "254584"
+    },
+    {
+      "uid": 583,
+      "field": "Number7",
+      "before": "63.0202277337383",
+      "after": "63.5568419626943"
+    },
+    {
+      "uid": 584,
+      "field": "Number3",
+      "before": "0.170943347921919",
+      "after": "0.177830761543608"
+    },
+    {
+      "uid": 584,
+      "field": "Number4",
+      "before": "90.3233504355089",
+      "after": "93.9625343037824"
+    },
+    {
+      "uid": 584,
+      "field": "Number5",
+      "before": "60560",
+      "after": "63000"
+    },
+    {
+      "uid": 584,
+      "field": "Number7",
+      "before": "58.6593154034196",
+      "after": "61.0227356409417"
+    },
+    {
+      "uid": 588,
+      "field": "Number3",
+      "before": "0.170943347921919",
+      "after": "0.177830761543608"
+    },
+    {
+      "uid": 588,
+      "field": "Number4",
+      "before": "91.7575757575758",
+      "after": "95.4545454545455"
+    },
+    {
+      "uid": 588,
+      "field": "Number5",
+      "before": "60560",
+      "after": "63000"
+    },
+    {
+      "uid": 588,
+      "field": "Number7",
+      "before": "91.7575757575758",
+      "after": "95.4545454545455"
+    },
+    {
+      "uid": 632,
+      "field": "Number3",
+      "before": "1.1001133460188",
+      "after": "1.14038755916979"
+    },
+    {
+      "uid": 632,
+      "field": "Number4",
+      "before": "65.4534352221961",
+      "after": "67.1108064895368"
+    },
+    {
+      "uid": 632,
+      "field": "Number5",
+      "before": "139186.73",
+      "after": "142711.13"
+    },
+    {
+      "uid": 632,
+      "field": "Number7",
+      "before": "48.989309696072",
+      "after": "50.7827666229962"
+    },
+    {
+      "uid": 669,
+      "field": "Number3",
+      "before": "4.40022247761169E-02",
+      "after": "5.82749377541689E-02"
+    },
+    {
+      "uid": 669,
+      "field": "Number4",
+      "before": "0.309597523219814",
+      "after": "8.69969040247678"
+    },
+    {
+      "uid": 669,
+      "field": "Number5",
+      "before": "50",
+      "after": "1405"
+    },
+    {
+      "uid": 669,
+      "field": "Number7",
+      "before": "13.77252380953",
+      "after": "18.2398270042426"
+    },
+    {
+      "uid": 674,
+      "field": "Number3",
+      "before": "0",
+      "after": "1.42727129780519E-02"
+    },
+    {
+      "uid": 674,
+      "field": "Number4",
+      "before": "0",
+      "after": "9.03333333333333"
+    },
+    {
+      "uid": 674,
+      "field": "Number5",
+      "before": "0",
+      "after": "1355"
+    },
+    {
+      "uid": 674,
+      "field": "Number7",
+      "before": "0",
+      "after": "9.03333333333333"
+    },
+    {
+      "uid": 633,
+      "field": "Number3",
+      "before": "0.66336429458882",
+      "after": "0.689365794761753"
+    },
+    {
+      "uid": 633,
+      "field": "Number4",
+      "before": "92.2441948555321",
+      "after": "94.1552237491191"
+    },
+    {
+      "uid": 633,
+      "field": "Number5",
+      "before": "104715.61",
+      "after": "106885.01"
+    },
+    {
+      "uid": 633,
+      "field": "Number7",
+      "before": "74.2902685709918",
+      "after": "77.202180542819"
+    },
+    {
+      "uid": 634,
+      "field": "Number3",
+      "before": "0.423115819324723",
+      "after": "0.43132273645027"
+    },
+    {
+      "uid": 634,
+      "field": "Number4",
+      "before": "93.7381818181818",
+      "after": "95.5563636363636"
+    },
+    {
+      "uid": 634,
+      "field": "Number5",
+      "before": "103112",
+      "after": "105112"
+    },
+    {
+      "uid": 634,
+      "field": "Number7",
+      "before": "93.7381818181818",
+      "after": "95.5563636363636"
+    },
+    {
+      "uid": 770,
+      "field": "Number3",
+      "before": "0.136937404996473",
+      "after": "0.154731988043858"
+    },
+    {
+      "uid": 770,
+      "field": "Number4",
+      "before": "40.4847826086956",
+      "after": "45.745652173913"
+    },
+    {
+      "uid": 770,
+      "field": "Number5",
+      "before": "1303.61",
+      "after": "1473.01"
+    },
+    {
+      "uid": 770,
+      "field": "Number7",
+      "before": "40.4847826086956",
+      "after": "45.745652173913"
+    }
+  ],
+  "source_unchanged": true,
+  "status_date_and_number_formulas_and_views_and_tables_preserved": true,
+  "xml_components_preserved": {
+    "ExtendedAttributes": true,
+    "Calendars": true,
+    "Resources": true,
+    "Assignments": true,
+    "OutlineCodes": true
+  },
+  "xml_differences": [
+    {
+      "path": "/Project/LastSaved",
+      "before": "2026-11-21T02:51:00",
+      "after": "2026-11-21T02:53:00"
+    },
+    {
+      "path": "/Project/Name",
+      "before": "before.xml",
+      "after": "after.xml"
+    },
+    {
+      "path": "/Project/Tasks/Task[0]/ExtendedAttribute[188743769]/Value",
+      "before": "88.8",
+      "after": "88.92"
+    },
+    {
+      "path": "/Project/Tasks/Task[0]/ExtendedAttribute[188743770]/Value",
+      "before": "88.23",
+      "after": "88.52"
+    },
+    {
+      "path": "/Project/Tasks/Task[0]/ExtendedAttribute[188743771]/Value",
+      "before": "4882125.5",
+      "after": "4898135.14"
+    },
+    {
+      "path": "/Project/Tasks/Task[0]/ExtendedAttribute[188743983]/Value",
+      "before": "88.8",
+      "after": "88.92"
+    },
+    {
+      "path": "/Project/Tasks/Task[1508]/ExtendedAttribute[188743769]/Value",
+      "before": "0.75",
+      "after": "0.79"
+    },
+    {
+      "path": "/Project/Tasks/Task[1508]/ExtendedAttribute[188743770]/Value",
+      "before": "70.56",
+      "after": "74.17"
+    },
+    {
+      "path": "/Project/Tasks/Task[1508]/ExtendedAttribute[188743771]/Value",
+      "before": "191220",
+      "after": "201003"
+    },
+    {
+      "path": "/Project/Tasks/Task[1508]/ExtendedAttribute[188743983]/Value",
+      "before": "70.56",
+      "after": "74.17"
+    },
+    {
+      "path": "/Project/Tasks/Task[470]/ExtendedAttribute[188743769]/Value",
+      "before": "4.63",
+      "after": "4.74"
+    },
+    {
+      "path": "/Project/Tasks/Task[470]/ExtendedAttribute[188743770]/Value",
+      "before": "73.71",
+      "after": "75.58"
+    },
+    {
+      "path": "/Project/Tasks/Task[470]/ExtendedAttribute[188743771]/Value",
+      "before": "629071.5",
+      "after": "645081.14"
+    },
+    {
+      "path": "/Project/Tasks/Task[470]/ExtendedAttribute[188743983]/Value",
+      "before": "55.49",
+      "after": "56.91"
+    },
+    {
+      "path": "/Project/Tasks/Task[474]/ExtendedAttribute[188743769]/Value",
+      "before": "1.7",
+      "after": "1.74"
+    },
+    {
+      "path": "/Project/Tasks/Task[474]/ExtendedAttribute[188743770]/Value",
+      "before": "88.56",
+      "after": "89.21"
+    },
+    {
+      "path": "/Project/Tasks/Task[474]/ExtendedAttribute[188743771]/Value",
+      "before": "35779.67",
+      "after": "36041.91"
+    },
+    {
+      "path": "/Project/Tasks/Task[474]/ExtendedAttribute[188743983]/Value",
+      "before": "83.61",
+      "after": "85.22"
+    },
+    {
+      "path": "/Project/Tasks/Task[583]/ExtendedAttribute[188743769]/Value",
+      "before": "0.81",
+      "after": "0.82"
+    },
+    {
+      "path": "/Project/Tasks/Task[583]/ExtendedAttribute[188743770]/Value",
+      "before": "94.9",
+      "after": "95.82"
+    },
+    {
+      "path": "/Project/Tasks/Task[583]/ExtendedAttribute[188743771]/Value",
+      "before": "252144",
+      "after": "254584"
+    },
+    {
+      "path": "/Project/Tasks/Task[583]/ExtendedAttribute[188743983]/Value",
+      "before": "63.02",
+      "after": "63.56"
+    },
+    {
+      "path": "/Project/Tasks/Task[584]/ExtendedAttribute[188743769]/Value",
+      "before": "0.17",
+      "after": "0.18"
+    },
+    {
+      "path": "/Project/Tasks/Task[584]/ExtendedAttribute[188743770]/Value",
+      "before": "90.32",
+      "after": "93.96"
+    },
+    {
+      "path": "/Project/Tasks/Task[584]/ExtendedAttribute[188743771]/Value",
+      "before": "60560",
+      "after": "63000"
+    },
+    {
+      "path": "/Project/Tasks/Task[584]/ExtendedAttribute[188743983]/Value",
+      "before": "58.66",
+      "after": "61.02"
+    },
+    {
+      "path": "/Project/Tasks/Task[588]/ExtendedAttribute[188743769]/Value",
+      "before": "0.17",
+      "after": "0.18"
+    },
+    {
+      "path": "/Project/Tasks/Task[588]/ExtendedAttribute[188743770]/Value",
+      "before": "91.76",
+      "after": "95.45"
+    },
+    {
+      "path": "/Project/Tasks/Task[588]/ExtendedAttribute[188743771]/Value",
+      "before": "60560",
+      "after": "63000"
+    },
+    {
+      "path": "/Project/Tasks/Task[588]/ExtendedAttribute[188743983]/Value",
+      "before": "91.76",
+      "after": "95.45"
+    },
+    {
+      "path": "/Project/Tasks/Task[632]/ExtendedAttribute[188743769]/Value",
+      "before": "1.1",
+      "after": "1.14"
+    },
+    {
+      "path": "/Project/Tasks/Task[632]/ExtendedAttribute[188743770]/Value",
+      "before": "65.45",
+      "after": "67.11"
+    },
+    {
+      "path": "/Project/Tasks/Task[632]/ExtendedAttribute[188743771]/Value",
+      "before": "139186.73",
+      "after": "142711.13"
+    },
+    {
+      "path": "/Project/Tasks/Task[632]/ExtendedAttribute[188743983]/Value",
+      "before": "48.99",
+      "after": "50.78"
+    },
+    {
+      "path": "/Project/Tasks/Task[633]/ExtendedAttribute[188743769]/Value",
+      "before": "0.66",
+      "after": "0.69"
+    },
+    {
+      "path": "/Project/Tasks/Task[633]/ExtendedAttribute[188743770]/Value",
+      "before": "92.24",
+      "after": "94.16"
+    },
+    {
+      "path": "/Project/Tasks/Task[633]/ExtendedAttribute[188743771]/Value",
+      "before": "104715.61",
+      "after": "106885.01"
+    },
+    {
+      "path": "/Project/Tasks/Task[633]/ExtendedAttribute[188743983]/Value",
+      "before": "74.29",
+      "after": "77.2"
+    },
+    {
+      "path": "/Project/Tasks/Task[634]/ExtendedAttribute[188743769]/Value",
+      "before": "0.42",
+      "after": "0.43"
+    },
+    {
+      "path": "/Project/Tasks/Task[634]/ExtendedAttribute[188743770]/Value",
+      "before": "93.74",
+      "after": "95.56"
+    },
+    {
+      "path": "/Project/Tasks/Task[634]/ExtendedAttribute[188743771]/Value",
+      "before": "103112",
+      "after": "105112"
+    },
+    {
+      "path": "/Project/Tasks/Task[634]/ExtendedAttribute[188743983]/Value",
+      "before": "93.74",
+      "after": "95.56"
+    },
+    {
+      "path": "/Project/Tasks/Task[669]/ExtendedAttribute[188743769]/Value",
+      "before": "0.04",
+      "after": "0.06"
+    },
+    {
+      "path": "/Project/Tasks/Task[669]/ExtendedAttribute[188743770]/Value",
+      "before": "0.31",
+      "after": "8.7"
+    },
+    {
+      "path": "/Project/Tasks/Task[669]/ExtendedAttribute[188743771]/Value",
+      "before": "50",
+      "after": "1405"
+    },
+    {
+      "path": "/Project/Tasks/Task[669]/ExtendedAttribute[188743983]/Value",
+      "before": "13.77",
+      "after": "18.24"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743769]/FieldID",
+      "before": null,
+      "after": "188743769"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743769]/Value",
+      "before": null,
+      "after": "0.01"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743770]/FieldID",
+      "before": null,
+      "after": "188743770"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743770]/Value",
+      "before": null,
+      "after": "9.03"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743771]/FieldID",
+      "before": null,
+      "after": "188743771"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743771]/Value",
+      "before": null,
+      "after": "1355"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743983]/FieldID",
+      "before": null,
+      "after": "188743983"
+    },
+    {
+      "path": "/Project/Tasks/Task[674]/ExtendedAttribute[188743983]/Value",
+      "before": null,
+      "after": "9.03"
+    },
+    {
+      "path": "/Project/Tasks/Task[722]/ExtendedAttribute[188743769]/Value",
+      "before": "0.14",
+      "after": "0.17"
+    },
+    {
+      "path": "/Project/Tasks/Task[722]/ExtendedAttribute[188743770]/Value",
+      "before": "89.7",
+      "after": "97.65"
+    },
+    {
+      "path": "/Project/Tasks/Task[722]/ExtendedAttribute[188743771]/Value",
+      "before": "2956.35",
+      "after": "3218.59"
+    },
+    {
+      "path": "/Project/Tasks/Task[722]/ExtendedAttribute[188743983]/Value",
+      "before": "76.79",
+      "after": "94.71"
+    },
+    {
+      "path": "/Project/Tasks/Task[728]/ExtendedAttribute[188743769]/Value",
+      "before": "0.01",
+      "after": "0.04"
+    },
+    {
+      "path": "/Project/Tasks/Task[728]/ExtendedAttribute[188743770]/Value",
+      "before": "17.56",
+      "after": "81.21"
+    },
+    {
+      "path": "/Project/Tasks/Task[728]/ExtendedAttribute[188743771]/Value",
+      "before": "72.35",
+      "after": "334.59"
+    },
+    {
+      "path": "/Project/Tasks/Task[728]/ExtendedAttribute[188743983]/Value",
+      "before": "17.56",
+      "after": "81.21"
+    },
+    {
+      "path": "/Project/Tasks/Task[770]/ExtendedAttribute[188743769]/Value",
+      "before": "0.14",
+      "after": "0.15"
+    },
+    {
+      "path": "/Project/Tasks/Task[770]/ExtendedAttribute[188743770]/Value",
+      "before": "40.48",
+      "after": "45.75"
+    },
+    {
+      "path": "/Project/Tasks/Task[770]/ExtendedAttribute[188743771]/Value",
+      "before": "1303.61",
+      "after": "1473.01"
+    },
+    {
+      "path": "/Project/Tasks/Task[770]/ExtendedAttribute[188743983]/Value",
+      "before": "40.48",
+      "after": "45.75"
+    },
+    {
+      "path": "/Project/Tasks/Task[9]/ExtendedAttribute[188743769]/Value",
+      "before": "14.56",
+      "after": "14.68"
+    },
+    {
+      "path": "/Project/Tasks/Task[9]/ExtendedAttribute[188743770]/Value",
+      "before": "87.18",
+      "after": "87.66"
+    },
+    {
+      "path": "/Project/Tasks/Task[9]/ExtendedAttribute[188743771]/Value",
+      "before": "2912662.21",
+      "after": "2928671.85"
+    },
+    {
+      "path": "/Project/Tasks/Task[9]/ExtendedAttribute[188743983]/Value",
+      "before": "70.64",
+      "after": "71.21"
+    }
+  ],
+  "output_sha256": "b8866c414459acb8103027f33b9d78be8d857a76933517fc19c99f8787cc7430",
+  "unreported_contracts_retained": true,
+  "quantities_only_not_schedule_rebase": true,
+  "validated_against_freeze_id": "f-1405-08-30-performance-02",
+  "finalization_note": "Quantity plan identical to performance01; successor adds material receipt-date reconciliation used only by employer workbook."
+}

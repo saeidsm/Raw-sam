@@ -1,0 +1,33 @@
+{
+  "period": "1405-08-30",
+  "calendar": "jalali",
+  "freeze": "data/shared/1405-08-30/release1/freeze.json",
+  "outputs": [
+    {
+      "module_id": "msp",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/msp/1405-08-30/r1/برنامه جامع نما 1405.08.30 - به‌روزرسانی آدرم.mpp",
+      "sha256": "b8866c414459acb8103027f33b9d78be8d857a76933517fc19c99f8787cc7430",
+      "validated_against_freeze_id": "f-1405-08-30-performance-02",
+      "status": "scoped_release",
+      "financial_update_included": false
+    },
+    {
+      "module_id": "employer",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/employer/1405-08-30/r1/گزارش کارفرما 1405.08.30.xlsx",
+      "sha256": "03c456870baf04295a0f727de3385a36a02279d04a4aba18187b0e73d771ebb9",
+      "validated_against_freeze_id": "f-1405-08-30-performance-02",
+      "status": "scoped_release",
+      "financial_update_included": false
+    }
+  ],
+  "management_pptx_status": "not_reissued_waiting_new_financial_input",
+  "requested_finance_update_status": "user_will_supply_new_finance",
+  "unreported_aran_progress": "Native cumulative progress retained at25 Aban; daily measured activities23-27 Aban presented separately.",
+  "msp_qa": "data/shared/1405-08-30/release1/msp-qa.json",
+  "employer_qa": "data/shared/1405-08-30/release1/employer-qa.json",
+  "current_intake": "data/shared/1405-08-30/intake4/intake.json"
+}

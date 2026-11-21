@@ -1,0 +1,16 @@
+[
+  {
+    "decision_id": "d-0830-accept-daily-coverage",
+    "effective_period": "1405-08-30",
+    "question_ref": "q-0830-daily-coverage",
+    "answer": "با همین داده‌ها ادامه بده",
+    "effect": "Proceed using supplied daily coverage plus30 Aban field evidence and reconciled quantities. Do not invent29/30 attendance or replace approximate weekly60 with a partial-window mean."
+  },
+  {
+    "decision_id": "d-0830-new-finance-pending",
+    "effective_period": "1405-08-30",
+    "question_ref": "q-0830-financial-change",
+    "answer": "اطلاعات مالی جدید می‌دهم",
+    "effect": "Current financial update remains pending. Do not infer no change. Prepare independent performance, employer workbook and MSP work."
+  }
+]

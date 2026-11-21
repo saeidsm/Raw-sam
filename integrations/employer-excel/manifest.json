@@ -34,12 +34,13 @@
   "decision_updates": "data/shared/1405-08-25/h2/decisions.json",
   "correction_observations": "data/shared/1405-08-25/h2/corrections.json",
   "latest_intake": "data/shared/1405-08-25/e4/observations.json",
-  "current_review_qa": "data/shared/1405-08-25/e4/qa.json",
+  "current_review_qa": "data/shared/1405-08-30/release1/employer-qa.json",
   "current_open_questions": "data/shared/1405-08-25/e4/open-questions.json",
   "current_decision_updates": "data/shared/1405-08-25/e4/decisions.json",
-  "latest_output": "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx",
+  "latest_output": "outputs/employer/1405-08-30/r1/گزارش کارفرما 1405.08.30.xlsx",
   "execution_modes": "docs/execution-modes.fa.md",
   "portability_validation": "validation/portability/2026-11-20/excel.json",
   "legacy_sample_readiness": "archived_partial_with_formula_defects",
-  "portable_patch_script": "skills/employer-excel/scripts/patch_existing_cells.py"
+  "portable_patch_script": "skills/employer-excel/scripts/patch_existing_cells.py",
+  "latest_release_scope": "30 Aban scoped report with approved daily coverage; finance pending outside workbook."
 }

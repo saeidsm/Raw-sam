@@ -33,5 +33,8 @@
   "execution_modes": "docs/execution-modes.fa.md",
   "portability_validation": "validation/portability/2026-11-20/msp.json",
   "xml_roundtrip_release_accepted": false,
-  "portable_source_snapshot": "validation/portability/2026-11-20/msp-source-snapshot.json"
+  "portable_source_snapshot": "data/shared/1405-08-30/release1/msp-source-snapshot.json",
+  "latest_output": "outputs/msp/1405-08-30/r1/برنامه جامع نما 1405.08.30 - به‌روزرسانی آدرم.mpp",
+  "current_review_qa": "data/shared/1405-08-30/release1/msp-qa.json",
+  "latest_release_scope": "Six Adram leaf quantity increases; all other scopes retained."
 }

@@ -1,0 +1,103 @@
+{
+  "status": "native_numeric_structure_and_visual_checks_passed",
+  "formula_errors": 0,
+  "preservation": {
+    "1405-08-30": {
+      "charts": 0,
+      "images": 0,
+      "tables": 1,
+      "merges": 2
+    },
+    "موانع و مشکلات": {
+      "charts": 0,
+      "images": 0,
+      "tables": 0,
+      "merges": 2
+    },
+    "نیروی انسانی": {
+      "charts": 0,
+      "images": 0,
+      "tables": 0,
+      "merges": 8
+    },
+    "جدول خلاصه وضعیت پیشرفت ": {
+      "charts": 0,
+      "images": 2,
+      "tables": 0,
+      "merges": 47
+    },
+    "Sheet2": {
+      "charts": 0,
+      "images": 0,
+      "tables": 0,
+      "merges": 0
+    },
+    "نمودار خلاصه وضعیت پیشرفت": {
+      "charts": 6,
+      "images": 2,
+      "tables": 0,
+      "merges": 7
+    },
+    "جدول ورود زیرسازی": {
+      "charts": 0,
+      "images": 0,
+      "tables": 1,
+      "merges": 1
+    },
+    "جدول ورود شیشه‌ها": {
+      "charts": 1,
+      "images": 0,
+      "tables": 1,
+      "merges": 1
+    },
+    "جدول ورود پنل آجری": {
+      "charts": 1,
+      "images": 0,
+      "tables": 1,
+      "merges": 2
+    },
+    "جدول ورود پنل بتنی ": {
+      "charts": 1,
+      "images": 0,
+      "tables": 1,
+      "merges": 3
+    },
+    "جدول ورود زیرسازی بتن و آجر ": {
+      "charts": 1,
+      "images": 0,
+      "tables": 1,
+      "merges": 1
+    },
+    "ریز تحویل پنل این دوره": {
+      "charts": 0,
+      "images": 0,
+      "tables": 0,
+      "merges": 2
+    }
+  },
+  "rendered_pages": 10,
+  "source_unchanged": true,
+  "output_sha256": "03c456870baf04295a0f727de3385a36a02279d04a4aba18187b0e73d771ebb9",
+  "financial_data_current_update": "pending_user_not_in_this_workbook",
+  "current_receipts_unknown_not_zero": true,
+  "native_qa": {
+    "sheets": 12,
+    "formula_errors": 0,
+    "visual_fixes": "Removed prior56-piece note; scope note within print area; added instructed dismantling and prerequisite rule.",
+    "reopened": true,
+    "freeze_id": "f-1405-08-30-performance-01",
+    "charts": 11
+  },
+  "native_chart_count": 11,
+  "parsed_chart_count": 10,
+  "parsed_chart_note": "Read-only library enumerates10; native Excel verifies all11 before and after.",
+  "validated_against_freeze_id": "f-1405-08-30-performance-02",
+  "visual_review": "All10 rendered pages inspected; corrected prior56-piece note and extended obstacle print area to include all11 Adram items.",
+  "scope_limitations": [
+    "No new Aran cumulative progress workbook; native cumulative values retained at25 Aban. Daily physical activities shown separately.",
+    "Current financial data pending user; employer workbook has no updated financial block.",
+    "Material absence in a partial package is not a confirmed zero. Use asterisk in current receipt cells without complete-period evidence.",
+    "Adram steel receipts23-25 Aban arrived after last reporting dataset; add to dated cumulative ledger, not26-30 period receipts.",
+    "Aran historical material list datedMehr/Aban requires full document and prior-ledger reconciliation before cumulative reassignment; not included as new period deliveries."
+  ]
+}

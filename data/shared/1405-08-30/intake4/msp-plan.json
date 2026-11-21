@@ -1,0 +1,145 @@
+{
+  "status": "ready_for_fresh_native_preflight",
+  "sourceSha256": "22b2205343603cb931dada1b08817547aba57f3d165edad259b0e5126aa43826",
+  "snapshot_ref": "validation/portability/2026-11-20/msp-source-snapshot.json",
+  "freeze_id": "f-1405-08-30-performance-01",
+  "changes": [
+    {
+      "uid": 728,
+      "name": "                  پیاده‌سازی، حمل به طبقات، نصب و اجرای شیشه کرتین وال و رگلاژ و آب بندی و نظافت و تحویل نهایی نما - ویندووال داخلی",
+      "old": 72.35,
+      "new": 334.59,
+      "source_id": "s-d147864efd0ae314",
+      "source_locator": "آدرم!H189/J189",
+      "decision_override": "d-0830-higher-activity-values",
+      "physical_actual": 334.59,
+      "physical_total": 412,
+      "native_total": 412.0
+    },
+    {
+      "uid": 1508,
+      "name": "         حمل و نصب و تحویل آهن الات سازه تقویت بک آپ استراکچر",
+      "old": 191220.0,
+      "new": 201003.0,
+      "source_id": "s-d147864efd0ae314",
+      "source_locator": "آدرم!H190/J190",
+      "decision_override": null,
+      "physical_actual": 201003,
+      "physical_total": 271000,
+      "native_total": 271000.0
+    },
+    {
+      "uid": 588,
+      "name": "               پیاده سازی،حمل و نصب زیرسازی پنل آجری غرب",
+      "old": 60560.0,
+      "new": 63000.0,
+      "source_id": "s-d147864efd0ae314",
+      "source_locator": "آدرم!H202/J202",
+      "decision_override": null,
+      "physical_actual": 63000,
+      "physical_total": 66000,
+      "native_total": 66000.0
+    },
+    {
+      "uid": 674,
+      "name": "               پیاده سازی،حمل و نصب زیرسازی پنل بتنی شمال",
+      "old": 0.0,
+      "new": 1355.0,
+      "source_id": "s-d147864efd0ae314",
+      "source_locator": "آدرم!H207/J207",
+      "decision_override": null,
+      "physical_actual": 1355,
+      "physical_total": 15000,
+      "native_total": 15000.0
+    },
+    {
+      "uid": 634,
+      "name": "               پیاده سازی،حمل و نصب زیرسازی پنل بتنی غرب",
+      "old": 103112.0,
+      "new": 105112.0,
+      "source_id": "s-d147864efd0ae314",
+      "source_locator": "آدرم!H219/J219",
+      "decision_override": "d-0830-higher-activity-values",
+      "physical_actual": 105112,
+      "physical_total": 110000,
+      "native_total": 110000.0
+    },
+    {
+      "uid": 770,
+      "name": "               حمل و نصب پنل بتنی غرب",
+      "old": 1303.61,
+      "new": 1473.01,
+      "source_id": "s-d147864efd0ae314",
+      "source_locator": "آدرم!H220/J220",
+      "decision_override": null,
+      "physical_actual": 1473.01,
+      "physical_total": 3220,
+      "native_total": 3220.0
+    }
+  ],
+  "exceptions": [
+    {
+      "uid": 1308,
+      "reason": "Proposed decrease; preserve prior native quantity.",
+      "old": 15600.0,
+      "proposed": 0.0,
+      "source_row": 51
+    },
+    {
+      "uid": 1309,
+      "reason": "Proposed decrease; preserve prior native quantity.",
+      "old": 23115.0,
+      "proposed": 0.0,
+      "source_row": 52
+    },
+    {
+      "uid": 528,
+      "reason": "Proposed decrease; preserve prior native quantity.",
+      "old": 11020.0,
+      "proposed": 10425.0,
+      "source_row": 177
+    },
+    {
+      "uid": 753,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 754,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 751,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 749,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 755,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 756,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 752,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    },
+    {
+      "uid": 750,
+      "reason": "Transferred to Sivan; this Adram intake cannot update its current execution.",
+      "retained_native": 0.0
+    }
+  ],
+  "unreported_scope": "Aran and other contractors retained; daily activities are corroboration, not automatically added to cumulative values.",
+  "native_execution_performed": false
+}

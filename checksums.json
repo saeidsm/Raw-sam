@@ -1,6 +1,6 @@
 {
   ".gitignore": "e974356edef761e48813c386d3c082fe897eb51d697269f8ae5e2977ce1f5be6",
-  "catalog.json": "475c54e56f2413c9f27976d810d53f02426347e7e354be311dad7ebfccbe57ae",
+  "catalog.json": "a63b0bec938986079720d2d8c87f663a31821dea3035bd40525af8f81935600c",
   "README.md": "863853b31493a4d8ee59346a71f98e63fc72102bc96293049f672011379892dd",
   "SKILL.md": "823a22812f5549ab3fff8ded4045f4021db6e5644c6ad62bf1f0cc888ce1581d",
   "sources.json": "bd0f2ae6167c547aecbb7b47af013c4feb23f519733640f221b516813bed2db1",
@@ -70,8 +70,8 @@
   "data/shared/1405-08-25/r2/qa.json": "9d61f2f115ac28e70e006b98d3790c5c7d7d0ccca87d43d0cd7c3a549986eb9b",
   "data/shared/1405-08-25/r3/decisions.json": "6d6afb0e5657d47f967ccac4105716de00e120a1a0a4ec02ebe3fcedbc169412",
   "data/shared/1405-08-25/r3/scope-policy.json": "f33af4e3a624461fef5da4bb006d1a0597568494f98b6df39472973b8e48a51d",
-  "integrations/employer-excel/manifest.json": "a0512fdeb9e87427e8425bc9fb7e1e277674463f4f2ba53601eb9a0b387a0fb2",
-  "integrations/msp-update/manifest.json": "74de2adc8cdbb8eef896fe2066035cc2a16d179ad8d2f59193e072587422cfdf",
+  "integrations/employer-excel/manifest.json": "d7cc44081231fa1e36d16d96cb7505af6a9046e7a71af84bb2679d42a98a619b",
+  "integrations/msp-update/manifest.json": "7d7842b86fa2b8307d9b187dd8e40b660f94856102eb70f6fcfd61c3f6a60ca5",
   "integrations/msp-update/mappings.json": "d80f85c0744a8f8423ca49aae53f7d7f3e72a5e6f2c9d1d228996b85d19a92b8",
   "integrations/shared/h-f1a2d02b/identity-crosswalk.json": "aa32f8bf1179b9b418fc50cf43839170222f210a00f9ac8ae1f76f19c715b66b",
   "integrations/shared/h-f1a2d02b/package-integrity.json": "94dbedd93afd09f4bd20b6d574ba5d128ffd56ed09762bbf0c9602b35263cb72",
@@ -297,5 +297,18 @@
   "raw/25a0ac692a9396c2/docs/doc_2652.jpeg": "0e4a7181b8ca9df8ad0380367b268b3a755c580a52c2fa08d17c16e4db34074b",
   "raw/25a0ac692a9396c2/docs/doc_2654.jpeg": "7067c19fec2e5dc464ec13ec69038387db05662b855318059095f7b0953130e8",
   "raw/25a0ac692a9396c2/source.html": "25a0ac692a9396c2e16587da7cbb0a45cdcc7017c52b72516a2ccfd2528ca279",
-  "raw/ae56824c2a76a384/source.xls": "ae56824c2a76a3844c7dd25fd626e06d7da2683215bf4e77f7db0f63cda2407e"
+  "raw/ae56824c2a76a384/source.xls": "ae56824c2a76a3844c7dd25fd626e06d7da2683215bf4e77f7db0f63cda2407e",
+  "data/shared/1405-08-30/intake4/decisions.json": "2abfe2d71fed762d71e8244213d0316345f09268a29e6e1cc20bac6f56d77a20",
+  "data/shared/1405-08-30/intake4/freeze.json": "596a3bbcb703f147fb95c2caa6b5db026cef387dcfc275f61298249788557d72",
+  "data/shared/1405-08-30/intake4/intake.json": "97dfa6298dff89a531a92e22a771d0267f69c3ae0a4cf75271bb80fb240c959a",
+  "data/shared/1405-08-30/intake4/msp-plan.json": "2b43b5d76a9805c30ca0a5756efb8c10b8a3a2db992f55a1665f3297935a9010",
+  "data/shared/1405-08-30/release1/employer-input.json": "9a27970357b791f0029646ba42c6e34d9f270558c18ce783da00d2890d4f994a",
+  "data/shared/1405-08-30/release1/employer-qa.json": "f993b0fe7223345b762ccb3b5d4dbacb5b68a87fdab60d36650b76f0e25f13a1",
+  "data/shared/1405-08-30/release1/freeze.json": "f5823d25a6e44e037a9f97312111d5c84da6db5aa67c64d96863ea042986ea93",
+  "data/shared/1405-08-30/release1/material-correction.json": "009f7df290918566d121e8a4434b235083e6c6627163ab3c10a2a660d062a240",
+  "data/shared/1405-08-30/release1/msp-qa.json": "ad2b5d0eaaa6c2907de158e16118580eb1305dc97b7a600714695894d300449c",
+  "data/shared/1405-08-30/release1/msp-source-snapshot.json": "d373de58dec35eeebdb63b5c445c1f334bef7fc95e250e952d7b2dc95d4eb893",
+  "data/shared/1405-08-30/release1/release.json": "70e1d4b2a0e98127d0d84a3ffe4034e96028bdf2cfb45e335025fdf3fe432880",
+  "outputs/employer/1405-08-30/r1/گزارش کارفرما 1405.08.30.xlsx": "03c456870baf04295a0f727de3385a36a02279d04a4aba18187b0e73d771ebb9",
+  "outputs/msp/1405-08-30/r1/برنامه جامع نما 1405.08.30 - به‌روزرسانی آدرم.mpp": "b8866c414459acb8103027f33b9d78be8d857a76933517fc19c99f8787cc7430"
 }

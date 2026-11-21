@@ -193,6 +193,26 @@
       "revision": "r4",
       "path": "outputs/p-a963/1405-08-25/r4/آدرم_کشاورزی_1405-08-25-r4.pptx",
       "sha256": "cc229e079d154d5711ff2bd811b29ba1ec5a4afec8e4deb06e141215c1e6d4d5"
+    },
+    {
+      "module_id": "msp",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/msp/1405-08-30/r1/برنامه جامع نما 1405.08.30 - به‌روزرسانی آدرم.mpp",
+      "sha256": "b8866c414459acb8103027f33b9d78be8d857a76933517fc19c99f8787cc7430",
+      "validated_against_freeze_id": "f-1405-08-30-performance-02",
+      "status": "scoped_release",
+      "financial_update_included": false
+    },
+    {
+      "module_id": "employer",
+      "period": "1405-08-30",
+      "revision": "r1",
+      "path": "outputs/employer/1405-08-30/r1/گزارش کارفرما 1405.08.30.xlsx",
+      "sha256": "03c456870baf04295a0f727de3385a36a02279d04a4aba18187b0e73d771ebb9",
+      "validated_against_freeze_id": "f-1405-08-30-performance-02",
+      "status": "scoped_release",
+      "financial_update_included": false
     }
   ],
   "modules": {
@@ -205,7 +225,10 @@
       "skill": "skills/msp-update/SKILL.md",
       "manifest": "integrations/msp-update/manifest.json",
       "handoff_received": true,
-      "portable_source_snapshot": "validation/portability/2026-11-20/msp-source-snapshot.json"
+      "portable_source_snapshot": "data/shared/1405-08-30/release1/msp-source-snapshot.json",
+      "latest_output": "outputs/msp/1405-08-30/r1/برنامه جامع نما 1405.08.30 - به‌روزرسانی آدرم.mpp",
+      "latest_review_qa": "data/shared/1405-08-30/release1/msp-qa.json",
+      "latest_scope": "Six Adram leaf quantity increases; all other scopes retained."
     },
     "employer_excel": {
       "status": "partial",
@@ -213,10 +236,11 @@
       "manifest": "integrations/employer-excel/manifest.json",
       "handoff_received": true,
       "latest_intake": "data/shared/1405-08-25/e4/observations.json",
-      "latest_review_qa": "data/shared/1405-08-25/e4/qa.json",
+      "latest_review_qa": "data/shared/1405-08-30/release1/employer-qa.json",
       "current_open_questions": "data/shared/1405-08-25/e4/open-questions.json",
-      "latest_output": "outputs/employer/1405-08-25/r4/گزارش کارفرما 1405.08.25 - تکمیل متراژ پنل‌ها.xlsx",
-      "next_period_intake": "data/shared/1405-08-27/intake1/panel-receipts.json"
+      "latest_output": "outputs/employer/1405-08-30/r1/گزارش کارفرما 1405.08.30.xlsx",
+      "next_period_intake": "data/shared/1405-08-27/intake1/panel-receipts.json",
+      "latest_scope": "30 Aban scoped report with approved daily coverage; finance pending outside workbook."
     },
     "site_export": {
       "status": "partial",
@@ -346,7 +370,8 @@
     "data/shared/1405-08-25/e3/decisions.json",
     "data/shared/1405-08-25/e4/decisions.json",
     "data/shared/1405-08-30/intake1/decisions.json",
-    "data/shared/1405-08-30/intake2/decisions.json"
+    "data/shared/1405-08-30/intake2/decisions.json",
+    "data/shared/1405-08-30/intake4/decisions.json"
   ],
   "correction_observations": [
     "data/shared/1405-08-25/h2/corrections.json"
@@ -365,5 +390,6 @@
   "cloud_runtime_status": "docs/cloud-runtime-status.json",
   "execution_modes": "docs/execution-modes.fa.md",
   "portability_validation": "validation/portability/2026-11-20/summary.json",
-  "current_intake": "data/shared/1405-08-30/intake3/intake.json"
+  "current_intake": "data/shared/1405-08-30/intake4/intake.json",
+  "current_performance_release": "data/shared/1405-08-30/release1/release.json"
 }

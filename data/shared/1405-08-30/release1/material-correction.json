@@ -1,0 +1,14 @@
+{
+  "record_id": "corr-0830-steel15950-receipt-date",
+  "status": "verified",
+  "source_id": "s-7067c19fec2e5dc4",
+  "source_locator": "Weighbridge ticket image; both dates printed1405/08/24, net15950kg",
+  "reported_record_date": "1405-08-25",
+  "receipt_date": "1405-08-24",
+  "quantity": 15950,
+  "unit": "kg",
+  "building_id": "p-a963",
+  "contractor_id": "adram",
+  "supersedes": "daily-material-003 receipt date only",
+  "reason": "The daily log entry date and the actual dated receipt are distinct; both remain before the26-30 period."
+}
